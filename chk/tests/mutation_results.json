@@ -1,0 +1,145 @@
+[
+ {
+  "mutation": "no outward rounding (up1 = identity)",
+  "killed": true,
+  "failing_tests": [
+   "T1"
+  ],
+  "n_failures": 13
+ },
+ {
+  "mutation": "table error ignored",
+  "killed": true,
+  "failing_tests": [
+   "T2"
+  ],
+  "n_failures": 155
+ },
+ {
+  "mutation": "sine bound used beyond its range",
+  "killed": true,
+  "failing_tests": [
+   "T2"
+  ],
+  "n_failures": 899
+ },
+ {
+  "mutation": "modulus test without chord radius",
+  "killed": true,
+  "failing_tests": [
+   "T10",
+   "T4"
+  ],
+  "n_failures": 576
+ },
+ {
+  "mutation": "modulus test ignores parameter width",
+  "killed": true,
+  "failing_tests": [
+   "T10",
+   "T4"
+  ],
+  "n_failures": 478
+ },
+ {
+  "mutation": "mean-value test drops parameter derivatives",
+  "killed": true,
+  "failing_tests": [
+   "T10",
+   "T4"
+  ],
+  "n_failures": 488
+ },
+ {
+  "mutation": "Krawczyk drops the parameter term of F",
+  "killed": true,
+  "failing_tests": [
+   "T10",
+   "T11",
+   "T4"
+  ],
+  "n_failures": 4913
+ },
+ {
+  "mutation": "Krawczyk drops the parameter term of J",
+  "killed": false,
+  "failing_tests": [],
+  "n_failures": 0
+ },
+ {
+  "mutation": "Krawczyk uses the box radius without outward step",
+  "killed": true,
+  "failing_tests": [
+   "T10",
+   "T4"
+  ],
+  "n_failures": 48
+ },
+ {
+  "mutation": "containment off by one",
+  "killed": true,
+  "failing_tests": [
+   "T7"
+  ],
+  "n_failures": 100
+ },
+ {
+  "mutation": "pair bounds: orthogonality flag inverted",
+  "killed": true,
+  "failing_tests": [
+   "T5"
+  ],
+  "n_failures": 1
+ },
+ {
+  "mutation": "self-check too permissive",
+  "killed": true,
+  "failing_tests": [
+   "T5"
+  ],
+  "n_failures": 47
+ },
+ {
+  "mutation": "selector without Taylor remainder",
+  "killed": true,
+  "failing_tests": [
+   "T6"
+  ],
+  "n_failures": 66
+ },
+ {
+  "mutation": "selector sector test with wrong radius",
+  "killed": true,
+  "failing_tests": [
+   "T6"
+  ],
+  "n_failures": 1388
+ },
+ {
+  "mutation": "pair bounds: unbiasedness flag dropped",
+  "killed": true,
+  "failing_tests": [
+   "T5"
+  ],
+  "n_failures": 351
+ },
+ {
+  "mutation": "mean-value test drops phase derivatives",
+  "killed": true,
+  "failing_tests": [
+   "T10",
+   "T4"
+  ],
+  "n_failures": 336
+ },
+ {
+  "mutation": "Krawczyk ignores the dependent-parameter width",
+  "killed": true,
+  "failing_tests": [
+   "T10",
+   "T11",
+   "T4"
+  ],
+  "n_failures": 43
+ }
+]

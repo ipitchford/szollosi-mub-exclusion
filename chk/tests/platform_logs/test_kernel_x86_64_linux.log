@@ -1,0 +1,12 @@
+T1: 16052 arithmetic enclosures + 4013 square roots checked exactly
+T2: 3000 exp(i phi) enclosures x 5 points checked with mpmath
+T3: 10800 S_j rectangle enclosures checked with mpmath (both families)
+T4: 373188 boxes containing numerically certified solutions (residual < 1e-10) never excluded by the modulus, mean-value or Krawczyk tests
+T5: 13440 sampled pair values; orthogonality of the Fourier basis detected; self-check sampled
+T6: 5465 (point, level) pairs of the fundamental domain kept by the checker selector
+T7: 950 containment decisions equal brute force or exact edge expectations
+T8: 1344 ordering decisions sound against brute force
+T9: family data equal the defining formulas (200 + 200 random parameters; 15 Hadamard checks on the surface)
+T10: 1385847 off-centre boxes (widths 1..1024 grid units, parameter levels 3..7) containing solutions never excluded
+T11: 2880 sampled points (w, q) satisfy g_q(w) - w~ in K - w~ (Krawczyk assembly, exact evaluation)
+ALL PASS

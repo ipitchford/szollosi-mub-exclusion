@@ -1,0 +1,29 @@
+{
+ "family": "szollosi",
+ "boxes_without_hulls": 2,
+ "proved_disjoint_from_F": 2,
+ "boxes": [
+  {
+   "lev": 9,
+   "idx": [
+    0,
+    169,
+    172,
+    341
+   ],
+   "proved_disjoint_from_F": true,
+   "level_reached": 10
+  },
+  {
+   "lev": 9,
+   "idx": [
+    5,
+    124,
+    257,
+    258
+   ],
+   "proved_disjoint_from_F": true,
+   "level_reached": 10
+  }
+ ]
+}

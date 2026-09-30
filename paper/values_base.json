@@ -1,0 +1,20 @@
+{
+ "DATE": "30 September 2026",
+ "KERNEL_LINES": 638,
+ "CKPY_LINES": 601,
+ "TABLE_SHA": "075160008692331ecec57ebd851514642c5800b39d9bcad11c668c01074c5969",
+ "SZ_KEPT_LEVELS": "160, 183, 232, 532, 1,367, 4,294 and 14,658",
+ "F_KEPT_LEVELS": "3, 5, 15, 41, 143, 505 and 1,935",
+ "SZ_BOXES": "14,658",
+ "F_BOXES": "1,935",
+ "SZ_ROOTS": "1,367",
+ "SZ_VM_ROOTS": 195,
+ "ROOT_MIN": "$1.8\\cdot10^6$",
+ "ROOT_MAX": "$7.2\\cdot10^6$",
+ "MUT_TOTAL": 17,
+ "MUT_KILLED": 16,
+ "MUT_SURVIVOR_TEXT": "The surviving mutation is \"Krawczyk drops the parameter term of J\". Removing the term $\\sum_l(YJ_{q_l})[-h_P,h_P]$ from $\\mathcal M$ in Lemma 17 makes the test unsound in principle, but the omitted quantity is of second order, $|YJ_q|\\,h_P\\,\\rho$, and it is dominated in practice by the overestimation of the other second-order terms ($|YJ_w|\\rho^2$ from the Jacobian over $W$ and $|YF_{qq}|h_P^2$ from the value term), so it is not exposed by any test of the suite \u2014 neither by the stress test T10 with coarse parameter boxes nor by the white-box sampling test T11 \u2014 and no test of this kind can be expected to expose it. Its presence in the kernel rests on the proof of Lemma 17 and on inspection of the code.",
+ "EMPTY_TOTAL": 2,
+ "EMPTY_PROVED": 2,
+ "EMPTY_PHRASE": "both such boxes"
+}

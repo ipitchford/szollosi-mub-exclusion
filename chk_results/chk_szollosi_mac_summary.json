@@ -1,0 +1,163 @@
+{
+ "family": "szollosi",
+ "table_sha256": "075160008692331ecec57ebd851514642c5800b39d9bcad11c668c01074c5969",
+ "checker_code_sha256": {
+  "kernel.c": "9214d0d935ad21a4d52e4e01c314cd11fbf19d0fb327ef8cf94c546699f554ef",
+  "ck.py": "c81bf9494fc3221d91c043e917a7d82c4a78d293e43aca9f3dda2973eed7c4fa",
+  "run_check.py": "d84ed897641a2107aa3e2478e179e90faae7262f85b30b2c800ceb88754ebd40"
+ },
+ "platform": "macOS-27.0-arm64-arm-64bit-Mach-O",
+ "generator_files": [
+  [
+   "/Users/admin/mub6_szollosi/v2/results/gen_mac.jsonl",
+   "0a781c31a9024c14081fa1d6051741ef56ff543f2571b25fc56352178591e7d8"
+  ],
+  [
+   "/Users/admin/mub6_szollosi/v2/results/gen_vm_tail_copy.jsonl",
+   "3aa517c3587f0ff58bb17215b41dc15281be774beac53d3503afe56eab82954a"
+  ]
+ ],
+ "records": 16183,
+ "certified_records": 14416,
+ "kept_per_level": {
+  "3": 160,
+  "4": 183,
+  "5": 232,
+  "6": 532,
+  "7": 1367,
+  "8": 4294,
+  "9": 14658,
+  "10": 8033,
+  "11": 30727,
+  "12": 120081
+ },
+ "boxes_needed": 12506,
+ "leaves_without_record": 120081,
+ "verified_ok": 12446,
+ "verified_fail": 60,
+ "not_yet_checked": 0,
+ "cover_complete": false,
+ "uncovered_level9_ancestors": 2030,
+ "uncovered_examples": [
+  [
+   0,
+   128,
+   0,
+   244
+  ],
+  [
+   0,
+   128,
+   0,
+   245
+  ],
+  [
+   0,
+   128,
+   0,
+   246
+  ],
+  [
+   0,
+   128,
+   0,
+   247
+  ],
+  [
+   0,
+   128,
+   248,
+   263
+  ],
+  [
+   0,
+   128,
+   249,
+   262
+  ],
+  [
+   0,
+   128,
+   249,
+   263
+  ],
+  [
+   0,
+   128,
+   250,
+   261
+  ],
+  [
+   0,
+   128,
+   250,
+   262
+  ],
+  [
+   0,
+   128,
+   251,
+   260
+  ],
+  [
+   0,
+   128,
+   251,
+   261
+  ],
+  [
+   0,
+   130,
+   232,
+   279
+  ],
+  [
+   0,
+   130,
+   233,
+   278
+  ],
+  [
+   0,
+   130,
+   233,
+   279
+  ],
+  [
+   0,
+   130,
+   234,
+   277
+  ],
+  [
+   0,
+   130,
+   234,
+   278
+  ],
+  [
+   0,
+   130,
+   235,
+   276
+  ],
+  [
+   0,
+   130,
+   235,
+   277
+  ],
+  [
+   0,
+   131,
+   232,
+   279
+  ],
+  [
+   0,
+   131,
+   233,
+   278
+  ]
+ ]
+}

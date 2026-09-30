@@ -1,0 +1,41 @@
+02:19:41 table sha256 075160008692331ecec57ebd851514642c5800b39d9bcad11c668c01074c5969
+02:19:52 table: 131072 entries, 262144 components checked with mpmath.iv, 0 failures [11s]
+02:20:15 box 9 [128, 383, 248, 263]: split to level 10, 5 kept sub-boxes, coverage False
+02:20:45 box 9 [128, 383, 248, 263]: split to level 11, 12 kept sub-boxes, coverage True
+02:20:45 RESULT 9 [128, 383, 248, 263] ok
+02:21:17 box 9 [128, 383, 249, 262]: split to level 10, 5 kept sub-boxes, coverage True
+02:21:17 RESULT 9 [128, 383, 249, 262] ok
+02:21:43 box 9 [128, 383, 250, 261]: split to level 10, 3 kept sub-boxes, coverage True
+02:21:43 RESULT 9 [128, 383, 250, 261] ok
+02:22:02 box 9 [128, 383, 251, 260]: split to level 10, 3 kept sub-boxes, coverage False
+02:22:27 box 9 [128, 383, 251, 260]: split to level 11, 9 kept sub-boxes, coverage True
+02:22:27 RESULT 9 [128, 383, 251, 260] ok
+02:22:54 box 9 [130, 381, 233, 278]: split to level 10, 1 kept sub-boxes, coverage False
+02:22:56 box 9 [130, 381, 233, 278]: split to level 11, 1 kept sub-boxes, coverage False
+02:22:56 RESULT 9 [130, 381, 233, 278] NOT VERIFIED
+02:23:15 box 9 [131, 380, 232, 279]: split to level 10, 6 kept sub-boxes, coverage True
+02:23:15 RESULT 9 [131, 380, 232, 279] ok
+02:23:29 box 9 [131, 380, 233, 278]: split to level 10, 3 kept sub-boxes, coverage False
+02:23:38 box 9 [131, 380, 233, 278]: split to level 11, 9 kept sub-boxes, coverage False
+02:23:38 RESULT 9 [131, 380, 233, 278] NOT VERIFIED
+02:23:54 box 9 [130, 381, 234, 277]: split to level 10, 4 kept sub-boxes, coverage True
+02:23:54 RESULT 9 [130, 381, 234, 277] ok
+02:24:02 box 9 [140, 371, 209, 302]: split to level 10, 3 kept sub-boxes, coverage False
+02:24:09 box 9 [140, 371, 209, 302]: split to level 11, 8 kept sub-boxes, coverage True
+02:24:09 RESULT 9 [140, 371, 209, 302] ok
+02:24:17 box 9 [141, 370, 209, 302]: split to level 10, 1 kept sub-boxes, coverage True
+02:24:17 RESULT 9 [141, 370, 209, 302] ok
+02:24:24 box 9 [140, 371, 211, 300]: split to level 10, 1 kept sub-boxes, coverage False
+02:24:27 box 9 [140, 371, 211, 300]: split to level 11, 3 kept sub-boxes, coverage True
+02:24:27 RESULT 9 [140, 371, 211, 300] ok
+02:24:36 box 9 [136, 375, 217, 294]: split to level 10, 3 kept sub-boxes, coverage False
+02:24:42 box 9 [136, 375, 217, 294]: split to level 11, 8 kept sub-boxes, coverage True
+02:24:42 RESULT 9 [136, 375, 217, 294] ok
+02:24:51 box 9 [137, 374, 217, 294]: split to level 10, 1 kept sub-boxes, coverage False
+02:24:54 box 9 [137, 374, 217, 294]: split to level 11, 4 kept sub-boxes, coverage True
+02:24:54 RESULT 9 [137, 374, 217, 294] ok
+02:25:03 box 9 [136, 375, 219, 292]: split to level 10, 3 kept sub-boxes, coverage False
+02:25:10 box 9 [136, 375, 219, 292]: split to level 11, 8 kept sub-boxes, coverage True
+02:25:10 RESULT 9 [136, 375, 219, 292] ok
+02:25:16 box 9 [163, 348, 177, 334]: split to level 10, 1 kept sub-boxes, coverage True
+02:25:16 RESULT 9 [163, 348, 177, 334] ok

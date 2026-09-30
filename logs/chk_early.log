@@ -1,0 +1,8 @@
+20:57:08 checker: family szollosi; generator files ['results/gen_vm.jsonl']
+20:57:08 table gen/table17.npy sha256 075160008692331ecec57ebd851514642c5800b39d9bcad11c668c01074c5969
+20:57:28 table: 131072 entries, 262144 components checked with mpmath.iv, 0 failures [20s]
+20:57:28 522 generator records read; 522 distinct certified boxes with hulls
+20:57:35 cover tree (checker selector): kept boxes per level {3: 160, 4: 183, 5: 232, 6: 532, 7: 1367, 8: 4294, 9: 14658, 10: 52007, 11: 197355, 12: 769939}; 522 boxes to verify; 769939 leaves without record
+20:57:35 0 boxes already verified (resume); 12 roots / 130 boxes to do now
+20:59:37 [1/12] root [1, 30, 63, 65]: 8 boxes, 8 ok, 121.0s; total 8/8; elapsed 121s
+21:00:09 [2/12] root [3, 29, 62, 66]: 1 boxes, 1 ok, 32.7s; total 9/9; elapsed 154s

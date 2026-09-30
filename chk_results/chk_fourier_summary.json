@@ -1,0 +1,35 @@
+{
+ "family": "fourier",
+ "table_sha256": "075160008692331ecec57ebd851514642c5800b39d9bcad11c668c01074c5969",
+ "checker_code_sha256": {
+  "kernel.c": "9214d0d935ad21a4d52e4e01c314cd11fbf19d0fb327ef8cf94c546699f554ef",
+  "ck.py": "c81bf9494fc3221d91c043e917a7d82c4a78d293e43aca9f3dda2973eed7c4fa",
+  "run_check.py": "d84ed897641a2107aa3e2478e179e90faae7262f85b30b2c800ceb88754ebd40"
+ },
+ "platform": "Linux-6.18.44-fc-v50-x86_64-with-glibc2.39",
+ "generator_files": [
+  [
+   "results/gen_fourier.jsonl",
+   "6fa0bd0c0aab591de6e62070ff6f3327c1f973aa15259209d7d7b1487eb775b4"
+  ]
+ ],
+ "records": 1935,
+ "certified_records": 1935,
+ "kept_per_level": {
+  "3": 3,
+  "4": 5,
+  "5": 15,
+  "6": 41,
+  "7": 143,
+  "8": 505,
+  "9": 1935
+ },
+ "boxes_needed": 1935,
+ "leaves_without_record": 0,
+ "verified_ok": 1935,
+ "verified_fail": 0,
+ "not_yet_checked": 0,
+ "cover_complete": true,
+ "uncovered_level9_ancestors": 0,
+ "uncovered_examples": []
+}

@@ -1,0 +1,253 @@
+szollosi: 250 roots at level 7; 2 processes
+resume: 1294 certified records found
+[1/250] {'root': [42, 85, 43, 85], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 0s
+[2/250] {'root': [42, 85, 43, 84], 'children': 5, 'skipped': True, 'time': 0.0}  elapsed 0s
+[3/250] {'root': [42, 85, 1, 42], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[4/250] {'root': [42, 85, 0, 43], 'children': 5, 'skipped': True, 'time': 0.0}  elapsed 0s
+[5/250] {'root': [0, 42, 43, 86], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[6/250] {'root': [0, 42, 42, 86], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[7/250] {'root': [42, 85, 0, 42], 'children': 18, 'skipped': True, 'time': 0.0}  elapsed 0s
+[8/250] {'root': [0, 42, 43, 85], 'children': 9, 'skipped': True, 'time': 0.0}  elapsed 0s
+[9/250] {'root': [0, 42, 0, 43], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 0s
+[10/250] {'root': [0, 42, 42, 85], 'children': 15, 'skipped': True, 'time': 0.0}  elapsed 0s
+[11/250] {'root': [0, 42, 0, 42], 'children': 5, 'skipped': True, 'time': 0.0}  elapsed 0s
+[12/250] {'root': [43, 84, 42, 86], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[13/250] {'root': [43, 84, 42, 85], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[14/250] {'root': [43, 84, 41, 86], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[15/250] {'root': [43, 84, 1, 41], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[16/250] {'root': [43, 84, 0, 41], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[17/250] {'root': [43, 85, 42, 85], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[18/250] {'root': [43, 85, 2, 41], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[19/250] {'root': [43, 85, 0, 42], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[20/250] {'root': [43, 85, 1, 42], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[21/250] {'root': [0, 41, 44, 84], 'children': 21, 'skipped': True, 'time': 0.0}  elapsed 0s
+[22/250] {'root': [43, 85, 0, 41], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[23/250] {'root': [0, 41, 44, 83], 'children': 6, 'skipped': True, 'time': 0.0}  elapsed 0s
+[24/250] {'root': [0, 41, 43, 84], 'children': 33, 'skipped': True, 'time': 0.0}  elapsed 0s
+[25/250] {'root': [0, 41, 43, 85], 'children': 6, 'skipped': True, 'time': 0.0}  elapsed 0s
+[26/250] {'root': [42, 86, 43, 84], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 0s
+[27/250] {'root': [0, 41, 0, 44], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 0s
+[28/250] {'root': [42, 86, 1, 43], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[29/250] {'root': [42, 86, 1, 42], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[30/250] {'root': [42, 86, 0, 43], 'children': 4, 'skipped': True, 'time': 0.0}  elapsed 0s
+[31/250] {'root': [42, 86, 0, 42], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[32/250] {'root': [0, 43, 42, 87], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[33/250] {'root': [0, 43, 42, 85], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[34/250] {'root': [0, 43, 41, 87], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[35/250] {'root': [0, 43, 0, 42], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[36/250] {'root': [0, 43, 41, 86], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[37/250] {'root': [0, 43, 0, 41], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[38/250] {'root': [41, 86, 43, 84], 'children': 9, 'skipped': True, 'time': 0.0}  elapsed 0s
+[39/250] {'root': [41, 86, 44, 84], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 0s
+[40/250] {'root': [41, 86, 0, 44], 'children': 5, 'skipped': True, 'time': 0.0}  elapsed 0s
+[41/250] {'root': [1, 41, 44, 86], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[42/250] {'root': [41, 86, 0, 43], 'children': 15, 'skipped': True, 'time': 0.0}  elapsed 0s
+[43/250] {'root': [1, 41, 44, 85], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[44/250] {'root': [1, 41, 43, 85], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[45/250] {'root': [1, 41, 44, 84], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[46/250] {'root': [1, 41, 43, 84], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[47/250] {'root': [41, 87, 44, 83], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 0s
+[48/250] {'root': [41, 87, 1, 44], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[49/250] {'root': [41, 87, 0, 44], 'children': 4, 'skipped': True, 'time': 0.0}  elapsed 0s
+[50/250] {'root': [41, 87, 1, 43], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[51/250] {'root': [1, 40, 45, 84], 'children': 12, 'skipped': True, 'time': 0.0}  elapsed 0s
+[52/250] {'root': [1, 40, 44, 85], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[53/250] {'root': [1, 40, 44, 84], 'children': 15, 'skipped': True, 'time': 0.0}  elapsed 0s
+[54/250] {'root': [1, 40, 44, 83], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 0s
+[55/250] {'root': [1, 40, 45, 83], 'children': 9, 'skipped': True, 'time': 0.0}  elapsed 0s
+[56/250] {'root': [0, 40, 44, 84], 'children': 14, 'skipped': True, 'time': 0.0}  elapsed 0s
+[57/250] {'root': [0, 40, 45, 82], 'children': 15, 'skipped': True, 'time': 0.0}  elapsed 0s
+[58/250] {'root': [0, 40, 0, 45], 'children': 4, 'skipped': True, 'time': 0.0}  elapsed 0s
+[59/250] {'root': [0, 40, 44, 83], 'children': 35, 'skipped': True, 'time': 0.0}  elapsed 0s
+[60/250] {'root': [40, 87, 45, 83], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 0s
+[61/250] {'root': [0, 40, 0, 44], 'children': 5, 'skipped': True, 'time': 0.0}  elapsed 0s
+[62/250] {'root': [40, 87, 0, 45], 'children': 9, 'skipped': True, 'time': 0.0}  elapsed 0s
+[63/250] {'root': [40, 87, 0, 44], 'children': 13, 'skipped': True, 'time': 0.0}  elapsed 0s
+[64/250] {'root': [40, 87, 45, 82], 'children': 9, 'skipped': True, 'time': 0.0}  elapsed 0s
+[65/250] {'root': [1, 39, 45, 84], 'children': 8, 'skipped': True, 'time': 0.0}  elapsed 0s
+[66/250] {'root': [1, 39, 46, 83], 'children': 18, 'skipped': True, 'time': 0.0}  elapsed 0s
+[67/250] {'root': [1, 39, 46, 82], 'children': 15, 'skipped': True, 'time': 0.0}  elapsed 0s
+[68/250] {'root': [1, 39, 45, 83], 'children': 38, 'skipped': True, 'time': 0.0}  elapsed 0s
+[69/250] {'root': [2, 39, 46, 84], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[70/250] {'root': [2, 39, 45, 85], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[71/250] {'root': [2, 39, 45, 84], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[72/250] {'root': [2, 39, 46, 83], 'children': 5, 'skipped': True, 'time': 0.0}  elapsed 0s
+[73/250] {'root': [2, 39, 45, 83], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 0s
+[74/250] {'root': [40, 88, 45, 82], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 0s
+[75/250] {'root': [40, 88, 1, 44], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[76/250] {'root': [40, 88, 0, 45], 'children': 4, 'skipped': True, 'time': 0.0}  elapsed 0s
+[77/250] {'root': [40, 88, 0, 44], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[78/250] {'root': [0, 39, 46, 82], 'children': 30, 'skipped': True, 'time': 0.0}  elapsed 0s
+[79/250] {'root': [0, 39, 46, 81], 'children': 20, 'skipped': True, 'time': 0.0}  elapsed 0s
+[80/250] {'root': [0, 39, 45, 83], 'children': 8, 'skipped': True, 'time': 0.0}  elapsed 0s
+[81/250] {'root': [0, 39, 0, 46], 'children': 6, 'skipped': True, 'time': 0.0}  elapsed 0s
+[82/250] {'root': [0, 39, 0, 45], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 0s
+[83/250] {'root': [39, 88, 46, 82], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 0s
+[84/250] {'root': [39, 88, 46, 81], 'children': 12, 'skipped': True, 'time': 0.0}  elapsed 0s
+[85/250] {'root': [39, 88, 45, 82], 'children': 5, 'skipped': True, 'time': 0.0}  elapsed 0s
+[86/250] {'root': [39, 88, 0, 46], 'children': 13, 'skipped': True, 'time': 0.0}  elapsed 0s
+[87/250] {'root': [2, 38, 47, 83], 'children': 7, 'skipped': True, 'time': 0.0}  elapsed 0s
+[88/250] {'root': [2, 38, 46, 84], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[89/250] {'root': [2, 38, 47, 82], 'children': 18, 'skipped': True, 'time': 0.0}  elapsed 0s
+[90/250] {'root': [2, 38, 46, 82], 'children': 5, 'skipped': True, 'time': 0.0}  elapsed 0s
+[91/250] {'root': [2, 38, 46, 83], 'children': 23, 'skipped': True, 'time': 0.0}  elapsed 0s
+[92/250] {'root': [1, 38, 47, 82], 'children': 18, 'skipped': True, 'time': 0.0}  elapsed 0s
+[93/250] {'root': [1, 38, 46, 82], 'children': 39, 'skipped': True, 'time': 0.0}  elapsed 0s
+[94/250] {'root': [1, 38, 47, 81], 'children': 29, 'skipped': True, 'time': 0.0}  elapsed 0s
+[95/250] {'root': [1, 38, 47, 80], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 0s
+[96/250] {'root': [39, 89, 47, 80], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[97/250] {'root': [1, 38, 46, 81], 'children': 2, 'skipped': True, 'time': 0.0}  elapsed 0s
+[98/250] {'root': [39, 89, 46, 81], 'children': 2, 'skipped': True, 'time': 0.0}  elapsed 0s
+[99/250] {'root': [39, 89, 0, 47], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[100/250] {'root': [39, 89, 0, 46], 'children': 4, 'skipped': True, 'time': 0.0}  elapsed 0s
+[101/250] {'root': [39, 89, 1, 45], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[102/250] {'root': [39, 89, 0, 45], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[103/250] {'root': [0, 38, 48, 80], 'children': 2, 'skipped': True, 'time': 0.0}  elapsed 0s
+[104/250] {'root': [0, 38, 48, 79], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 0s
+[105/250] {'root': [0, 38, 47, 81], 'children': 32, 'skipped': True, 'time': 0.0}  elapsed 0s
+[106/250] {'root': [0, 38, 47, 80], 'children': 34, 'skipped': True, 'time': 0.0}  elapsed 0s
+[107/250] {'root': [0, 38, 46, 81], 'children': 22, 'skipped': True, 'time': 0.0}  elapsed 0s
+[108/250] {'root': [0, 38, 0, 47], 'children': 7, 'skipped': True, 'time': 0.0}  elapsed 0s
+[109/250] {'root': [0, 38, 0, 48], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 0s
+[110/250] {'root': [3, 37, 48, 82], 'children': 12, 'skipped': True, 'time': 0.0}  elapsed 0s
+[111/250] {'root': [0, 38, 0, 46], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 0s
+[112/250] {'root': [3, 37, 48, 81], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 0s
+[113/250] {'root': [3, 37, 47, 84], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[114/250] {'root': [3, 37, 46, 84], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[115/250] {'root': [3, 37, 47, 83], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[116/250] {'root': [3, 37, 47, 82], 'children': 6, 'skipped': True, 'time': 0.0}  elapsed 0s
+[117/250] {'root': [38, 89, 48, 79], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 0s
+[118/250] {'root': [38, 89, 47, 81], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 0s
+[119/250] {'root': [38, 89, 47, 80], 'children': 14, 'skipped': True, 'time': 0.0}  elapsed 0s
+[120/250] {'root': [38, 89, 46, 81], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 0s
+[121/250] {'root': [38, 89, 0, 48], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 0s
+[122/250] {'root': [38, 89, 0, 47], 'children': 18, 'skipped': True, 'time': 0.0}  elapsed 0s
+[123/250] {'root': [2, 37, 48, 82], 'children': 6, 'skipped': True, 'time': 0.0}  elapsed 0s
+[124/250] {'root': [2, 37, 48, 81], 'children': 37, 'skipped': True, 'time': 0.0}  elapsed 0s
+[125/250] {'root': [2, 37, 48, 80], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 0s
+[126/250] {'root': [2, 37, 47, 83], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 0s
+[127/250] {'root': [2, 37, 47, 82], 'children': 40, 'skipped': True, 'time': 0.0}  elapsed 0s
+[128/250] {'root': [2, 37, 47, 81], 'children': 8, 'skipped': True, 'time': 0.0}  elapsed 0s
+[129/250] {'root': [1, 37, 48, 81], 'children': 15, 'skipped': True, 'time': 0.0}  elapsed 0s
+[130/250] {'root': [1, 37, 48, 80], 'children': 51, 'skipped': True, 'time': 0.0}  elapsed 0s
+[131/250] {'root': [1, 37, 49, 79], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 0s
+[132/250] {'root': [1, 37, 48, 79], 'children': 5, 'skipped': True, 'time': 0.0}  elapsed 0s
+[133/250] {'root': [1, 37, 47, 82], 'children': 2, 'skipped': True, 'time': 0.0}  elapsed 0s
+[134/250] {'root': [1, 37, 47, 81], 'children': 25, 'skipped': True, 'time': 0.0}  elapsed 0s
+[135/250] {'root': [38, 90, 48, 79], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 0s
+[136/250] {'root': [38, 90, 47, 80], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 0s
+[137/250] {'root': [38, 90, 1, 48], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[138/250] {'root': [38, 90, 0, 48], 'children': 2, 'skipped': True, 'time': 0.0}  elapsed 0s
+[139/250] {'root': [38, 90, 0, 47], 'children': 2, 'skipped': True, 'time': 0.0}  elapsed 0s
+[140/250] {'root': [38, 90, 1, 47], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[141/250] {'root': [4, 36, 48, 84], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[142/250] {'root': [4, 36, 49, 82], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[143/250] {'root': [4, 36, 48, 83], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[144/250] {'root': [4, 36, 49, 81], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[145/250] {'root': [4, 36, 48, 82], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[146/250] {'root': [4, 36, 47, 84], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[147/250] {'root': [3, 36, 49, 82], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 0s
+[148/250] {'root': [3, 36, 48, 83], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 0s
+[149/250] {'root': [3, 36, 48, 82], 'children': 18, 'skipped': True, 'time': 0.0}  elapsed 0s
+[150/250] {'root': [3, 36, 49, 81], 'children': 29, 'skipped': True, 'time': 0.0}  elapsed 0s
+[151/250] {'root': [3, 36, 48, 81], 'children': 23, 'skipped': True, 'time': 0.0}  elapsed 0s
+[152/250] {'root': [3, 36, 49, 80], 'children': 8, 'skipped': True, 'time': 0.0}  elapsed 0s
+[153/250] {'root': [0, 37, 48, 80], 'children': 28, 'skipped': True, 'time': 0.0}  elapsed 0s
+[154/250] {'root': [0, 37, 49, 79], 'children': 13, 'skipped': True, 'time': 0.0}  elapsed 0s
+[155/250] {'root': [0, 37, 49, 78], 'children': 6, 'skipped': True, 'time': 0.0}  elapsed 0s
+[156/250] {'root': [0, 37, 48, 79], 'children': 42, 'skipped': True, 'time': 0.0}  elapsed 0s
+[157/250] {'root': [0, 37, 47, 81], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 0s
+[158/250] {'root': [0, 37, 47, 80], 'children': 7, 'skipped': True, 'time': 0.0}  elapsed 0s
+[159/250] {'root': [2, 36, 49, 81], 'children': 5, 'skipped': True, 'time': 0.0}  elapsed 0s
+[160/250] {'root': [0, 37, 0, 48], 'children': 6, 'skipped': True, 'time': 0.0}  elapsed 0s
+[161/250] {'root': [2, 36, 48, 81], 'children': 24, 'skipped': True, 'time': 0.0}  elapsed 0s
+[162/250] {'root': [2, 36, 49, 80], 'children': 50, 'skipped': True, 'time': 0.0}  elapsed 0s
+[163/250] {'root': [2, 36, 48, 80], 'children': 12, 'skipped': True, 'time': 0.0}  elapsed 0s
+[164/250] {'root': [2, 36, 50, 79], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 0s
+[165/250] {'root': [37, 90, 49, 79], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 0s
+[166/250] {'root': [37, 90, 49, 78], 'children': 5, 'skipped': True, 'time': 0.0}  elapsed 0s
+[167/250] {'root': [37, 90, 0, 49], 'children': 5, 'ok': 5, 'fail': 0, 'n7': 2013814, 'root_counts': [(4, 1048576, 77580), (5, 2482560, 123908), (6, 3965056, 363550), (7, 11633600, 2013814)], 'nsol': 60, 'time': 43.0}  elapsed 43s
+[168/250] {'root': [37, 90, 48, 79], 'children': 13, 'ok': 13, 'fail': 0, 'n7': 2005660, 'root_counts': [(4, 1048576, 77878), (5, 2492096, 121952), (6, 3902464, 356721), (7, 11415072, 2005660)], 'nsol': 60, 'time': 61.7}  elapsed 62s
+[169/250] {'root': [1, 36, 49, 80], 'children': 11, 'ok': 11, 'fail': 0, 'n7': 1966475, 'root_counts': [(4, 1048576, 77718), (5, 2486976, 122023), (6, 3904736, 357727), (7, 11447264, 1966475)], 'nsol': 60, 'time': 90.0}  elapsed 152s
+[170/250] {'root': [37, 90, 0, 48], 'children': 18, 'ok': 18, 'fail': 0, 'n7': 2007448, 'root_counts': [(4, 1048576, 77820), (5, 2490240, 122451), (6, 3918432, 357652), (7, 11444864, 2007448)], 'nsol': 60, 'time': 130.5}  elapsed 174s
+[171/250] {'root': [1, 36, 50, 79], 'children': 5, 'ok': 5, 'fail': 0, 'n7': 2003975, 'root_counts': [(4, 1048576, 78487), (5, 2511584, 125108), (6, 4003456, 364830), (7, 11674560, 2003975)], 'nsol': 60, 'time': 49.3}  elapsed 202s
+[172/250] {'root': [1, 36, 50, 78], 'children': 21, 'ok': 21, 'fail': 0, 'n7': 2051477, 'root_counts': [(4, 1048576, 78565), (5, 2514080, 126759), (6, 4056288, 370499), (7, 11855968, 2051477)], 'nsol': 60, 'time': 137.6}  elapsed 312s
+[173/250] {'root': [1, 36, 49, 78], 'children': 5, 'ok': 5, 'fail': 0, 'n7': 1996359, 'root_counts': [(4, 1048576, 78424), (5, 2509568, 124868), (6, 3995776, 363496), (7, 11631872, 1996359)], 'nsol': 60, 'time': 44.7}  elapsed 356s
+[174/250] {'root': [1, 36, 48, 79], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 1949687, 'root_counts': [(4, 1048576, 77982), (5, 2495424, 120995), (6, 3871840, 353383), (7, 11308256, 1949687)], 'nsol': 60, 'time': 22.6}  elapsed 379s
+[175/250] {'root': [4, 35, 50, 81], 'children': 9, 'ok': 9, 'fail': 0, 'n7': 2029340, 'root_counts': [(4, 1048576, 79216), (5, 2534912, 127455), (6, 4078560, 371986), (7, 11903552, 2029340)], 'nsol': 60, 'time': 53.5}  elapsed 432s
+[176/250] {'root': [4, 35, 49, 82], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2007352, 'root_counts': [(4, 1048576, 77684), (5, 2485888, 124618), (6, 3987776, 363489), (7, 11631648, 2007352)], 'nsol': 60, 'time': 20.8}  elapsed 453s
+[177/250] {'root': [4, 35, 48, 83], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 453s
+[178/250] {'root': [4, 35, 48, 82], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 453s
+[179/250] {'root': [4, 35, 49, 81], 'children': 22, 'ok': 22, 'fail': 0, 'n7': 2033219, 'root_counts': [(4, 1048576, 78109), (5, 2499488, 123535), (6, 3953120, 365954), (7, 11710528, 2033219)], 'nsol': 60, 'time': 105.8}  elapsed 559s
+[180/250] {'root': [4, 35, 49, 80], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 1952774, 'root_counts': [(4, 1048576, 78695), (5, 2518240, 122923), (6, 3933536, 358831), (7, 11482592, 1952774)], 'nsol': 60, 'time': 20.8}  elapsed 580s
+[181/250] {'root': [1, 36, 49, 79], 'children': 55, 'ok': 55, 'fail': 0, 'n7': 2041200, 'root_counts': [(4, 1048576, 78068), (5, 2498176, 123837), (6, 3962784, 363192), (7, 11622144, 2041200)], 'nsol': 60, 'time': 384.9}  elapsed 586s
+[182/250] {'root': [37, 91, 1, 48], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 586s
+[183/250] {'root': [37, 91, 49, 78], 'children': 3, 'ok': 3, 'fail': 0, 'n7': 2041212, 'root_counts': [(4, 1048576, 78503), (5, 2512096, 125797), (6, 4025504, 366773), (7, 11736736, 2041212)], 'nsol': 60, 'time': 32.6}  elapsed 612s
+[184/250] {'root': [37, 91, 0, 48], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 612s
+[185/250] {'root': [37, 91, 0, 49], 'children': 4, 'ok': 4, 'fail': 0, 'n7': 2073893, 'root_counts': [(4, 1048576, 78489), (5, 2511648, 126624), (6, 4051968, 369405), (7, 11820960, 2073893)], 'nsol': 60, 'time': 39.2}  elapsed 626s
+[186/250] {'root': [3, 35, 49, 81], 'children': 18, 'ok': 18, 'fail': 0, 'n7': 1992820, 'root_counts': [(4, 1048576, 77771), (5, 2488672, 123823), (6, 3962336, 363516), (7, 11632512, 1992820)], 'nsol': 60, 'time': 86.7}  elapsed 712s
+[187/250] {'root': [3, 35, 50, 80], 'children': 35, 'ok': 35, 'fail': 0, 'n7': 2052711, 'root_counts': [(4, 1048576, 79058), (5, 2529856, 126623), (6, 4051936, 372546), (7, 11921472, 2052711)], 'nsol': 60, 'time': 155.2}  elapsed 768s
+[188/250] {'root': [3, 35, 51, 78], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2019339, 'root_counts': [(4, 1048576, 79928), (5, 2557696, 129852), (6, 4155264, 376761), (7, 12056352, 2019339)], 'nsol': 60, 'time': 22.9}  elapsed 791s
+[189/250] {'root': [3, 35, 49, 80], 'children': 25, 'ok': 25, 'fail': 0, 'n7': 2022959, 'root_counts': [(4, 1048576, 78683), (5, 2517856, 124341), (6, 3978912, 364475), (7, 11663200, 2022959)], 'nsol': 60, 'time': 115.8}  elapsed 828s
+[190/250] {'root': [3, 35, 50, 79], 'children': 26, 'ok': 26, 'fail': 0, 'n7': 2058458, 'root_counts': [(4, 1048576, 79313), (5, 2538016, 125974), (6, 4031168, 374071), (7, 11970272, 2058458)], 'nsol': 60, 'time': 133.7}  elapsed 924s
+[191/250] {'root': [0, 36, 51, 77], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2046989, 'root_counts': [(4, 1048576, 78919), (5, 2525408, 131323), (6, 4202336, 378510), (7, 12112320, 2046989)], 'nsol': 60, 'time': 21.3}  elapsed 946s
+[192/250] {'root': [0, 36, 51, 76], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2036037, 'root_counts': [(4, 1048576, 78659), (5, 2517088, 132697), (6, 4246304, 379098), (7, 12131136, 2036037)], 'nsol': 60, 'time': 21.9}  elapsed 967s
+[193/250] {'root': [0, 36, 50, 78], 'children': 24, 'ok': 24, 'fail': 0, 'n7': 2068340, 'root_counts': [(4, 1048576, 78706), (5, 2518592, 128228), (6, 4103296, 372892), (7, 11932544, 2068340)], 'nsol': 60, 'time': 145.0}  elapsed 973s
+[194/250] {'root': [0, 36, 50, 77], 'children': 30, 'ok': 30, 'fail': 0, 'n7': 2088183, 'root_counts': [(4, 1048576, 78372), (5, 2507904, 129259), (6, 4136288, 377366), (7, 12075712, 2088183)], 'nsol': 60, 'time': 164.6}  elapsed 1132s
+[195/250] {'root': [0, 36, 0, 51], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 1981670, 'root_counts': [(4, 1048576, 79118), (5, 2531776, 134196), (6, 4294272, 377053), (7, 12065696, 1981670)], 'nsol': 60, 'time': 21.4}  elapsed 1154s
+[196/250] {'root': [0, 36, 49, 78], 'children': 35, 'ok': 35, 'fail': 0, 'n7': 2065277, 'root_counts': [(4, 1048576, 78820), (5, 2522240, 126678), (6, 4053696, 369744), (7, 11831808, 2065277)], 'nsol': 60, 'time': 207.6}  elapsed 1181s
+[197/250] {'root': [0, 36, 0, 50], 'children': 6, 'ok': 6, 'fail': 0, 'n7': 2047154, 'root_counts': [(4, 1048576, 78611), (5, 2515552, 130616), (6, 4179712, 375549), (7, 12017568, 2047154)], 'nsol': 60, 'time': 45.6}  elapsed 1199s
+[198/250] {'root': [0, 36, 0, 49], 'children': 4, 'ok': 4, 'fail': 0, 'n7': 2047766, 'root_counts': [(4, 1048576, 78591), (5, 2514912, 126975), (6, 4063200, 370699), (7, 11862368, 2047766)], 'nsol': 60, 'time': 35.9}  elapsed 1217s
+[199/250] {'root': [2, 35, 50, 80], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 1974504, 'root_counts': [(4, 1048576, 78711), (5, 2518752, 126616), (6, 4051712, 368459), (7, 11790688, 1974504)], 'nsol': 60, 'time': 25.4}  elapsed 1225s
+[200/250] {'root': [2, 35, 49, 80], 'children': 5, 'ok': 5, 'fail': 0, 'n7': 1989796, 'root_counts': [(4, 1048576, 78174), (5, 2501568, 124557), (6, 3985824, 363819), (7, 11642208, 1989796)], 'nsol': 60, 'time': 39.5}  elapsed 1256s
+[201/250] {'root': [2, 35, 51, 78], 'children': 20, 'ok': 20, 'fail': 0, 'n7': 2090992, 'root_counts': [(4, 1048576, 79898), (5, 2556736, 131381), (6, 4204192, 382841), (7, 12250912, 2090992)], 'nsol': 60, 'time': 151.5}  elapsed 1376s
+[202/250] {'root': [2, 35, 50, 78], 'children': 21, 'ok': 21, 'fail': 0, 'n7': 2073299, 'root_counts': [(4, 1048576, 79300), (5, 2537600, 129343), (6, 4138976, 375914), (7, 12029248, 2073299)], 'nsol': 60, 'time': 158.8}  elapsed 1535s
+[203/250] {'root': [2, 35, 51, 77], 'children': 3, 'ok': 3, 'fail': 0, 'n7': 2047863, 'root_counts': [(4, 1048576, 79825), (5, 2554400, 132296), (6, 4233472, 381215), (7, 12198880, 2047863)], 'nsol': 60, 'time': 36.2}  elapsed 1571s
+[204/250] {'root': [2, 35, 50, 79], 'children': 52, 'ok': 52, 'fail': 0, 'n7': 2082070, 'root_counts': [(4, 1048576, 79015), (5, 2528480, 126788), (6, 4057216, 376181), (7, 12037792, 2082070)], 'nsol': 60, 'time': 341.0}  elapsed 1597s
+[205/250] {'root': [2, 35, 49, 79], 'children': 5, 'ok': 5, 'fail': 0, 'n7': 2015752, 'root_counts': [(4, 1048576, 78852), (5, 2523264, 124680), (6, 3989760, 366942), (7, 11742144, 2015752)], 'nsol': 60, 'time': 47.0}  elapsed 1618s
+[206/250] {'root': [36, 91, 50, 78], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2044748, 'root_counts': [(4, 1048576, 78826), (5, 2522432, 129065), (6, 4130080, 372900), (7, 11932800, 2044748)], 'nsol': 60, 'time': 21.7}  elapsed 1619s
+[207/250] {'root': [36, 91, 51, 76], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2078410, 'root_counts': [(4, 1048576, 78486), (5, 2511552, 133675), (6, 4277600, 383304), (7, 12265728, 2078410)], 'nsol': 60, 'time': 21.8}  elapsed 1640s
+[208/250] {'root': [36, 91, 49, 78], 'children': 7, 'ok': 7, 'fail': 0, 'n7': 2065350, 'root_counts': [(4, 1048576, 79398), (5, 2540736, 127745), (6, 4087840, 371567), (7, 11890144, 2065350)], 'nsol': 60, 'time': 52.0}  elapsed 1692s
+[209/250] {'root': [36, 91, 50, 77], 'children': 13, 'ok': 13, 'fail': 0, 'n7': 2112726, 'root_counts': [(4, 1048576, 78781), (5, 2520992, 130240), (6, 4167680, 378981), (7, 12127392, 2112726)], 'nsol': 60, 'time': 78.7}  elapsed 1698s
+[210/250] {'root': [36, 91, 0, 51], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2046291, 'root_counts': [(4, 1048576, 78980), (5, 2527360, 134884), (6, 4316288, 383009), (7, 12256288, 2046291)], 'nsol': 60, 'time': 22.3}  elapsed 1714s
+[211/250] {'root': [36, 91, 0, 49], 'children': 9, 'ok': 9, 'fail': 0, 'n7': 2073681, 'root_counts': [(4, 1048576, 78990), (5, 2527680, 128420), (6, 4109440, 372887), (7, 11932384, 2073681)], 'nsol': 60, 'time': 63.8}  elapsed 1778s
+[212/250] {'root': [5, 34, 51, 81], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1778s
+[213/250] {'root': [36, 91, 0, 50], 'children': 14, 'ok': 14, 'fail': 0, 'n7': 2096837, 'root_counts': [(4, 1048576, 78510), (5, 2512320, 131127), (6, 4196064, 380202), (7, 12166464, 2096837)], 'nsol': 60, 'time': 86.4}  elapsed 1784s
+[214/250] {'root': [5, 34, 50, 81], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2112735, 'root_counts': [(4, 1048576, 79624), (5, 2547968, 129708), (6, 4150656, 382576), (7, 12242432, 2112735)], 'nsol': 60, 'time': 20.1}  elapsed 1804s
+[215/250] {'root': [5, 34, 51, 80], 'children': 7, 'ok': 7, 'fail': 0, 'n7': 2117428, 'root_counts': [(4, 1048576, 80550), (5, 2577600, 132342), (6, 4234944, 389704), (7, 12470528, 2117428)], 'nsol': 60, 'time': 46.5}  elapsed 1825s
+[216/250] {'root': [5, 34, 49, 83], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1825s
+[217/250] {'root': [5, 34, 49, 82], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1825s
+[218/250] {'root': [5, 34, 51, 79], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1825s
+[219/250] {'root': [5, 34, 50, 80], 'children': 5, 'ok': 5, 'fail': 0, 'n7': 2061050, 'root_counts': [(4, 1048576, 79786), (5, 2553152, 128595), (6, 4115040, 379490), (7, 12143680, 2061050)], 'nsol': 60, 'time': 37.3}  elapsed 1841s
+[220/250] {'root': [4, 34, 50, 81], 'children': 5, 'ok': 5, 'fail': 0, 'n7': 2043138, 'root_counts': [(4, 1048576, 79318), (5, 2538176, 129886), (6, 4156352, 379044), (7, 12129408, 2043138)], 'nsol': 60, 'time': 34.6}  elapsed 1876s
+[221/250] {'root': [4, 34, 51, 80], 'children': 12, 'ok': 12, 'fail': 0, 'n7': 2104583, 'root_counts': [(4, 1048576, 80463), (5, 2574816, 132645), (6, 4244640, 389678), (7, 12469696, 2104583)], 'nsol': 60, 'time': 65.2}  elapsed 1890s
+[222/250] {'root': [4, 34, 52, 78], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2099212, 'root_counts': [(4, 1048576, 81536), (5, 2609152, 134990), (6, 4319680, 395696), (7, 12662272, 2099212)], 'nsol': 60, 'time': 21.5}  elapsed 1911s
+[223/250] {'root': [4, 34, 50, 80], 'children': 41, 'ok': 41, 'fail': 0, 'n7': 2101903, 'root_counts': [(4, 1048576, 79677), (5, 2549664, 129171), (6, 4133472, 382871), (7, 12251872, 2101903)], 'nsol': 60, 'time': 182.5}  elapsed 2058s
+[224/250] {'root': [4, 34, 50, 79], 'children': 3, 'ok': 3, 'fail': 0, 'n7': 2047879, 'root_counts': [(4, 1048576, 80027), (5, 2560864, 129059), (6, 4129888, 377850), (7, 12091200, 2047879)], 'nsol': 60, 'time': 28.6}  elapsed 2087s
+[225/250] {'root': [4, 34, 51, 79], 'children': 41, 'ok': 41, 'fail': 0, 'n7': 2138831, 'root_counts': [(4, 1048576, 80801), (5, 2585632, 131746), (6, 4215872, 390396), (7, 12492672, 2138831)], 'nsol': 60, 'time': 178.8}  elapsed 2090s
+[226/250] {'root': [1, 35, 52, 76], 'children': 5, 'ok': 5, 'fail': 0, 'n7': 2077709, 'root_counts': [(4, 1048576, 80489), (5, 2575648, 138099), (6, 4419168, 391036), (7, 12513152, 2077709)], 'nsol': 60, 'time': 41.8}  elapsed 2129s
+[227/250] {'root': [1, 35, 51, 78], 'children': 8, 'ok': 8, 'fail': 0, 'n7': 2069157, 'root_counts': [(4, 1048576, 79884), (5, 2556288, 132295), (6, 4233440, 382579), (7, 12242528, 2069157)], 'nsol': 60, 'time': 63.8}  elapsed 2154s
+[228/250] {'root': [1, 35, 50, 79], 'children': 4, 'ok': 4, 'fail': 0, 'n7': 2014933, 'root_counts': [(4, 1048576, 79167), (5, 2533344, 127933), (6, 4093856, 373225), (7, 11943200, 2014933)], 'nsol': 60, 'time': 43.9}  elapsed 2173s
+[229/250] {'root': [1, 35, 50, 78], 'children': 40, 'ok': 40, 'fail': 0, 'n7': 2106894, 'root_counts': [(4, 1048576, 79263), (5, 2536416, 130464), (6, 4174848, 379526), (7, 12144832, 2106894)], 'nsol': 60, 'time': 262.6}  elapsed 2416s
+[230/250] {'root': [1, 35, 51, 77], 'children': 49, 'ok': 49, 'fail': 0, 'n7': 2128797, 'root_counts': [(4, 1048576, 79748), (5, 2551936, 134060), (6, 4289920, 388753), (7, 12440096, 2128797)], 'nsol': 60, 'time': 283.1}  elapsed 2456s
+[231/250] {'root': [1, 35, 50, 77], 'children': 6, 'ok': 6, 'fail': 0, 'n7': 2070965, 'root_counts': [(4, 1048576, 79436), (5, 2541952, 131965), (6, 4222880, 380474), (7, 12175168, 2070965)], 'nsol': 60, 'time': 49.1}  elapsed 2466s
+[232/250] {'root': [3, 34, 50, 80], 'children': 3, 'ok': 3, 'fail': 0, 'n7': 2034364, 'root_counts': [(4, 1048576, 79221), (5, 2535072, 129386), (6, 4140352, 379098), (7, 12131136, 2034364)], 'nsol': 60, 'time': 28.6}  elapsed 2484s
+[233/250] {'root': [3, 34, 52, 78], 'children': 11, 'ok': 11, 'fail': 0, 'n7': 2124764, 'root_counts': [(4, 1048576, 81108), (5, 2595456, 136395), (6, 4364640, 398642), (7, 12756544, 2124764)], 'nsol': 60, 'time': 87.5}  elapsed 2553s
+[234/250] {'root': [3, 34, 52, 77], 'children': 13, 'ok': 13, 'fail': 0, 'n7': 2118110, 'root_counts': [(4, 1048576, 81103), (5, 2595296, 137018), (6, 4384576, 396737), (7, 12695584, 2118110)], 'nsol': 60, 'time': 106.5}  elapsed 2591s
+[235/250] {'root': [3, 34, 51, 79], 'children': 27, 'ok': 27, 'fail': 0, 'n7': 2123357, 'root_counts': [(4, 1048576, 80259), (5, 2568288, 132694), (6, 4246208, 390682), (7, 12501824, 2123357)], 'nsol': 60, 'time': 140.5}  elapsed 2694s
+[236/250] {'root': [3, 34, 51, 77], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2033982, 'root_counts': [(4, 1048576, 80805), (5, 2585760, 134159), (6, 4293088, 384408), (7, 12301056, 2033982)], 'nsol': 60, 'time': 23.2}  elapsed 2717s
+[237/250] {'root': [36, 92, 51, 76], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2104969, 'root_counts': [(4, 1048576, 79220), (5, 2535040, 136276), (6, 4360832, 387647), (7, 12404704, 2104969)], 'nsol': 60, 'time': 22.8}  elapsed 2740s
+[238/250] {'root': [36, 92, 50, 77], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2103752, 'root_counts': [(4, 1048576, 79217), (5, 2534944, 132434), (6, 4237888, 382411), (7, 12237152, 2103752)], 'nsol': 60, 'time': 23.5}  elapsed 2763s
+[239/250] {'root': [36, 92, 1, 50], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2763s
+[240/250] {'root': [36, 92, 0, 51], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 2121485, 'root_counts': [(4, 1048576, 79666), (5, 2549312, 137453), (6, 4398496, 392342), (7, 12554944, 2121485)], 'nsol': 60, 'time': 26.5}  elapsed 2790s
+[241/250] {'root': [36, 92, 0, 50], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 2137437, 'root_counts': [(4, 1048576, 79259), (5, 2536288, 133325), (6, 4266400, 386001), (7, 12352032, 2137437)], 'nsol': 60, 'time': 28.0}  elapsed 2818s
+[242/250] {'root': [6, 33, 52, 80], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2818s
+[243/250] {'root': [6, 33, 51, 82], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2818s
+[244/250] {'root': [6, 33, 50, 82], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2818s
+[245/250] {'root': [6, 33, 51, 81], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2818s
+[246/250] {'root': [6, 33, 51, 80], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2818s
+[247/250] {'root': [6, 33, 50, 81], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2818s
+[248/250] {'root': [6, 33, 51, 79], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2818s
+[249/250] {'root': [3, 34, 51, 78], 'children': 45, 'ok': 45, 'fail': 0, 'n7': 2145268, 'root_counts': [(4, 1048576, 80428), (5, 2573696, 132545), (6, 4241440, 392731), (7, 12567392, 2145268)], 'nsol': 60, 'time': 274.9}  elapsed 2866s
+[250/250] {'root': [0, 35, 52, 76], 'children': 15, 'ok': 15, 'fail': 0, 'n7': 2099594, 'root_counts': [(4, 1048576, 80019), (5, 2560608, 139646), (6, 4468672, 395336), (7, 12650752, 2099594)], 'nsol': 60, 'time': 86.1}  elapsed 2904s
+done

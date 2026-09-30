@@ -1,0 +1,27 @@
+# Appendix B. Revision history and second-review response
+
+**Version boundary.** The table below records the earlier response, not current assurance. Its references to Lemma R, unconditional cache verification, closed-box selector exclusion and historical program comparisons are superseded as follows. Appendix A withdraws Lemma R; receipts now bind actual inputs and environment; selectors preserve canonical half-open owners rather than every intersecting closed box; unsupported historical-code criticism is removed. Historical logs do not verify revised source bytes.
+
+The 30 September review is addressed by these changes, by the explicit boundary-owner and stale-cache negative controls, and by an exact generic mixed-parameter Krawczyk fixture. This fixture does not claim to kill the surviving MUB-kernel mutation. All eight depth-three subdivision parents are accounted for. Larger-family transfer is future work subject to the capacities and algebraic-branch obligations in Section 11.4. The reusable certificate interface is supplied separately. During revision a further optimized-Python defect was repaired: family installation is now an explicit call, not a side effect inside an assertion. Fresh clean replay, not imported historical successes, determines this revision's computational status.
+
+## Historical first-review response (superseded where noted above)
+
+The review of the earlier version (29 September 2026) made six major comments, several minor ones, and recommendations under "must", "should" and "could". Each is listed with the change made.
+
+| Comment | Change in this version | Where |
+|---|---|---|
+| 4.1 Outward enclosure false as implemented (`dmul`, `imatmul`; shortfall $2^{-104}$ at $r=1+2^{-52}$) | Generator: every radius passes through the outward correction of Lemma R; non-monotone quantities use one-ulp steps; the referee's two counterexamples and 20,000 random disc products are regression tests. Proof: carried by the checker, whose kernel moves every result one ulp outward (Lemma 13) and is tested against exact rational arithmetic. Every certificate was regenerated and replayed. | §5.1, §7, App. A, §8.3 |
+| 4.2 Parameter selector uses `np.exp` and a margin of $10^{-9}$ | New selector with exact integer ordering tests and interval evaluation of the (C) and (S) tests from the verified table (no library transcendental functions); explicit bound for the support-function inequality, including the norm of the candidate direction; implemented independently in the checker. | §3.4, Lemma 11 |
+| 4.3 Verification less independent than claimed; 138 empty-hull records not replayable | An independent checker (no shared code) re-derives the parameter cover with its own selector, re-verifies coverage of every certificate by branch and bound, and recomputes the graphs and the clique condition. Boxes with no hulls are verified in the same way (every phase box is excluded). Independence boundaries are tabulated. | §6, §8, Table 1 |
+| 4.4 `cyclic_hull` can omit part of its input | Wrapping intervals are split before merging; the referee's example and 3,000 adversarial cases pass. Hulls are now formed from dyadic boxes only. In any case a wrong hull would be rejected by the checker. | §7 |
+| 4.5 Resumption treats failed records as done | Explicit states *certified*, *refined*, *failed*; only certified records are skipped; the referee's synthetic record is a regression test. The checker never trusts a record's status: it verifies every certificate it uses and reports boxes without a verified certificate as holes. | §7, §6.5 |
+| 4.6 Positioning relative to Jaming et al.; degeneracy claims | The comparison is rewritten from their paper and program (discretisation lemmas, grids, tolerance); their theorem is re-proved with the present checker. Degeneracy statements are now numerical diagnostics in 60-digit arithmetic, with the multiple-root question left open; the claim that "no isolation argument can succeed" is replaced by a statement about simple-root isolation at fixed resolution. | §1.3, §11.2, §10 |
+| Minor: README versus §9 on raw files | All raw per-machine results files, logs and checker outputs are included, with SHA-256 checksums. | App. C |
+| Minor: solution-count histogram incomplete | Complete histograms are given, and labelled as numerical counts. | §9 |
+| Minor: figure is not proof of coverage | No coverage figure is used as evidence; coverage is the checker's cover-tree verification. | §6.5, §9 |
+| Minor: $0.5+0.2887i$ only approximately on the ray | The exact value $\tfrac12+\tfrac{i}{2\sqrt3}$ is used. | §10 |
+| Minor: empty hulls do not imply $P\cap\Sigma=\emptyset$ | No such inference is made. A box with no hulls is certified because every unbiased vector for every $p\in P\cap\Sigma$ is excluded, which suffices. As a separate diagnostic, the checker's selector proves $P\cap\mathcal F=\emptyset$ by subdivision for @@EMPTY_PHRASE@@. | §9 |
+| Minor: table precision wording; "nine files" versus ten modules | Rewritten; module inventory with line counts and checksums. | §5.2, App. C |
+| Should: dependency diagram | Figure 1 and Table 1. | §8 |
+| Should: adversarial tests, provenance | Regression tests for every counterexample, a kernel test-suite of eleven groups, mutation testing, runs on three platforms (two architectures); provenance inventory. | §8.3, App. C |
+| Could: reusable theorem-and-checker interface | Admissible families, certificates and proof obligations (Theorem 7); applied unchanged to the Fourier family. | §2, §4, §11.4 |

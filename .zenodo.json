@@ -1,0 +1,18 @@
+{
+  "title": "No Szöllősi matrix lies in a quadruplet of mutually unbiased bases in dimension six",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "creators": [{"name": "Anonymous"}],
+  "version": "3.0-candidate",
+  "publication_date": "2026-09-30",
+  "description": "Unrefereed candidate excluding the specified closed two-circulant Szollosi family from MUB quadruplets in complex dimension six. The Fourier-family result re-proves prior work. The unrestricted dimension-six maximum remains conditional on MMVW Conjecture 2. The package separates an untrusted hull generator from an interval and graph checker; canonical half-open ownership repairs boundary coverage, and input-bound clean replay prevents stale cache acceptance. No end-to-end formal verification, unaffiliated reproduction or external human peer review is claimed. See the replay receipt for exact measured scope. Original prose and data CC0; original code MIT; third-party and review material retain their terms.",
+  "license": "cc-zero",
+  "access_right": "open",
+  "keywords": ["mutually unbiased bases", "complex Hadamard matrices", "dimension six", "Szollosi family", "interval arithmetic", "computer-assisted proof"],
+  "related_identifiers": [
+    {"identifier": "https://github.com/ipitchford/szollosi-mub-exclusion/tree/v3.0-candidate", "relation": "isSupplementTo", "scheme": "url"},
+    {"identifier": "10.1007/s10801-026-01506-x", "relation": "cites", "scheme": "doi"},
+    {"identifier": "10.1088/1751-8113/42/24/245305", "relation": "cites", "scheme": "doi"},
+    {"identifier": "10.1090/S0002-9939-09-10102-8", "relation": "cites", "scheme": "doi"}
+  ]
+}

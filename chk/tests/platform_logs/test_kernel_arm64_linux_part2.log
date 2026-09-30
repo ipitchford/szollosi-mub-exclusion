@@ -1,0 +1,3 @@
+T4: 375872 boxes containing numerically certified solutions (residual < 1e-10) never excluded by the modulus, mean-value or Krawczyk tests
+T11: 2880 sampled points (w, q) satisfy g_q(w) - w~ in K - w~ (Krawczyk assembly, exact evaluation)
+ALL PASS

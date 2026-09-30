@@ -1,0 +1,6 @@
+07:23:09 table sha256 075160008692331ecec57ebd851514642c5800b39d9bcad11c668c01074c5969
+07:23:17 table: 131072 entries, 262144 components checked with mpmath.iv, 0 failures [8s]
+07:23:26   sub-box [272, 751, 439, 584] (level 10) not verified: {'dep': [1, 2], 'L7': (108221, 108221, 103692, 1462), 'L8': (46784, 21520, 19382, 107), 'L9': (3424, 2033, 2033, 19), 'L10': (608, 482, 482, 20), 'L11': (640, 640, 640, 6), 'L12': (192, 192, 192, 3), 'fail_boxes': [[3691, 630, 1157, 2176, 3635], [3691, 631, 1157, 2176, 3636], [3691, 632, 1157, 2176, 3636]]}
+07:23:26 box 9 [136, 375, 219, 292]: split to level 10, 3 kept sub-boxes, coverage False
+07:23:31 box 9 [136, 375, 219, 292]: split to level 11, 8 kept sub-boxes, coverage True
+07:23:31 RESULT 9 [136, 375, 219, 292] ok

@@ -1,0 +1,257 @@
+{
+ "alpha = 0": {
+  "idx": [
+   0,
+   170,
+   0,
+   170
+  ],
+  "checker": {
+   "lev": 9,
+   "idx": [
+    0,
+    170,
+    0,
+    170
+   ],
+   "root": [
+    0,
+    42,
+    0,
+    42
+   ],
+   "hulls_sha": "7de765a3689c28d4",
+   "ok": true,
+   "coverage": true,
+   "graphs": true,
+   "nh": 49,
+   "cov_stats": {
+    "dep": [
+     0,
+     1
+    ],
+    "L7": [
+     179596,
+     179596,
+     170999,
+     3977
+    ],
+    "L8": [
+     127264,
+     70657,
+     67552,
+     31
+    ],
+    "L9": [
+     992,
+     828,
+     828,
+     0
+    ]
+   },
+   "graph_info": {
+    "n": 49,
+    "cliques": 60,
+    "edgesO": 212,
+    "edgesB": 451
+   },
+   "time": 1.72
+  },
+  "generator": {
+   "lev": 9,
+   "idx": [
+    0,
+    170,
+    0,
+    170
+   ],
+   "L7": [
+    1836954,
+    13541
+   ],
+   "nsol": 60,
+   "rescued": 0,
+   "leftover": 0,
+   "hulls": 49,
+   "max_hw": 0.17180584824319187,
+   "ok": true,
+   "cert": {
+    "n": 49,
+    "cliques": 60,
+    "edgesO": 212,
+    "edgesB": 543
+   },
+   "time": 4.5,
+   "Lmax": 9,
+   "status": "certified"
+  }
+ },
+ "ray point 1/2 + i/(2 sqrt3)": {
+  "idx": [
+   19,
+   137,
+   203,
+   322
+  ],
+  "checker": {
+   "lev": 9,
+   "idx": [
+    19,
+    137,
+    203,
+    322
+   ],
+   "root": [
+    4,
+    34,
+    50,
+    80
+   ],
+   "hulls_sha": "55eee42dac304bfe",
+   "ok": true,
+   "coverage": true,
+   "graphs": true,
+   "nh": 54,
+   "cov_stats": {
+    "dep": [
+     1,
+     2
+    ],
+    "L7": [
+     183201,
+     183201,
+     178607,
+     3349
+    ],
+    "L8": [
+     107168,
+     62502,
+     55369,
+     0
+    ]
+   },
+   "graph_info": {
+    "n": 54,
+    "cliques": 1,
+    "edgesO": 112,
+    "edgesB": 336
+   },
+   "time": 1.53
+  },
+  "generator": {
+   "lev": 9,
+   "idx": [
+    19,
+    137,
+    203,
+    322
+   ],
+   "L7": [
+    2101903,
+    9092
+   ],
+   "nsol": 54,
+   "rescued": 0,
+   "leftover": 0,
+   "hulls": 54,
+   "max_hw": 0.15953400194010672,
+   "ok": true,
+   "cert": {
+    "n": 54,
+    "cliques": 1,
+    "edgesO": 142,
+    "edgesB": 433
+   },
+   "time": 3.9,
+   "Lmax": 9,
+   "status": "certified"
+  }
+ },
+ "alpha = 1 (Dita)": {
+  "idx": [
+   0,
+   128,
+   0,
+   256
+  ],
+  "checker": {
+   "lev": 9,
+   "idx": [
+    0,
+    128,
+    0,
+    256
+   ],
+   "root": [
+    0,
+    32,
+    0,
+    64
+   ],
+   "hulls_sha": "1f3028c7d25793f0",
+   "ok": true,
+   "coverage": true,
+   "graphs": true,
+   "nh": 120,
+   "cov_stats": {
+    "dep": [
+     1,
+     2
+    ],
+    "L7": [
+     717538,
+     717538,
+     707452,
+     10210
+    ],
+    "L8": [
+     326720,
+     197689,
+     177567,
+     40
+    ],
+    "L9": [
+     1280,
+     1098,
+     1098,
+     0
+    ]
+   },
+   "graph_info": {
+    "n": 120,
+    "cliques": 10,
+    "edgesO": 826,
+    "edgesB": 2710
+   },
+   "time": 6.17
+  },
+  "generator": {
+   "lev": 9,
+   "idx": [
+    0,
+    128,
+    0,
+    256
+   ],
+   "L7": [
+    6927945,
+    28006
+   ],
+   "nsol": 120,
+   "rescued": 0,
+   "leftover": 0,
+   "hulls": 120,
+   "max_hw": 0.09817477042468106,
+   "ok": true,
+   "cert": {
+    "n": 120,
+    "cliques": 10,
+    "edgesO": 913,
+    "edgesB": 3108
+   },
+   "time": 13.0,
+   "Lmax": 9,
+   "status": "certified"
+  }
+ }
+}

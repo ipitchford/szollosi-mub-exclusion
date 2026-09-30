@@ -1,0 +1,98 @@
+{
+ "family": "fourier",
+ "generator_files": [
+  "results/gen_fourier.jsonl"
+ ],
+ "checker_files": [
+  "chk_results/chk_fourier.jsonl"
+ ],
+ "certified_records_all_levels": 1935,
+ "generator_record_states": {
+  "certified": 1935
+ },
+ "certified_boxes": 1935,
+ "levels": {
+  "9": 1935
+ },
+ "second_attempt_Lmax10": 0,
+ "nsol_histogram": {
+  "48": 1935
+ },
+ "hulls_per_box": {
+  "p0": 48.0,
+  "p50": 48.0,
+  "p90": 48.0,
+  "p99": 48.0,
+  "p100": 55.0
+ },
+ "boxes_without_hulls": 0,
+ "max_hull_halfwidth": {
+  "p0": 0.04908738521234053,
+  "p50": 0.04908738521234053,
+  "p90": 0.0736310778185108,
+  "p99": 0.08590292412159593,
+  "p100": 0.17180584824319187
+ },
+ "rescued_solutions": 0,
+ "boxes_with_rescue": 0,
+ "boxes_with_extra_hulls": 4,
+ "extra_hulls_total": 13,
+ "gen_cliques": {
+  "p0": 8.0,
+  "p50": 8.0,
+  "p90": 8.0,
+  "p99": 16.0,
+  "p100": 897.0
+ },
+ "gen_cliques_total": 17608,
+ "gen_time_s_total": 878.5999999999874,
+ "gen_time_per_box": {
+  "p0": 0.4,
+  "p50": 0.4,
+  "p90": 0.5,
+  "p99": 1.0,
+  "p100": 1.9
+ },
+ "survivors_L7_after_retest": {
+  "p0": 1079.0,
+  "p50": 1500.0,
+  "p90": 1842.0,
+  "p99": 3516.940000000005,
+  "p100": 9934.0
+ },
+ "checker_boxes": 1935,
+ "checker_verified": 1935,
+ "checker_failed": [],
+ "boxes_with_several_generator_records": 0,
+ "hull_digest_mismatches": [],
+ "hull_digest_mismatch_count": 0,
+ "checker_deepest_phase_level": {
+  "8": 74,
+  "9": 1858,
+  "10": 3
+ },
+ "checker_parameter_split": [],
+ "checker_time_boxes_s": 978.9800000000026,
+ "checker_time_roots_s": 1374.5,
+ "checker_roots": 142,
+ "roots_with_children": 142,
+ "root_pass_L7_survivors": {
+  "p0": 78425.0,
+  "p50": 89548.0,
+  "p90": 120227.00000000003,
+  "p99": 173299.14,
+  "p100": 178341.0
+ },
+ "checker_graph": {
+  "cliques": {
+   "p0": 8.0,
+   "p50": 8.0,
+   "p90": 8.0,
+   "p99": 15.660000000000082,
+   "p100": 897.0
+  },
+  "cliques_total": 17148,
+  "edgesO_max": 300,
+  "edgesB_max": 460
+ }
+}

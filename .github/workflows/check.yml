@@ -1,0 +1,29 @@
+name: Candidate checks
+on: [push, pull_request, workflow_dispatch]
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.14'
+      - run: pip install -r requirements.txt
+      - run: sh -e chk/build.sh
+      - name: Kernel, boundary and semantic negative controls
+        env:
+          OMP_NUM_THREADS: '1'
+          OPENBLAS_NUM_THREADS: '1'
+        run: |
+          python chk/tests/test_kernel.py
+          python chk/tests/test_revision.py
+          python -O chk/tests/test_revision.py
+          python -O chk/tests/test_boundary_interval.py
+      - name: Exact identities and Fourier domain
+        run: |
+          python exact/lemma5_exact.py
+          python fourier/fundamental_domain.py
+          python fourier/fourier_exact.py
+      - name: Assurance boundary
+        run: echo 'This CI runs tests and exact identities, not the multi-hour full phase-space replay. See the version-bound replay receipt.'

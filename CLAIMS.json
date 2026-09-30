@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "1.0",
+  "release": "3.0-candidate",
+  "creator": "Anonymous",
+  "doi": "10.5281/zenodo.23051062",
+  "status": "unrefereed-candidate; clean full local replay passed",
+  "claims": [
+    {
+      "id": "szollosi-closed-family-exclusion",
+      "statement": "For every complex Hadamard matrix S of order six in the specified two-circulant Szollosi family, there are no unitary matrices C,D for which {I,S/sqrt(6),C,D} is a set of four mutually unbiased bases.",
+      "scope": "Entire specified closed two-parameter family, including boundaries and degeneracies; not all order-six Hadamard matrices.",
+      "location": "paper/paper.md, Theorem 1",
+      "evidence": ["paper/paper.md", "CERTIFICATE_INTERFACE.md", "chk/full_replay.py"],
+      "dependencies": ["written symmetry/ownership/encoding bridge", "IEEE binary64 interval kernel and compiler", "fresh complete retained parameter cover", "verified graph obstruction"]
+    },
+    {
+      "id": "fourier-reproof",
+      "statement": "The standard basis and any member of the two-parameter Fourier family cannot extend to a quadruplet of mutually unbiased bases in dimension six.",
+      "scope": "New checked implementation of the theorem of Jaming et al. (2009), not a new exclusion theorem.",
+      "location": "paper/paper.md, Theorem 3",
+      "evidence": ["fourier/fundamental_domain.py", "fourier/fourier_exact.py", "chk/full_replay.py"]
+    },
+    {
+      "id": "conditional-three-basis-maximum",
+      "statement": "If MMVW Conjecture 2 holds, the maximum number of mutually unbiased bases in dimension six is three.",
+      "scope": "Conditional consequence; the imported algebraic conjecture is not proved here.",
+      "location": "paper/paper.md, Corollary 2",
+      "dependencies": ["szollosi-closed-family-exclusion", "fourier-reproof", "MMVW Conjecture 2 and Proposition 4.2"]
+    }
+  ],
+  "assurance": {
+    "authorClaim": "candidate computer-assisted proof",
+    "formalVerification": "not established",
+    "independentReproduction": "not established",
+    "humanPeerReview": "not established",
+    "novelty": "bounded retrospective source comparison, not exhaustive clearance",
+    "systemAssessment": "review repairs implemented; full clean local replay passed both families including all required boundary subdivisions; semantic proof and toolchain trust remain separate layers"
+  }
+}

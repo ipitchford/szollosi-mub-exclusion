@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "recordBoundary": "Retrospective publication-intake assessment on 2026-09-30. This does not claim that a prospective prior-art gate was recorded during the original research.",
+  "contributionMap": [
+    {
+      "claim": "Exclusion of the entire closed two-circulant Szollosi family from MUB quadruplets in dimension six",
+      "unit": "statement",
+      "paperLocation": "paper/paper.md, Theorem 1",
+      "searches": [{"date": "2026-09-30", "query": "Szollosi family mutually unbiased bases Conjecture 3 exclusion; MMVW and correction papers", "corpus": "Primary arXiv papers and linked published versions, bounded intake comparison"}],
+      "closestPriorWork": "MMVW Conjecture 3; disputed earlier exclusions examined alongside McNulty-Weigert and Liang-Chen reply v3",
+      "verdict": "new-in-bounded-search",
+      "qualification": "Candidate-new in a bounded search, not exhaustive novelty clearance",
+      "evidence": "CITATION_AUDIT.md"
+    },
+    {
+      "claim": "Fourier-family exclusion",
+      "unit": "statement",
+      "paperLocation": "paper/paper.md, Theorem 3",
+      "searches": [{"date": "2026-09-30", "query": "Jaming Matolcsi Mora Szollosi Weiner Fourier MUB Theorem 1.4", "corpus": "arXiv:0902.0882v2"}],
+      "closestPriorWork": "Jaming et al. (2009), Theorem 1.4",
+      "verdict": "known-cited",
+      "qualification": "New implementation and replay, not a new exclusion theorem"
+    },
+    {
+      "claim": "Parameter discretisation, interval coverage and combinatorial exclusion",
+      "unit": "method",
+      "paperLocation": "paper/paper.md, Sections 2, 5-8 and 11.2",
+      "searches": [{"date": "2026-09-30", "query": "Jaming discretisation MUB Fourier error bounds; MMVW Conjecture 3 implementation", "corpus": "arXiv:0902.0882v2 Section 3 and arXiv:2503.14752v2 Proposition 4.2"}],
+      "closestPriorWork": "Jaming et al. discretisation strategy, explicitly proposed by MMVW for this target",
+      "verdict": "partially-known-cited",
+      "qualification": "Known method adapted; separated outward-rounded checker and explicit ownership/receipt interface"
+    },
+    {
+      "claim": "Specified matrix family and closed deltoid parameter region",
+      "unit": "object",
+      "paperLocation": "paper/paper.md, Section 3",
+      "searches": [{"date": "2026-09-30", "query": "Szollosi two-parameter hypocycloids family two circulant reconstruction transpose", "corpus": "arXiv:0811.3930v2 Section 2"}],
+      "closestPriorWork": "Szollosi (2010), equations (1), (7)-(14), Theorem 2.2",
+      "verdict": "known-cited",
+      "qualification": "No new matrix family claimed"
+    }
+  ],
+  "sourcesReadInFull": [
+    {"citation": "arXiv:2503.14752v2", "usedFor": "Exact target and conditional route", "readWhat": "Load-bearing Conjecture 3 and Proposition 4.2 with surrounding assumptions", "date": "2026-09-30", "evidenceLocator": "CITATION_AUDIT.md, MMVW row"},
+    {"citation": "arXiv:2504.13067v1 and arXiv:2504.15576v3", "usedFor": "Status of the disputed prior exclusion", "readWhat": "Relevant correction and response arguments, not just abstracts", "date": "2026-09-30", "evidenceLocator": "CITATION_AUDIT.md, correction and reply rows"},
+    {"citation": "arXiv:0811.3930v2", "usedFor": "Family reconstruction and transpose boundary", "readWhat": "Section 2, equations (1), (7)-(14), Theorem 2.2 and relevant argument", "date": "2026-09-30", "evidenceLocator": "CITATION_AUDIT.md, Szollosi row"},
+    {"citation": "arXiv:0902.0882v2", "usedFor": "Existing theorem and methodological precedent", "readWhat": "Theorem 1.4 and relevant Section 3 discretisation/error-bound argument", "date": "2026-09-30", "evidenceLocator": "CITATION_AUDIT.md, Jaming row"}
+  ],
+  "limitationTriage": [
+    {"limitation": "The unrestricted three-basis maximum requires MMVW Conjecture 2", "closingQuestion": "Does an established result already discharge that conjecture?", "triedOrSearched": "Compared the MMVW route, correction papers and newer classification claim; a classification is not an MUB quartet exclusion", "estimatedCost": "Not a bounded publication repair", "cheap": false, "decision": "OPEN", "reasonOpen": "No established discharge identified", "whyNotClosedNow": "Keep Corollary 2 explicitly conditional; do not substitute a new research programme"},
+    {"limitation": "One supplied kernel mutation survived", "closingQuestion": "Can the mixed-parameter omission be shown unsafe without claiming exhaustive mutation coverage?", "triedOrSearched": "Added an exact rational mixed-parameter Krawczyk counterexample and normal/optimized regression tests", "estimatedCost": "Bounded regression fixture", "cheap": true, "decision": "OPEN", "reasonOpen": "The generic counterexample establishes necessity but does not kill the specific kernel mutant", "whyNotClosedNow": "Retain the 16/17 limit rather than inflate testing assurance"},
+    {"limitation": "Broader Karlsson and Szollosi families are not implemented inputs", "closingQuestion": "Does parameter count alone prove compatibility?", "triedOrSearched": "Checked finite kernel capacities and the need for algebraic reconstruction and branch coverage", "estimatedCost": "New encoding and coverage proof", "cheap": false, "decision": "OPEN", "reasonOpen": "The transfer claim exceeds demonstrated scope", "whyNotClosedNow": "Reclassified as future work"},
+    {"limitation": "No external full reproduction or proof-assistant verification", "closingQuestion": "Can local checking establish external independence?", "triedOrSearched": "Separated producer-side replay, reviewer-selected replay, and implementation diversity in the assurance map", "estimatedCost": "Independent external action or separate formalisation project", "cheap": false, "decision": "OPEN", "reasonOpen": "Local execution cannot supply those evidence types", "whyNotClosedNow": "Publish exact commands and trust boundaries for future scrutiny"}
+  ],
+  "extensionScout": {
+    "by": "Codex publication intake",
+    "date": "2026-09-30",
+    "proposals": ["External clean replay", "Kernel-specific mixed-term mutation control", "Separately proved larger-family encoding"],
+    "actions": ["Expose reproducible interface and exact assurance limits", "Do not add unsupported claims during packaging"]
+  }
+}

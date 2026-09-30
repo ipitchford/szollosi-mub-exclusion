@@ -1,0 +1,9 @@
+T1: 16052 arithmetic enclosures + 4013 square roots checked exactly
+T2: 3000 exp(i phi) enclosures x 5 points checked with mpmath
+T3: 10800 S_j rectangle enclosures checked with mpmath (both families)
+T5: 13440 sampled pair values; orthogonality of the Fourier basis detected; self-check sampled
+T6: 5690 (point, level) pairs of the fundamental domain kept by the checker selector
+T7: 950 containment decisions equal brute force or exact edge expectations
+T8: 1344 ordering decisions sound against brute force
+T9: family data equal the defining formulas (200 + 200 random parameters; 22 Hadamard checks on the surface)
+ALL PASS

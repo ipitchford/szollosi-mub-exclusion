@@ -1,0 +1,19 @@
+Revision 3 local verification environment, observed 30 September 2026:
+Python 3.14.7 (Clang 21.0.0)
+macOS 27.0, arm64
+NumPy 2.4.2
+mpmath 1.3.0
+SymPy 1.14.0
+Apple clang 21.0.0 (clang-2100.3.34.2)
+
+Kernel flags: -O2 -fPIC -dynamiclib -std=c99 -Wall
+-Wno-misleading-indentation -ffp-contract=off -fno-fast-math -frounding-math
+No fast-math or floating-point contraction. IEEE binary64 remains trusted.
+OMP_NUM_THREADS=1 and OPENBLAS_NUM_THREADS=1 for the clean full replay.
+
+The exact source, compiled binary and runtime identity are additionally bound
+inside each revised receipt. Rebuild and replay for a different environment;
+do not import receipts produced under a different binary/context hash.
+requirements.txt pins replay libraries, not the whole operating system.
+Pandoc and Tectonic are separately required to rebuild the manuscript.
+python-flint is required only for optional generator work, not checker replay.

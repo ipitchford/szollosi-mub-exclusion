@@ -1,0 +1,925 @@
+szollosi: 922 roots at level 7; 6 processes
+resume: 5980 certified records found
+[1/922] {'root': [17, 18, 66, 67], 'children': 21, 'skipped': True, 'time': 0.0}  elapsed 1s
+[2/922] {'root': [17, 18, 64, 70], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 1s
+[3/922] {'root': [17, 18, 64, 69], 'children': 14, 'skipped': True, 'time': 0.0}  elapsed 1s
+[4/922] {'root': [17, 18, 63, 70], 'children': 6, 'skipped': True, 'time': 0.0}  elapsed 1s
+[5/922] {'root': [17, 18, 66, 68], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 1s
+[6/922] {'root': [16, 19, 63, 71], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 1s
+[7/922] {'root': [17, 18, 63, 71], 'children': 2, 'skipped': True, 'time': 0.0}  elapsed 1s
+[8/922] {'root': [16, 19, 63, 70], 'children': 7, 'skipped': True, 'time': 0.0}  elapsed 1s
+[9/922] {'root': [16, 19, 65, 67], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1s
+[10/922] {'root': [16, 19, 62, 71], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1s
+[11/922] {'root': [16, 19, 66, 67], 'children': 24, 'skipped': True, 'time': 0.0}  elapsed 1s
+[12/922] {'root': [16, 19, 64, 69], 'children': 17, 'skipped': True, 'time': 0.0}  elapsed 1s
+[13/922] {'root': [17, 18, 67, 67], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 1s
+[14/922] {'root': [16, 19, 65, 68], 'children': 21, 'skipped': True, 'time': 0.0}  elapsed 1s
+[15/922] {'root': [16, 19, 67, 67], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 1s
+[16/922] {'root': [16, 19, 65, 69], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 1s
+[17/922] {'root': [16, 19, 64, 70], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 1s
+[18/922] {'root': [17, 18, 65, 68], 'children': 21, 'skipped': True, 'time': 0.0}  elapsed 1s
+[19/922] {'root': [15, 20, 62, 71], 'children': 2, 'skipped': True, 'time': 0.0}  elapsed 1s
+[20/922] {'root': [15, 20, 63, 70], 'children': 8, 'skipped': True, 'time': 0.0}  elapsed 1s
+[21/922] {'root': [15, 20, 63, 71], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 1s
+[22/922] {'root': [15, 20, 65, 67], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 1s
+[23/922] {'root': [15, 20, 64, 68], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 1s
+[24/922] {'root': [15, 20, 64, 69], 'children': 25, 'skipped': True, 'time': 0.0}  elapsed 1s
+[25/922] {'root': [15, 20, 65, 68], 'children': 21, 'skipped': True, 'time': 0.0}  elapsed 1s
+[26/922] {'root': [15, 20, 65, 69], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1s
+[27/922] {'root': [15, 20, 66, 66], 'children': 4, 'skipped': True, 'time': 0.0}  elapsed 1s
+[28/922] {'root': [15, 20, 64, 70], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 1s
+[29/922] {'root': [14, 21, 63, 69], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 1s
+[30/922] {'root': [14, 21, 62, 71], 'children': 6, 'skipped': True, 'time': 0.0}  elapsed 1s
+[31/922] {'root': [14, 21, 63, 70], 'children': 16, 'skipped': True, 'time': 0.0}  elapsed 1s
+[32/922] {'root': [15, 20, 63, 69], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1s
+[33/922] {'root': [14, 21, 65, 67], 'children': 10, 'skipped': True, 'time': 0.0}  elapsed 1s
+[34/922] {'root': [14, 21, 66, 66], 'children': 9, 'skipped': True, 'time': 0.0}  elapsed 1s
+[35/922] {'root': [14, 21, 66, 67], 'children': 34, 'skipped': True, 'time': 0.0}  elapsed 1s
+[36/922] {'root': [14, 21, 64, 69], 'children': 21, 'skipped': True, 'time': 0.0}  elapsed 1s
+[37/922] {'root': [14, 21, 65, 68], 'children': 34, 'skipped': True, 'time': 0.0}  elapsed 1s
+[38/922] {'root': [14, 21, 63, 71], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 1s
+[39/922] {'root': [13, 22, 63, 69], 'children': 11, 'skipped': True, 'time': 0.0}  elapsed 1s
+[40/922] {'root': [13, 22, 61, 71], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 1s
+[41/922] {'root': [13, 22, 62, 70], 'children': 5, 'skipped': True, 'time': 0.0}  elapsed 1s
+[42/922] {'root': [13, 22, 62, 71], 'children': 9, 'skipped': True, 'time': 0.0}  elapsed 1s
+[43/922] {'root': [13, 22, 61, 72], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 1s
+[44/922] {'root': [13, 22, 66, 66], 'children': 15, 'skipped': True, 'time': 0.0}  elapsed 1s
+[45/922] {'root': [13, 22, 64, 69], 'children': 24, 'skipped': True, 'time': 0.0}  elapsed 1s
+[46/922] {'root': [13, 22, 66, 67], 'children': 29, 'skipped': True, 'time': 0.0}  elapsed 1s
+[47/922] {'root': [13, 22, 65, 67], 'children': 20, 'skipped': True, 'time': 0.0}  elapsed 1s
+[48/922] {'root': [13, 22, 64, 68], 'children': 16, 'skipped': True, 'time': 0.0}  elapsed 1s
+[49/922] {'root': [10, 24, 63, 68], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 1s
+[50/922] {'root': [10, 24, 63, 69], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1s
+[51/922] {'root': [10, 24, 64, 67], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 1s
+[52/922] {'root': [10, 24, 65, 66], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 1s
+[53/922] {'root': [10, 24, 66, 66], 'children': 4, 'skipped': True, 'time': 0.0}  elapsed 1s
+[54/922] {'root': [18, 18, 62, 71], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1s
+[55/922] {'root': [18, 18, 63, 70], 'children': 12, 'skipped': True, 'time': 0.0}  elapsed 1s
+[56/922] {'root': [18, 18, 63, 71], 'children': 4, 'skipped': True, 'time': 0.0}  elapsed 1s
+[57/922] {'root': [18, 18, 60, 73], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1s
+[58/922] {'root': [18, 18, 61, 72], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1s
+[59/922] {'root': [10, 24, 65, 67], 'children': 7, 'skipped': True, 'time': 0.0}  elapsed 1s
+[60/922] {'root': [18, 18, 61, 73], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1s
+[61/922] {'root': [18, 18, 62, 72], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1s
+[62/922] {'root': [18, 18, 66, 67], 'children': 21, 'skipped': True, 'time': 0.0}  elapsed 1s
+[63/922] {'root': [18, 18, 67, 67], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 1s
+[64/922] {'root': [18, 18, 64, 69], 'children': 17, 'skipped': True, 'time': 0.0}  elapsed 1s
+[65/922] {'root': [18, 18, 66, 68], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 1s
+[66/922] {'root': [18, 18, 65, 69], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 1s
+[67/922] {'root': [18, 18, 65, 68], 'children': 21, 'skipped': True, 'time': 0.0}  elapsed 1s
+[68/922] {'root': [17, 19, 63, 70], 'children': 19, 'skipped': True, 'time': 0.0}  elapsed 1s
+[69/922] {'root': [17, 19, 62, 71], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1s
+[70/922] {'root': [17, 19, 63, 71], 'children': 6, 'skipped': True, 'time': 0.0}  elapsed 1s
+[71/922] {'root': [17, 19, 59, 74], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1s
+[72/922] {'root': [17, 19, 60, 73], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1s
+[73/922] {'root': [17, 19, 61, 73], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1s
+[74/922] {'root': [17, 19, 60, 74], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1s
+[75/922] {'root': [17, 19, 62, 72], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1s
+[76/922] {'root': [17, 19, 65, 67], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1s
+[77/922] {'root': [17, 19, 66, 66], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1s
+[78/922] {'root': [17, 19, 66, 67], 'children': 35, 'skipped': True, 'time': 0.0}  elapsed 1s
+[79/922] {'root': [17, 19, 64, 69], 'children': 29, 'skipped': True, 'time': 0.0}  elapsed 1s
+[80/922] {'root': [17, 19, 65, 68], 'children': 35, 'skipped': True, 'time': 0.0}  elapsed 1s
+[81/922] {'root': [17, 19, 65, 69], 'children': 5, 'skipped': True, 'time': 0.0}  elapsed 1s
+[82/922] {'root': [17, 19, 64, 70], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 1s
+[83/922] {'root': [16, 20, 62, 71], 'children': 6, 'skipped': True, 'time': 0.0}  elapsed 1s
+[84/922] {'root': [16, 20, 63, 71], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 1s
+[85/922] {'root': [17, 19, 66, 68], 'children': 5, 'skipped': True, 'time': 0.0}  elapsed 1s
+[86/922] {'root': [16, 20, 59, 74], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1s
+[87/922] {'root': [16, 20, 59, 75], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1s
+[88/922] {'root': [16, 20, 60, 73], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1s
+[89/922] {'root': [16, 20, 61, 72], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1s
+[90/922] {'root': [16, 20, 61, 73], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1s
+[91/922] {'root': [16, 20, 62, 72], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1s
+[92/922] {'root': [16, 20, 65, 67], 'children': 5, 'skipped': True, 'time': 0.0}  elapsed 1s
+[93/922] {'root': [16, 20, 66, 66], 'children': 5, 'skipped': True, 'time': 0.0}  elapsed 1s
+[94/922] {'root': [16, 20, 66, 67], 'children': 35, 'skipped': True, 'time': 0.0}  elapsed 1s
+[95/922] {'root': [16, 20, 67, 67], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1s
+[96/922] {'root': [16, 20, 64, 68], 'children': 2, 'skipped': True, 'time': 0.0}  elapsed 1s
+[97/922] {'root': [16, 20, 65, 69], 'children': 5, 'skipped': True, 'time': 0.0}  elapsed 1s
+[98/922] {'root': [16, 20, 65, 68], 'children': 40, 'skipped': True, 'time': 0.0}  elapsed 1s
+[99/922] {'root': [16, 20, 64, 70], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 1s
+[100/922] {'root': [16, 20, 66, 68], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 1s
+[101/922] {'root': [12, 23, 61, 71], 'children': 4, 'skipped': True, 'time': 0.0}  elapsed 1s
+[102/922] {'root': [12, 23, 63, 69], 'children': 26, 'skipped': True, 'time': 0.0}  elapsed 1s
+[103/922] {'root': [12, 23, 62, 71], 'children': 15, 'skipped': True, 'time': 0.0}  elapsed 1s
+[104/922] {'root': [12, 23, 63, 70], 'children': 18, 'skipped': True, 'time': 0.0}  elapsed 1s
+[105/922] {'root': [12, 23, 61, 72], 'children': 5, 'skipped': True, 'time': 0.0}  elapsed 1s
+[106/922] {'root': [12, 23, 65, 67], 'children': 42, 'skipped': True, 'time': 0.0}  elapsed 1s
+[107/922] {'root': [12, 23, 66, 66], 'children': 25, 'skipped': True, 'time': 0.0}  elapsed 1s
+[108/922] {'root': [12, 23, 66, 67], 'children': 17, 'skipped': True, 'time': 0.0}  elapsed 1s
+[109/922] {'root': [12, 23, 64, 69], 'children': 18, 'skipped': True, 'time': 0.0}  elapsed 1s
+[110/922] {'root': [12, 23, 65, 68], 'children': 18, 'skipped': True, 'time': 0.0}  elapsed 1s
+[111/922] {'root': [15, 21, 63, 69], 'children': 5, 'skipped': True, 'time': 0.0}  elapsed 1s
+[112/922] {'root': [15, 21, 62, 70], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 1s
+[113/922] {'root': [15, 21, 62, 71], 'children': 34, 'skipped': True, 'time': 0.0}  elapsed 1s
+[114/922] {'root': [15, 21, 63, 70], 'children': 44, 'skipped': True, 'time': 0.0}  elapsed 1s
+[115/922] {'root': [15, 21, 59, 74], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1s
+[116/922] {'root': [15, 21, 59, 75], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1s
+[117/922] {'root': [15, 21, 60, 73], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1s
+[118/922] {'root': [15, 21, 61, 72], 'children': 13, 'skipped': True, 'time': 0.0}  elapsed 1s
+[119/922] {'root': [15, 21, 61, 73], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1s
+[120/922] {'root': [15, 21, 60, 74], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1s
+[121/922] {'root': [15, 21, 65, 67], 'children': 4, 'skipped': True, 'time': 0.0}  elapsed 1s
+[122/922] {'root': [15, 21, 66, 66], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 1s
+[123/922] {'root': [15, 21, 66, 67], 'children': 24, 'skipped': True, 'time': 0.0}  elapsed 1s
+[124/922] {'root': [15, 21, 64, 68], 'children': 5, 'skipped': True, 'time': 0.0}  elapsed 1s
+[125/922] {'root': [15, 21, 64, 69], 'children': 35, 'skipped': True, 'time': 0.0}  elapsed 1s
+[126/922] {'root': [15, 21, 65, 68], 'children': 34, 'skipped': True, 'time': 0.0}  elapsed 1s
+[127/922] {'root': [9, 25, 62, 69], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 1s
+[128/922] {'root': [9, 25, 63, 68], 'children': 10, 'skipped': True, 'time': 0.0}  elapsed 1s
+[129/922] {'root': [9, 25, 63, 69], 'children': 5, 'skipped': True, 'time': 0.0}  elapsed 1s
+[130/922] {'root': [9, 25, 62, 70], 'children': 2, 'skipped': True, 'time': 0.0}  elapsed 1s
+[131/922] {'root': [9, 25, 64, 67], 'children': 16, 'skipped': True, 'time': 0.0}  elapsed 1s
+[132/922] {'root': [9, 25, 65, 66], 'children': 15, 'skipped': True, 'time': 0.0}  elapsed 1s
+[133/922] {'root': [9, 25, 66, 66], 'children': 6, 'skipped': True, 'time': 0.0}  elapsed 1s
+[134/922] {'root': [9, 25, 64, 68], 'children': 13, 'skipped': True, 'time': 0.0}  elapsed 1s
+[135/922] {'root': [14, 22, 61, 71], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 1s
+[136/922] {'root': [14, 22, 63, 69], 'children': 9, 'skipped': True, 'time': 0.0}  elapsed 1s
+[137/922] {'root': [14, 22, 62, 70], 'children': 8, 'skipped': True, 'time': 0.0}  elapsed 1s
+[138/922] {'root': [14, 22, 59, 74], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1s
+[139/922] {'root': [14, 22, 62, 71], 'children': 52, 'skipped': True, 'time': 0.0}  elapsed 1s
+[140/922] {'root': [14, 22, 63, 71], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1s
+[141/922] {'root': [14, 22, 59, 75], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1s
+[142/922] {'root': [14, 22, 60, 73], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1s
+[143/922] {'root': [14, 22, 61, 72], 'children': 29, 'skipped': True, 'time': 0.0}  elapsed 1s
+[144/922] {'root': [14, 22, 61, 73], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 1s
+[145/922] {'root': [14, 22, 62, 72], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 1s
+[146/922] {'root': [14, 22, 65, 67], 'children': 9, 'skipped': True, 'time': 0.0}  elapsed 1s
+[147/922] {'root': [14, 22, 66, 66], 'children': 6, 'skipped': True, 'time': 0.0}  elapsed 1s
+[148/922] {'root': [14, 22, 66, 67], 'children': 15, 'skipped': True, 'time': 0.0}  elapsed 1s
+[149/922] {'root': [14, 22, 64, 68], 'children': 10, 'skipped': True, 'time': 0.0}  elapsed 1s
+[150/922] {'root': [14, 22, 64, 69], 'children': 32, 'skipped': True, 'time': 0.0}  elapsed 1s
+[151/922] {'root': [11, 24, 61, 71], 'children': 19, 'skipped': True, 'time': 0.0}  elapsed 1s
+[152/922] {'root': [11, 24, 62, 69], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1s
+[153/922] {'root': [11, 24, 63, 68], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 1s
+[154/922] {'root': [11, 24, 63, 69], 'children': 50, 'skipped': True, 'time': 0.0}  elapsed 1s
+[155/922] {'root': [11, 24, 62, 70], 'children': 40, 'skipped': True, 'time': 0.0}  elapsed 1s
+[156/922] {'root': [11, 24, 60, 72], 'children': 5, 'skipped': True, 'time': 0.0}  elapsed 2s
+[157/922] {'root': [11, 24, 62, 71], 'children': 11, 'skipped': True, 'time': 0.0}  elapsed 2s
+[158/922] {'root': [11, 24, 60, 73], 'children': 2, 'skipped': True, 'time': 0.0}  elapsed 2s
+[159/922] {'root': [11, 24, 61, 72], 'children': 6, 'skipped': True, 'time': 0.0}  elapsed 2s
+[160/922] {'root': [11, 24, 64, 67], 'children': 6, 'skipped': True, 'time': 0.0}  elapsed 2s
+[161/922] {'root': [11, 24, 65, 66], 'children': 5, 'skipped': True, 'time': 0.0}  elapsed 2s
+[162/922] {'root': [11, 24, 65, 67], 'children': 54, 'skipped': True, 'time': 0.0}  elapsed 2s
+[163/922] {'root': [11, 24, 66, 67], 'children': 4, 'skipped': True, 'time': 0.0}  elapsed 2s
+[164/922] {'root': [11, 24, 64, 68], 'children': 55, 'skipped': True, 'time': 0.0}  elapsed 2s
+[165/922] {'root': [11, 24, 64, 69], 'children': 5, 'skipped': True, 'time': 0.0}  elapsed 2s
+[166/922] {'root': [11, 24, 65, 68], 'children': 6, 'skipped': True, 'time': 0.0}  elapsed 2s
+[167/922] {'root': [6, 27, 63, 67], 'children': 5, 'skipped': True, 'time': 0.0}  elapsed 2s
+[168/922] {'root': [6, 27, 62, 68], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[169/922] {'root': [6, 27, 65, 65], 'children': 8, 'skipped': True, 'time': 0.0}  elapsed 2s
+[170/922] {'root': [6, 27, 64, 66], 'children': 8, 'skipped': True, 'time': 0.0}  elapsed 2s
+[171/922] {'root': [6, 27, 65, 66], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 2s
+[172/922] {'root': [6, 27, 64, 67], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 2s
+[173/922] {'root': [13, 23, 61, 71], 'children': 14, 'skipped': True, 'time': 0.0}  elapsed 2s
+[174/922] {'root': [13, 23, 63, 69], 'children': 13, 'skipped': True, 'time': 0.0}  elapsed 2s
+[175/922] {'root': [13, 23, 62, 71], 'children': 41, 'skipped': True, 'time': 0.0}  elapsed 2s
+[176/922] {'root': [13, 23, 63, 70], 'children': 25, 'skipped': True, 'time': 0.0}  elapsed 2s
+[177/922] {'root': [13, 23, 58, 75], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[178/922] {'root': [13, 23, 59, 74], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[179/922] {'root': [13, 23, 59, 75], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[180/922] {'root': [13, 23, 60, 72], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 2s
+[181/922] {'root': [13, 23, 61, 72], 'children': 41, 'skipped': True, 'time': 0.0}  elapsed 2s
+[182/922] {'root': [13, 23, 61, 73], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 2s
+[183/922] {'root': [13, 23, 60, 74], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[184/922] {'root': [13, 23, 65, 67], 'children': 10, 'skipped': True, 'time': 0.0}  elapsed 2s
+[185/922] {'root': [13, 23, 66, 66], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 2s
+[186/922] {'root': [13, 23, 66, 67], 'children': 4, 'skipped': True, 'time': 0.0}  elapsed 2s
+[187/922] {'root': [13, 23, 64, 69], 'children': 15, 'skipped': True, 'time': 0.0}  elapsed 2s
+[188/922] {'root': [13, 23, 65, 68], 'children': 10, 'skipped': True, 'time': 0.0}  elapsed 2s
+[189/922] {'root': [8, 26, 63, 67], 'children': 2, 'skipped': True, 'time': 0.0}  elapsed 2s
+[190/922] {'root': [8, 26, 61, 70], 'children': 9, 'skipped': True, 'time': 0.0}  elapsed 2s
+[191/922] {'root': [8, 26, 61, 71], 'children': 2, 'skipped': True, 'time': 0.0}  elapsed 2s
+[192/922] {'root': [8, 26, 62, 68], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 2s
+[193/922] {'root': [8, 26, 63, 68], 'children': 33, 'skipped': True, 'time': 0.0}  elapsed 2s
+[194/922] {'root': [8, 26, 63, 69], 'children': 4, 'skipped': True, 'time': 0.0}  elapsed 2s
+[195/922] {'root': [8, 26, 62, 70], 'children': 4, 'skipped': True, 'time': 0.0}  elapsed 2s
+[196/922] {'root': [8, 26, 65, 65], 'children': 4, 'skipped': True, 'time': 0.0}  elapsed 2s
+[197/922] {'root': [8, 26, 64, 67], 'children': 42, 'skipped': True, 'time': 0.0}  elapsed 2s
+[198/922] {'root': [8, 26, 64, 66], 'children': 4, 'skipped': True, 'time': 0.0}  elapsed 2s
+[199/922] {'root': [8, 26, 65, 67], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 2s
+[200/922] {'root': [8, 26, 66, 66], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 2s
+[201/922] {'root': [8, 26, 64, 68], 'children': 4, 'skipped': True, 'time': 0.0}  elapsed 2s
+[202/922] {'root': [10, 25, 60, 71], 'children': 2, 'skipped': True, 'time': 0.0}  elapsed 2s
+[203/922] {'root': [10, 25, 61, 70], 'children': 8, 'skipped': True, 'time': 0.0}  elapsed 2s
+[204/922] {'root': [10, 25, 61, 71], 'children': 39, 'skipped': True, 'time': 0.0}  elapsed 2s
+[205/922] {'root': [10, 25, 63, 68], 'children': 17, 'skipped': True, 'time': 0.0}  elapsed 2s
+[206/922] {'root': [10, 25, 63, 69], 'children': 47, 'skipped': True, 'time': 0.0}  elapsed 2s
+[207/922] {'root': [10, 25, 62, 70], 'children': 50, 'skipped': True, 'time': 0.0}  elapsed 2s
+[208/922] {'root': [10, 25, 62, 71], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 2s
+[209/922] {'root': [10, 25, 59, 73], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 2s
+[210/922] {'root': [10, 25, 60, 72], 'children': 19, 'skipped': True, 'time': 0.0}  elapsed 2s
+[211/922] {'root': [10, 25, 61, 72], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 2s
+[212/922] {'root': [10, 25, 64, 67], 'children': 18, 'skipped': True, 'time': 0.0}  elapsed 2s
+[213/922] {'root': [10, 25, 65, 66], 'children': 24, 'skipped': True, 'time': 0.0}  elapsed 2s
+[214/922] {'root': [10, 25, 65, 67], 'children': 38, 'skipped': True, 'time': 0.0}  elapsed 2s
+[215/922] {'root': [10, 25, 66, 66], 'children': 21, 'skipped': True, 'time': 0.0}  elapsed 2s
+[216/922] {'root': [10, 25, 64, 68], 'children': 40, 'skipped': True, 'time': 0.0}  elapsed 2s
+[217/922] {'root': [12, 24, 63, 69], 'children': 17, 'skipped': True, 'time': 0.0}  elapsed 2s
+[218/922] {'root': [12, 24, 62, 70], 'children': 21, 'skipped': True, 'time': 0.0}  elapsed 2s
+[219/922] {'root': [12, 24, 62, 71], 'children': 18, 'skipped': True, 'time': 0.0}  elapsed 2s
+[220/922] {'root': [12, 24, 63, 70], 'children': 9, 'skipped': True, 'time': 0.0}  elapsed 2s
+[221/922] {'root': [12, 24, 59, 73], 'children': 6, 'skipped': True, 'time': 0.0}  elapsed 2s
+[222/922] {'root': [12, 24, 58, 74], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[223/922] {'root': [12, 24, 59, 74], 'children': 10, 'skipped': True, 'time': 0.0}  elapsed 2s
+[224/922] {'root': [12, 24, 60, 72], 'children': 23, 'skipped': True, 'time': 0.0}  elapsed 2s
+[225/922] {'root': [12, 24, 59, 75], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[226/922] {'root': [12, 24, 60, 73], 'children': 41, 'skipped': True, 'time': 0.0}  elapsed 2s
+[227/922] {'root': [12, 24, 65, 67], 'children': 7, 'skipped': True, 'time': 0.0}  elapsed 2s
+[228/922] {'root': [12, 24, 66, 67], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 2s
+[229/922] {'root': [12, 24, 61, 72], 'children': 35, 'skipped': True, 'time': 0.0}  elapsed 2s
+[230/922] {'root': [12, 24, 64, 68], 'children': 7, 'skipped': True, 'time': 0.0}  elapsed 2s
+[231/922] {'root': [12, 24, 64, 69], 'children': 4, 'skipped': True, 'time': 0.0}  elapsed 2s
+[232/922] {'root': [12, 24, 65, 68], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 2s
+[233/922] {'root': [1, 30, 62, 65], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 2s
+[234/922] {'root': [1, 30, 63, 64], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 2s
+[235/922] {'root': [1, 30, 62, 66], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 2s
+[236/922] {'root': [1, 30, 63, 66], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 2s
+[237/922] {'root': [1, 30, 64, 64], 'children': 4, 'skipped': True, 'time': 0.0}  elapsed 2s
+[238/922] {'root': [1, 30, 64, 65], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[239/922] {'root': [3, 29, 61, 67], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 2s
+[240/922] {'root': [3, 29, 63, 65], 'children': 2, 'skipped': True, 'time': 0.0}  elapsed 2s
+[241/922] {'root': [3, 29, 62, 67], 'children': 7, 'skipped': True, 'time': 0.0}  elapsed 2s
+[242/922] {'root': [3, 29, 63, 66], 'children': 13, 'skipped': True, 'time': 0.0}  elapsed 2s
+[243/922] {'root': [3, 29, 63, 67], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[244/922] {'root': [3, 29, 61, 68], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 2s
+[245/922] {'root': [3, 29, 62, 68], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 2s
+[246/922] {'root': [3, 29, 64, 64], 'children': 2, 'skipped': True, 'time': 0.0}  elapsed 2s
+[247/922] {'root': [3, 29, 64, 66], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[248/922] {'root': [5, 28, 62, 67], 'children': 8, 'skipped': True, 'time': 0.0}  elapsed 2s
+[249/922] {'root': [5, 28, 63, 66], 'children': 8, 'skipped': True, 'time': 0.0}  elapsed 2s
+[250/922] {'root': [5, 28, 63, 67], 'children': 29, 'skipped': True, 'time': 0.0}  elapsed 2s
+[251/922] {'root': [5, 28, 60, 69], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 2s
+[252/922] {'root': [5, 28, 61, 68], 'children': 2, 'skipped': True, 'time': 0.0}  elapsed 2s
+[253/922] {'root': [5, 28, 60, 70], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 2s
+[254/922] {'root': [5, 28, 61, 70], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 2s
+[255/922] {'root': [5, 28, 62, 68], 'children': 20, 'skipped': True, 'time': 0.0}  elapsed 2s
+[256/922] {'root': [5, 28, 64, 65], 'children': 12, 'skipped': True, 'time': 0.0}  elapsed 2s
+[257/922] {'root': [5, 28, 65, 65], 'children': 18, 'skipped': True, 'time': 0.0}  elapsed 2s
+[258/922] {'root': [5, 28, 64, 66], 'children': 28, 'skipped': True, 'time': 0.0}  elapsed 2s
+[259/922] {'root': [14, 23, 58, 75], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[260/922] {'root': [14, 23, 59, 74], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[261/922] {'root': [14, 23, 59, 75], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[262/922] {'root': [14, 23, 57, 76], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[263/922] {'root': [14, 23, 57, 77], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[264/922] {'root': [14, 23, 58, 76], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[265/922] {'root': [14, 23, 60, 73], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[266/922] {'root': [14, 23, 61, 72], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[267/922] {'root': [14, 23, 60, 74], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[268/922] {'root': [14, 23, 61, 73], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[269/922] {'root': [7, 27, 59, 71], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 2s
+[270/922] {'root': [7, 27, 63, 67], 'children': 29, 'skipped': True, 'time': 0.0}  elapsed 2s
+[271/922] {'root': [7, 27, 60, 70], 'children': 4, 'skipped': True, 'time': 0.0}  elapsed 2s
+[272/922] {'root': [7, 27, 60, 71], 'children': 11, 'skipped': True, 'time': 0.0}  elapsed 2s
+[273/922] {'root': [7, 27, 61, 70], 'children': 27, 'skipped': True, 'time': 0.0}  elapsed 2s
+[274/922] {'root': [7, 27, 62, 68], 'children': 24, 'skipped': True, 'time': 0.0}  elapsed 2s
+[275/922] {'root': [7, 27, 62, 69], 'children': 37, 'skipped': True, 'time': 0.0}  elapsed 2s
+[276/922] {'root': [7, 27, 63, 68], 'children': 35, 'skipped': True, 'time': 0.0}  elapsed 2s
+[277/922] {'root': [7, 27, 60, 72], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 2s
+[278/922] {'root': [7, 27, 65, 65], 'children': 18, 'skipped': True, 'time': 0.0}  elapsed 2s
+[279/922] {'root': [7, 27, 64, 66], 'children': 30, 'skipped': True, 'time': 0.0}  elapsed 2s
+[280/922] {'root': [7, 27, 64, 67], 'children': 36, 'skipped': True, 'time': 0.0}  elapsed 2s
+[281/922] {'root': [7, 27, 65, 66], 'children': 32, 'skipped': True, 'time': 0.0}  elapsed 2s
+[282/922] {'root': [9, 26, 60, 71], 'children': 22, 'skipped': True, 'time': 0.0}  elapsed 2s
+[283/922] {'root': [9, 26, 61, 71], 'children': 33, 'skipped': True, 'time': 0.0}  elapsed 2s
+[284/922] {'root': [9, 26, 62, 69], 'children': 36, 'skipped': True, 'time': 0.0}  elapsed 2s
+[285/922] {'root': [9, 26, 63, 68], 'children': 33, 'skipped': True, 'time': 0.0}  elapsed 2s
+[286/922] {'root': [9, 26, 63, 69], 'children': 20, 'skipped': True, 'time': 0.0}  elapsed 2s
+[287/922] {'root': [9, 26, 62, 70], 'children': 28, 'skipped': True, 'time': 0.0}  elapsed 2s
+[288/922] {'root': [9, 26, 58, 73], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 2s
+[289/922] {'root': [9, 26, 59, 73], 'children': 13, 'skipped': True, 'time': 0.0}  elapsed 2s
+[290/922] {'root': [9, 26, 58, 74], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 2s
+[291/922] {'root': [9, 26, 59, 74], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 2s
+[292/922] {'root': [9, 26, 60, 72], 'children': 30, 'skipped': True, 'time': 0.0}  elapsed 2s
+[293/922] {'root': [9, 26, 64, 67], 'children': 30, 'skipped': True, 'time': 0.0}  elapsed 2s
+[294/922] {'root': [9, 26, 65, 66], 'children': 28, 'skipped': True, 'time': 0.0}  elapsed 2s
+[295/922] {'root': [9, 26, 66, 66], 'children': 6, 'skipped': True, 'time': 0.0}  elapsed 2s
+[296/922] {'root': [9, 26, 64, 68], 'children': 12, 'skipped': True, 'time': 0.0}  elapsed 2s
+[297/922] {'root': [11, 25, 61, 70], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[298/922] {'root': [11, 25, 61, 71], 'children': 31, 'skipped': True, 'time': 0.0}  elapsed 2s
+[299/922] {'root': [11, 25, 62, 69], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 2s
+[300/922] {'root': [11, 25, 63, 68], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 2s
+[301/922] {'root': [11, 25, 62, 70], 'children': 19, 'skipped': True, 'time': 0.0}  elapsed 2s
+[302/922] {'root': [11, 25, 62, 71], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 2s
+[303/922] {'root': [11, 25, 63, 70], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 2s
+[304/922] {'root': [11, 25, 57, 75], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[305/922] {'root': [11, 25, 59, 73], 'children': 29, 'skipped': True, 'time': 0.0}  elapsed 2s
+[306/922] {'root': [11, 25, 58, 74], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 2s
+[307/922] {'root': [11, 25, 59, 74], 'children': 19, 'skipped': True, 'time': 0.0}  elapsed 2s
+[308/922] {'root': [11, 25, 57, 76], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[309/922] {'root': [11, 25, 58, 76], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[310/922] {'root': [11, 25, 60, 72], 'children': 41, 'skipped': True, 'time': 0.0}  elapsed 2s
+[311/922] {'root': [11, 25, 61, 72], 'children': 12, 'skipped': True, 'time': 0.0}  elapsed 2s
+[312/922] {'root': [11, 25, 60, 73], 'children': 28, 'skipped': True, 'time': 0.0}  elapsed 2s
+[313/922] {'root': [31, 96, 0, 62], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[314/922] {'root': [31, 96, 0, 63], 'children': 2, 'skipped': True, 'time': 0.0}  elapsed 2s
+[315/922] {'root': [31, 96, 0, 64], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 2s
+[316/922] {'root': [31, 96, 62, 65], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[317/922] {'root': [31, 96, 63, 64], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 2s
+[318/922] {'root': [31, 96, 63, 65], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[319/922] {'root': [32, 97, 1, 61], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[320/922] {'root': [32, 97, 0, 61], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[321/922] {'root': [32, 97, 0, 63], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[322/922] {'root': [32, 97, 0, 62], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[323/922] {'root': [32, 97, 1, 62], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[324/922] {'root': [32, 97, 1, 63], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[325/922] {'root': [32, 97, 62, 65], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[326/922] {'root': [32, 97, 63, 64], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[327/922] {'root': [13, 24, 59, 73], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 2s
+[328/922] {'root': [13, 24, 58, 75], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[329/922] {'root': [13, 24, 59, 74], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 2s
+[330/922] {'root': [13, 24, 59, 75], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[331/922] {'root': [13, 24, 57, 76], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[332/922] {'root': [13, 24, 57, 77], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[333/922] {'root': [13, 24, 56, 78], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[334/922] {'root': [13, 24, 57, 78], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[335/922] {'root': [13, 24, 58, 76], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[336/922] {'root': [13, 24, 60, 72], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 2s
+[337/922] {'root': [13, 24, 61, 72], 'children': 2, 'skipped': True, 'time': 0.0}  elapsed 2s
+[338/922] {'root': [13, 24, 60, 74], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 2s
+[339/922] {'root': [0, 31, 0, 62], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2s
+[340/922] {'root': [0, 31, 0, 63], 'children': 2, 'skipped': True, 'time': 0.0}  elapsed 2s
+[341/922] {'root': [0, 31, 0, 64], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 2s
+[342/922] {'root': [0, 31, 59, 68], 'children': 5, 'skipped': True, 'time': 0.0}  elapsed 2s
+[343/922] {'root': [0, 31, 61, 67], 'children': 16, 'skipped': True, 'time': 0.0}  elapsed 2s
+[344/922] {'root': [0, 31, 61, 66], 'children': 30, 'skipped': True, 'time': 0.0}  elapsed 2s
+[345/922] {'root': [0, 31, 62, 65], 'children': 36, 'skipped': True, 'time': 0.0}  elapsed 2s
+[346/922] {'root': [0, 31, 63, 64], 'children': 47, 'skipped': True, 'time': 0.0}  elapsed 2s
+[347/922] {'root': [0, 31, 63, 65], 'children': 18, 'skipped': True, 'time': 0.0}  elapsed 2s
+[348/922] {'root': [0, 31, 62, 66], 'children': 16, 'skipped': True, 'time': 0.0}  elapsed 2s
+[349/922] {'root': [0, 31, 64, 64], 'children': 13, 'skipped': True, 'time': 0.0}  elapsed 2s
+[350/922] {'root': [2, 30, 59, 69], 'children': 4, 'skipped': True, 'time': 0.0}  elapsed 2s
+[351/922] {'root': [2, 30, 61, 67], 'children': 30, 'skipped': True, 'time': 0.0}  elapsed 2s
+[352/922] {'root': [2, 30, 62, 65], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 2s
+[353/922] {'root': [2, 30, 63, 64], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 2s
+[354/922] {'root': [2, 30, 63, 65], 'children': 43, 'skipped': True, 'time': 0.0}  elapsed 2s
+[355/922] {'root': [2, 30, 62, 67], 'children': 18, 'skipped': True, 'time': 0.0}  elapsed 2s
+[356/922] {'root': [2, 30, 63, 66], 'children': 12, 'skipped': True, 'time': 0.0}  elapsed 2s
+[357/922] {'root': [2, 30, 60, 68], 'children': 14, 'skipped': True, 'time': 0.0}  elapsed 2s
+[358/922] {'root': [2, 30, 60, 69], 'children': 7, 'skipped': True, 'time': 0.0}  elapsed 2s
+[359/922] {'root': [2, 30, 61, 68], 'children': 16, 'skipped': True, 'time': 0.0}  elapsed 2s
+[360/922] {'root': [2, 30, 64, 64], 'children': 25, 'skipped': True, 'time': 0.0}  elapsed 2s
+[361/922] {'root': [4, 29, 59, 70], 'children': 7, 'skipped': True, 'time': 0.0}  elapsed 2s
+[362/922] {'root': [4, 29, 59, 71], 'children': 2, 'skipped': True, 'time': 0.0}  elapsed 2s
+[363/922] {'root': [4, 29, 61, 67], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 2s
+[364/922] {'root': [4, 29, 63, 65], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 2s
+[365/922] {'root': [4, 29, 62, 66], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 2s
+[366/922] {'root': [4, 29, 62, 67], 'children': 45, 'skipped': True, 'time': 0.0}  elapsed 2s
+[367/922] {'root': [4, 29, 63, 67], 'children': 14, 'skipped': True, 'time': 0.0}  elapsed 2s
+[368/922] {'root': [4, 29, 60, 69], 'children': 23, 'skipped': True, 'time': 0.0}  elapsed 2s
+[369/922] {'root': [4, 29, 61, 68], 'children': 44, 'skipped': True, 'time': 0.0}  elapsed 2s
+[370/922] {'root': [4, 29, 61, 69], 'children': 17, 'skipped': True, 'time': 0.0}  elapsed 2s
+[371/922] {'root': [4, 29, 60, 70], 'children': 11, 'skipped': True, 'time': 0.0}  elapsed 2s
+[372/922] {'root': [4, 29, 62, 68], 'children': 12, 'skipped': True, 'time': 0.0}  elapsed 2s
+[373/922] {'root': [4, 29, 65, 65], 'children': 9, 'skipped': True, 'time': 0.0}  elapsed 2s
+[374/922] {'root': [6, 28, 62, 67], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 2s
+[375/922] {'root': [6, 28, 59, 71], 'children': 17, 'skipped': True, 'time': 0.0}  elapsed 2s
+[376/922] {'root': [4, 29, 64, 66], 'children': 14, 'skipped': True, 'time': 0.0}  elapsed 2s
+[377/922] {'root': [6, 28, 63, 66], 'children': 2, 'skipped': True, 'time': 0.0}  elapsed 2s
+[378/922] {'root': [6, 28, 61, 68], 'children': 2, 'skipped': True, 'time': 0.0}  elapsed 2s
+[379/922] {'root': [6, 28, 60, 69], 'children': 1, 'skipped': True, 'time': 0.0}  elapsed 2s
+[380/922] {'root': [6, 28, 60, 71], 'children': 19, 'skipped': True, 'time': 0.0}  elapsed 2s
+[381/922] {'root': [6, 28, 61, 70], 'children': 13, 'skipped': True, 'time': 0.0}  elapsed 2s
+[382/922] {'root': [6, 28, 62, 69], 'children': 12, 'skipped': True, 'time': 0.0}  elapsed 2s
+[383/922] {'root': [6, 28, 63, 68], 'children': 10, 'skipped': True, 'time': 0.0}  elapsed 2s
+[384/922] {'root': [6, 28, 58, 72], 'children': 2, 'skipped': True, 'time': 0.0}  elapsed 2s
+[385/922] {'root': [6, 28, 59, 72], 'children': 7, 'skipped': True, 'time': 0.0}  elapsed 2s
+[386/922] {'root': [6, 28, 64, 65], 'children': 3, 'skipped': True, 'time': 0.0}  elapsed 2s
+[387/922] {'root': [6, 28, 64, 67], 'children': 7, 'skipped': True, 'time': 0.0}  elapsed 2s
+[388/922] {'root': [6, 28, 65, 66], 'children': 5, 'skipped': True, 'time': 0.0}  elapsed 2s
+[389/922] {'root': [8, 27, 63, 67], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 2709714, 'root_counts': [(4, 1048576, 84498), (5, 2703936, 180109), (6, 5763488, 547877), (7, 17532064, 2709714)], 'nsol': 60, 'time': 85.9}  elapsed 88s
+[390/922] {'root': [8, 27, 59, 71], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2618548, 'root_counts': [(4, 1048576, 85809), (5, 2745888, 166147), (6, 5316704, 490723), (7, 15703136, 2618548)], 'nsol': 60, 'time': 104.6}  elapsed 107s
+[391/922] {'root': [8, 27, 60, 70], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2613437, 'root_counts': [(4, 1048576, 86342), (5, 2762944, 170516), (6, 5456512, 507687), (7, 16245984, 2613437)], 'nsol': 60, 'time': 48.4}  elapsed 155s
+[392/922] {'root': [8, 27, 61, 69], 'children': 3, 'ok': 3, 'fail': 0, 'n7': 2609437, 'root_counts': [(4, 1048576, 85900), (5, 2748800, 174332), (6, 5578624, 520541), (7, 16657312, 2609437)], 'nsol': 60, 'time': 85.3}  elapsed 174s
+[393/922] {'root': [4, 29, 64, 65], 'children': 50, 'ok': 50, 'fail': 0, 'n7': 4693070, 'root_counts': [(4, 1048576, 87022), (5, 2784704, 218166), (6, 6981312, 827491), (7, 26479712, 4693070)], 'nsol': 60, 'time': 310.1}  elapsed 312s
+[394/922] {'root': [6, 28, 61, 69], 'children': 50, 'ok': 50, 'fail': 0, 'n7': 3119861, 'root_counts': [(4, 1048576, 86267), (5, 2760544, 187057), (6, 5985824, 597112), (7, 19107584, 3119861)], 'nsol': 60, 'time': 325.9}  elapsed 328s
+[395/922] {'root': [8, 27, 61, 71], 'children': 8, 'ok': 8, 'fail': 0, 'n7': 2602327, 'root_counts': [(4, 1048576, 85430), (5, 2733760, 166008), (6, 5312256, 490024), (7, 15680768, 2602327)], 'nsol': 60, 'time': 164.4}  elapsed 338s
+[396/922] {'root': [8, 27, 62, 68], 'children': 3, 'ok': 3, 'fail': 0, 'n7': 2642141, 'root_counts': [(4, 1048576, 84992), (5, 2719744, 177446), (6, 5678272, 535873), (7, 17147936, 2642141)], 'nsol': 60, 'time': 86.1}  elapsed 398s
+[397/922] {'root': [8, 27, 63, 69], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 398s
+[398/922] {'root': [8, 27, 58, 73], 'children': 11, 'ok': 11, 'fail': 0, 'n7': 2593347, 'root_counts': [(4, 1048576, 85425), (5, 2733600, 160883), (6, 5148256, 467696), (7, 14966272, 2593347)], 'nsol': 60, 'time': 173.3}  elapsed 572s
+[399/922] {'root': [6, 28, 60, 70], 'children': 43, 'ok': 43, 'fail': 0, 'n7': 2979795, 'root_counts': [(4, 1048576, 86062), (5, 2753984, 181692), (6, 5814144, 566441), (7, 18126112, 2979795)], 'nsol': 72, 'time': 609.0}  elapsed 611s
+[400/922] {'root': [6, 28, 65, 65], 'children': 28, 'ok': 28, 'fail': 0, 'n7': 3553031, 'root_counts': [(4, 1048576, 86997), (5, 2783904, 199657), (6, 6389024, 671648), (7, 21492736, 3553031)], 'nsol': 60, 'time': 711.8}  elapsed 714s
+[401/922] {'root': [8, 27, 63, 68], 'children': 20, 'ok': 20, 'fail': 0, 'n7': 2700189, 'root_counts': [(4, 1048576, 83899), (5, 2684768, 176102), (6, 5635264, 534911), (7, 17117152, 2700189)], 'nsol': 60, 'time': 380.0}  elapsed 718s
+[402/922] {'root': [8, 27, 58, 74], 'children': 4, 'ok': 4, 'fail': 0, 'n7': 2460128, 'root_counts': [(4, 1048576, 84810), (5, 2713920, 158279), (6, 5064928, 454169), (7, 14533408, 2460128)], 'nsol': 60, 'time': 71.1}  elapsed 785s
+[403/922] {'root': [8, 27, 65, 65], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 2832766, 'root_counts': [(4, 1048576, 85499), (5, 2735968, 182769), (6, 5848608, 560755), (7, 17944160, 2832766)], 'nsol': 60, 'time': 82.5}  elapsed 868s
+[404/922] {'root': [8, 27, 62, 69], 'children': 34, 'ok': 34, 'fail': 0, 'n7': 2660306, 'root_counts': [(4, 1048576, 84899), (5, 2716768, 174335), (6, 5578720, 522002), (7, 16704064, 2660306)], 'nsol': 60, 'time': 616.4}  elapsed 945s
+[405/922] {'root': [8, 27, 61, 70], 'children': 48, 'ok': 48, 'fail': 0, 'n7': 2662561, 'root_counts': [(4, 1048576, 86151), (5, 2756832, 170805), (6, 5465760, 511147), (7, 16356704, 2662561)], 'nsol': 60, 'time': 871.6}  elapsed 1027s
+[406/922] {'root': [8, 27, 59, 73], 'children': 19, 'ok': 19, 'fail': 0, 'n7': 2570927, 'root_counts': [(4, 1048576, 85459), (5, 2734688, 160784), (6, 5145088, 466049), (7, 14913568, 2570927)], 'nsol': 60, 'time': 431.4}  elapsed 1043s
+[407/922] {'root': [8, 27, 60, 72], 'children': 14, 'ok': 14, 'fail': 0, 'n7': 2613914, 'root_counts': [(4, 1048576, 85576), (5, 2738432, 163072), (6, 5218304, 479966), (7, 15358912, 2613914)], 'nsol': 72, 'time': 359.5}  elapsed 1077s
+[408/922] {'root': [8, 27, 64, 67], 'children': 11, 'ok': 11, 'fail': 0, 'n7': 2770121, 'root_counts': [(4, 1048576, 84142), (5, 2692544, 178724), (6, 5719168, 544800), (7, 17433600, 2770121)], 'nsol': 60, 'time': 224.7}  elapsed 1093s
+[409/922] {'root': [10, 26, 62, 69], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1093s
+[410/922] {'root': [10, 26, 60, 71], 'children': 4, 'ok': 4, 'fail': 0, 'n7': 2338337, 'root_counts': [(4, 1048576, 84598), (5, 2707136, 159401), (6, 5100832, 456488), (7, 14607616, 2338337)], 'nsol': 60, 'time': 69.6}  elapsed 1097s
+[411/922] {'root': [10, 26, 61, 70], 'children': 3, 'ok': 3, 'fail': 0, 'n7': 2243873, 'root_counts': [(4, 1048576, 84637), (5, 2708384, 160951), (6, 5150432, 456938), (7, 14622016, 2243873)], 'nsol': 60, 'time': 61.7}  elapsed 1104s
+[412/922] {'root': [10, 26, 58, 73], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2514137, 'root_counts': [(4, 1048576, 84418), (5, 2701376, 156737), (6, 5015584, 452183), (7, 14469856, 2514137)], 'nsol': 60, 'time': 50.7}  elapsed 1147s
+[413/922] {'root': [8, 27, 65, 66], 'children': 9, 'ok': 9, 'fail': 0, 'n7': 2828151, 'root_counts': [(4, 1048576, 85382), (5, 2732224, 181019), (6, 5792608, 550952), (7, 17630464, 2828151)], 'nsol': 60, 'time': 219.8}  elapsed 1164s
+[414/922] {'root': [10, 26, 59, 72], 'children': 3, 'ok': 3, 'fail': 0, 'n7': 2445699, 'root_counts': [(4, 1048576, 84665), (5, 2709280, 157829), (6, 5050528, 450813), (7, 14426016, 2445699)], 'nsol': 60, 'time': 60.8}  elapsed 1165s
+[415/922] {'root': [10, 26, 57, 75], 'children': 4, 'ok': 4, 'fail': 0, 'n7': 2547077, 'root_counts': [(4, 1048576, 84276), (5, 2696832, 156417), (6, 5005344, 453550), (7, 14513600, 2547077)], 'nsol': 60, 'time': 79.4}  elapsed 1172s
+[416/922] {'root': [10, 26, 57, 76], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1172s
+[417/922] {'root': [10, 26, 61, 71], 'children': 19, 'ok': 19, 'fail': 0, 'n7': 2362062, 'root_counts': [(4, 1048576, 84850), (5, 2715200, 159576), (6, 5106432, 458595), (7, 14675040, 2362062)], 'nsol': 60, 'time': 214.7}  elapsed 1292s
+[418/922] {'root': [10, 26, 60, 73], 'children': 4, 'ok': 4, 'fail': 0, 'n7': 2481046, 'root_counts': [(4, 1048576, 84545), (5, 2705440, 156549), (6, 5009568, 452650), (7, 14484800, 2481046)], 'nsol': 60, 'time': 66.1}  elapsed 1358s
+[419/922] {'root': [12, 25, 57, 75], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1358s
+[420/922] {'root': [12, 25, 59, 73], 'children': 3, 'ok': 3, 'fail': 0, 'n7': 2289183, 'root_counts': [(4, 1048576, 84497), (5, 2703904, 155343), (6, 4970976, 438812), (7, 14041984, 2289183)], 'nsol': 60, 'time': 53.5}  elapsed 1412s
+[421/922] {'root': [12, 25, 58, 74], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1412s
+[422/922] {'root': [10, 26, 58, 75], 'children': 14, 'ok': 14, 'fail': 0, 'n7': 2527681, 'root_counts': [(4, 1048576, 84098), (5, 2691136, 156379), (6, 5004128, 451479), (7, 14447328, 2527681)], 'nsol': 60, 'time': 250.1}  elapsed 1415s
+[423/922] {'root': [12, 25, 59, 75], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1415s
+[424/922] {'root': [12, 25, 56, 77], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1415s
+[425/922] {'root': [12, 25, 57, 76], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1415s
+[426/922] {'root': [12, 25, 57, 77], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1415s
+[427/922] {'root': [12, 25, 56, 78], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1415s
+[428/922] {'root': [12, 25, 60, 72], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1416s
+[429/922] {'root': [12, 25, 59, 74], 'children': 5, 'ok': 5, 'fail': 0, 'n7': 2458830, 'root_counts': [(4, 1048576, 85099), (5, 2723168, 156221), (6, 4999072, 452404), (7, 14476928, 2458830)], 'nsol': 60, 'time': 72.7}  elapsed 1485s
+[430/922] {'root': [32, 96, 0, 58], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1485s
+[431/922] {'root': [32, 96, 0, 59], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1485s
+[432/922] {'root': [32, 96, 0, 60], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1485s
+[433/922] {'root': [12, 25, 60, 73], 'children': 5, 'ok': 5, 'fail': 0, 'n7': 2303573, 'root_counts': [(4, 1048576, 84576), (5, 2706432, 155193), (6, 4966176, 441543), (7, 14129376, 2303573)], 'nsol': 60, 'time': 70.8}  elapsed 1486s
+[434/922] {'root': [10, 26, 60, 72], 'children': 39, 'ok': 39, 'fail': 0, 'n7': 2472796, 'root_counts': [(4, 1048576, 84619), (5, 2707808, 157961), (6, 5054752, 455652), (7, 14580864, 2472796)], 'nsol': 60, 'time': 414.9}  elapsed 1587s
+[435/922] {'root': [32, 96, 0, 61], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 6175321, 'root_counts': [(4, 1048576, 88163), (5, 2821216, 233081), (6, 7458592, 977794), (7, 31289408, 6175321)], 'nsol': 84, 'time': 151.9}  elapsed 1637s
+[436/922] {'root': [32, 96, 1, 62], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1637s
+[437/922] {'root': [32, 96, 1, 63], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1637s
+[438/922] {'root': [32, 96, 0, 62], 'children': 4, 'ok': 4, 'fail': 0, 'n7': 6776085, 'root_counts': [(4, 1048576, 87759), (5, 2808288, 238409), (6, 7629088, 1030752), (7, 32984064, 6776085)], 'nsol': 120, 'time': 188.8}  elapsed 1675s
+[439/922] {'root': [32, 96, 59, 68], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1675s
+[440/922] {'root': [32, 96, 0, 64], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 6964648, 'root_counts': [(4, 1048576, 88075), (5, 2818400, 239224), (6, 7655168, 1046852), (7, 33499264, 6964648)], 'nsol': 120, 'time': 110.6}  elapsed 1747s
+[441/922] {'root': [32, 96, 61, 66], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 5992376, 'root_counts': [(4, 1048576, 88577), (5, 2834464, 231728), (6, 7415296, 962736), (7, 30807552, 5992376)], 'nsol': 84, 'time': 91.3}  elapsed 1766s
+[442/922] {'root': [8, 27, 59, 72], 'children': 42, 'ok': 42, 'fail': 0, 'n7': 2667085, 'root_counts': [(4, 1048576, 85632), (5, 2740224, 163046), (6, 5217472, 483019), (7, 15456608, 2667085)], 'nsol': 72, 'time': 1226.4}  elapsed 1798s
+[443/922] {'root': [32, 96, 63, 65], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1798s
+[444/922] {'root': [10, 26, 59, 73], 'children': 57, 'ok': 57, 'fail': 0, 'n7': 2563812, 'root_counts': [(4, 1048576, 84278), (5, 2696896, 156341), (6, 5002912, 456423), (7, 14605536, 2563812)], 'nsol': 60, 'time': 669.9}  elapsed 1817s
+[445/922] {'root': [11, 26, 57, 75], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1817s
+[446/922] {'root': [32, 96, 62, 65], 'children': 4, 'ok': 4, 'fail': 0, 'n7': 6660699, 'root_counts': [(4, 1048576, 87745), (5, 2807840, 237455), (6, 7598560, 1020724), (7, 32663168, 6660699)], 'nsol': 120, 'time': 87.3}  elapsed 1834s
+[447/922] {'root': [32, 96, 64, 64], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 6746694, 'root_counts': [(4, 1048576, 87889), (5, 2812448, 238917), (6, 7645344, 1034144), (7, 33092608, 6746694)], 'nsol': 120, 'time': 37.7}  elapsed 1836s
+[448/922] {'root': [32, 96, 0, 63], 'children': 13, 'ok': 13, 'fail': 0, 'n7': 7057699, 'root_counts': [(4, 1048576, 87422), (5, 2797504, 239880), (6, 7676160, 1052528), (7, 33680896, 7057699)], 'nsol': 120, 'time': 292.8}  elapsed 1880s
+[449/922] {'root': [11, 26, 56, 76], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1880s
+[450/922] {'root': [11, 26, 56, 77], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1880s
+[451/922] {'root': [11, 26, 57, 76], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1880s
+[452/922] {'root': [11, 26, 56, 78], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1880s
+[453/922] {'root': [11, 26, 58, 76], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1880s
+[454/922] {'root': [10, 26, 58, 74], 'children': 41, 'ok': 41, 'fail': 0, 'n7': 2589743, 'root_counts': [(4, 1048576, 84313), (5, 2698016, 156305), (6, 5001760, 452549), (7, 14481568, 2589743)], 'nsol': 72, 'time': 718.0}  elapsed 1882s
+[455/922] {'root': [9, 27, 61, 70], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 1882s
+[456/922] {'root': [32, 96, 63, 64], 'children': 7, 'ok': 7, 'fail': 0, 'n7': 7032471, 'root_counts': [(4, 1048576, 87173), (5, 2789536, 239836), (6, 7674752, 1052684), (7, 33685888, 7032471)], 'nsol': 120, 'time': 118.5}  elapsed 1885s
+[457/922] {'root': [11, 26, 59, 74], 'children': 9, 'ok': 9, 'fail': 0, 'n7': 2548361, 'root_counts': [(4, 1048576, 84794), (5, 2713408, 155860), (6, 4987520, 451378), (7, 14444096, 2548361)], 'nsol': 60, 'time': 63.6}  elapsed 1900s
+[458/922] {'root': [9, 27, 61, 71], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 2522650, 'root_counts': [(4, 1048576, 85111), (5, 2723552, 162847), (6, 5211104, 473968), (7, 15166976, 2522650)], 'nsol': 60, 'time': 27.3}  elapsed 1910s
+[459/922] {'root': [9, 27, 57, 74], 'children': 5, 'ok': 5, 'fail': 0, 'n7': 2482518, 'root_counts': [(4, 1048576, 84298), (5, 2697536, 156684), (6, 5013888, 452189), (7, 14470048, 2482518)], 'nsol': 60, 'time': 37.3}  elapsed 1922s
+[460/922] {'root': [11, 26, 58, 74], 'children': 13, 'ok': 13, 'fail': 0, 'n7': 2521005, 'root_counts': [(4, 1048576, 84047), (5, 2689504, 155889), (6, 4988448, 449095), (7, 14371040, 2521005)], 'nsol': 60, 'time': 105.8}  elapsed 1923s
+[461/922] {'root': [9, 27, 60, 71], 'children': 7, 'ok': 7, 'fail': 0, 'n7': 2514500, 'root_counts': [(4, 1048576, 85773), (5, 2744736, 162740), (6, 5207680, 473366), (7, 15147712, 2514500)], 'nsol': 60, 'time': 58.5}  elapsed 1938s
+[462/922] {'root': [11, 26, 58, 75], 'children': 11, 'ok': 11, 'fail': 0, 'n7': 2600617, 'root_counts': [(4, 1048576, 84490), (5, 2703680, 157544), (6, 5041408, 457747), (7, 14647904, 2600617)], 'nsol': 72, 'time': 106.8}  elapsed 1941s
+[463/922] {'root': [9, 27, 59, 74], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2518998, 'root_counts': [(4, 1048576, 84035), (5, 2689120, 156578), (6, 5010496, 452345), (7, 14475040, 2518998)], 'nsol': 60, 'time': 23.2}  elapsed 1965s
+[464/922] {'root': [9, 27, 58, 75], 'children': 3, 'ok': 3, 'fail': 0, 'n7': 2434164, 'root_counts': [(4, 1048576, 83798), (5, 2681536, 155388), (6, 4972416, 445230), (7, 14247360, 2434164)], 'nsol': 60, 'time': 27.5}  elapsed 1966s
+[465/922] {'root': [9, 27, 57, 76], 'children': 5, 'ok': 5, 'fail': 0, 'n7': 2291086, 'root_counts': [(4, 1048576, 83928), (5, 2685696, 155572), (6, 4978304, 440964), (7, 14110848, 2291086)], 'nsol': 60, 'time': 32.2}  elapsed 1997s
+[466/922] {'root': [9, 27, 58, 73], 'children': 13, 'ok': 13, 'fail': 0, 'n7': 2556134, 'root_counts': [(4, 1048576, 84916), (5, 2717312, 158713), (6, 5078816, 458005), (7, 14656160, 2556134)], 'nsol': 72, 'time': 109.6}  elapsed 2009s
+[467/922] {'root': [9, 27, 60, 72], 'children': 15, 'ok': 15, 'fail': 0, 'n7': 2594626, 'root_counts': [(4, 1048576, 85067), (5, 2722144, 160128), (6, 5124096, 468120), (7, 14979840, 2594626)], 'nsol': 60, 'time': 102.9}  elapsed 2069s
+[468/922] {'root': [9, 27, 59, 72], 'children': 19, 'ok': 19, 'fail': 0, 'n7': 2564665, 'root_counts': [(4, 1048576, 85626), (5, 2740032, 160499), (6, 5135968, 467675), (7, 14965600, 2564665)], 'nsol': 60, 'time': 189.4}  elapsed 2099s
+[469/922] {'root': [7, 28, 61, 69], 'children': 11, 'ok': 11, 'fail': 0, 'n7': 2846547, 'root_counts': [(4, 1048576, 86272), (5, 2760704, 180688), (6, 5782016, 557798), (7, 17849536, 2846547)], 'nsol': 60, 'time': 100.5}  elapsed 2110s
+[470/922] {'root': [7, 28, 62, 68], 'children': 5, 'ok': 5, 'fail': 0, 'n7': 2909658, 'root_counts': [(4, 1048576, 85540), (5, 2737280, 184833), (6, 5914656, 577085), (7, 18466720, 2909658)], 'nsol': 60, 'time': 50.7}  elapsed 2160s
+[471/922] {'root': [7, 28, 59, 71], 'children': 14, 'ok': 14, 'fail': 0, 'n7': 2715906, 'root_counts': [(4, 1048576, 85937), (5, 2749984, 171096), (6, 5475072, 513316), (7, 16426112, 2715906)], 'nsol': 72, 'time': 209.0}  elapsed 2206s
+[472/922] {'root': [7, 28, 62, 69], 'children': 5, 'ok': 5, 'fail': 0, 'n7': 2867053, 'root_counts': [(4, 1048576, 85420), (5, 2733440, 180183), (6, 5765856, 554747), (7, 17751904, 2867053)], 'nsol': 60, 'time': 52.1}  elapsed 2213s
+[473/922] {'root': [7, 28, 63, 68], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2917280, 'root_counts': [(4, 1048576, 84469), (5, 2703008, 183255), (6, 5864160, 572113), (7, 18307616, 2917280)], 'nsol': 60, 'time': 22.2}  elapsed 2228s
+[474/922] {'root': [7, 28, 57, 73], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2437812, 'root_counts': [(4, 1048576, 84457), (5, 2702624, 161909), (6, 5181088, 468339), (7, 14986848, 2437812)], 'nsol': 60, 'time': 18.1}  elapsed 2231s
+[475/922] {'root': [7, 28, 57, 75], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 2231s
+[476/922] {'root': [9, 27, 58, 74], 'children': 56, 'ok': 56, 'fail': 0, 'n7': 2564313, 'root_counts': [(4, 1048576, 84383), (5, 2700256, 156818), (6, 5018176, 454546), (7, 14545472, 2564313)], 'nsol': 60, 'time': 330.0}  elapsed 2253s
+[477/922] {'root': [7, 28, 57, 74], 'children': 13, 'ok': 13, 'fail': 0, 'n7': 2354103, 'root_counts': [(4, 1048576, 84249), (5, 2695968, 159623), (6, 5107936, 456643), (7, 14612576, 2354103)], 'nsol': 60, 'time': 67.0}  elapsed 2295s
+[478/922] {'root': [9, 27, 59, 73], 'children': 41, 'ok': 41, 'fail': 0, 'n7': 2611610, 'root_counts': [(4, 1048576, 84918), (5, 2717376, 158696), (6, 5078272, 460829), (7, 14746528, 2611610)], 'nsol': 72, 'time': 384.7}  elapsed 2307s
+[479/922] {'root': [7, 28, 59, 73], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2506070, 'root_counts': [(4, 1048576, 85787), (5, 2745184, 162662), (6, 5205184, 473764), (7, 15160448, 2506070)], 'nsol': 60, 'time': 19.6}  elapsed 2315s
+[480/922] {'root': [7, 28, 58, 74], 'children': 3, 'ok': 3, 'fail': 0, 'n7': 2338886, 'root_counts': [(4, 1048576, 84987), (5, 2719584, 159620), (6, 5107840, 456158), (7, 14597056, 2338886)], 'nsol': 60, 'time': 27.0}  elapsed 2334s
+[481/922] {'root': [7, 28, 60, 72], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2621696, 'root_counts': [(4, 1048576, 85811), (5, 2745952, 166497), (6, 5327904, 491310), (7, 15721920, 2621696)], 'nsol': 60, 'time': 36.7}  elapsed 2351s
+[482/922] {'root': [7, 28, 60, 70], 'children': 18, 'ok': 18, 'fail': 0, 'n7': 2790213, 'root_counts': [(4, 1048576, 86558), (5, 2769856, 176092), (6, 5634944, 535053), (7, 17121696, 2790213)], 'nsol': 60, 'time': 288.5}  elapsed 2357s
+[483/922] {'root': [5, 29, 58, 71], 'children': 7, 'ok': 7, 'fail': 0, 'n7': 2770185, 'root_counts': [(4, 1048576, 85729), (5, 2743328, 179749), (6, 5751968, 545810), (7, 17465920, 2770185)], 'nsol': 60, 'time': 55.9}  elapsed 2390s
+[484/922] {'root': [5, 29, 63, 66], 'children': 9, 'ok': 9, 'fail': 0, 'n7': 3937810, 'root_counts': [(4, 1048576, 86936), (5, 2781952, 208090), (6, 6658880, 738860), (7, 23643520, 3937810)], 'nsol': 60, 'time': 70.0}  elapsed 2460s
+[485/922] {'root': [5, 29, 62, 67], 'children': 15, 'ok': 15, 'fail': 0, 'n7': 3745184, 'root_counts': [(4, 1048576, 86892), (5, 2780544, 205364), (6, 6571648, 709727), (7, 22711264, 3745184)], 'nsol': 60, 'time': 111.6}  elapsed 2469s
+[486/922] {'root': [7, 28, 58, 73], 'children': 42, 'ok': 42, 'fail': 0, 'n7': 2538035, 'root_counts': [(4, 1048576, 85509), (5, 2736288, 162906), (6, 5212992, 476243), (7, 15239776, 2538035)], 'nsol': 60, 'time': 277.2}  elapsed 2508s
+[487/922] {'root': [5, 29, 63, 67], 'children': 14, 'ok': 14, 'fail': 0, 'n7': 3739159, 'root_counts': [(4, 1048576, 87141), (5, 2788512, 203436), (6, 6509952, 703914), (7, 22525248, 3739159)], 'nsol': 60, 'time': 107.2}  elapsed 2567s
+[488/922] {'root': [5, 29, 60, 69], 'children': 13, 'ok': 13, 'fail': 0, 'n7': 3276850, 'root_counts': [(4, 1048576, 86159), (5, 2757088, 192194), (6, 6150208, 628940), (7, 20126080, 3276850)], 'nsol': 72, 'time': 167.3}  elapsed 2636s
+[489/922] {'root': [5, 29, 60, 71], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 2824984, 'root_counts': [(4, 1048576, 85747), (5, 2743904, 180980), (6, 5791360, 554829), (7, 17754528, 2824984)], 'nsol': 60, 'time': 28.8}  elapsed 2665s
+[490/922] {'root': [5, 29, 59, 71], 'children': 48, 'ok': 48, 'fail': 0, 'n7': 2886036, 'root_counts': [(4, 1048576, 85705), (5, 2742560, 180304), (6, 5769728, 558675), (7, 17877600, 2886036)], 'nsol': 60, 'time': 327.9}  elapsed 2679s
+[491/922] {'root': [5, 29, 61, 70], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 3028408, 'root_counts': [(4, 1048576, 86050), (5, 2753600, 186614), (6, 5971648, 590001), (7, 18880032, 3028408)], 'nsol': 60, 'time': 34.9}  elapsed 2700s
+[492/922] {'root': [5, 29, 57, 73], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 2427243, 'root_counts': [(4, 1048576, 85072), (5, 2722304, 167641), (6, 5364512, 487921), (7, 15613472, 2427243)], 'nsol': 60, 'time': 26.1}  elapsed 2726s
+[493/922] {'root': [5, 29, 61, 68], 'children': 17, 'ok': 17, 'fail': 0, 'n7': 3522697, 'root_counts': [(4, 1048576, 86399), (5, 2764768, 199103), (6, 6371296, 671801), (7, 21497632, 3522697)], 'nsol': 60, 'time': 263.6}  elapsed 2772s
+[494/922] {'root': [7, 28, 59, 72], 'children': 53, 'ok': 53, 'fail': 0, 'n7': 2683449, 'root_counts': [(4, 1048576, 85916), (5, 2749312, 166588), (6, 5330816, 496207), (7, 15878624, 2683449)], 'nsol': 60, 'time': 523.1}  elapsed 2776s
+[495/922] {'root': [5, 29, 59, 72], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 2608197, 'root_counts': [(4, 1048576, 85320), (5, 2730240, 173952), (6, 5566464, 522315), (7, 16714080, 2608197)], 'nsol': 60, 'time': 27.3}  elapsed 2799s
+[496/922] {'root': [7, 28, 60, 71], 'children': 42, 'ok': 42, 'fail': 0, 'n7': 2772515, 'root_counts': [(4, 1048576, 86116), (5, 2755712, 170708), (6, 5462656, 516848), (7, 16539136, 2772515)], 'nsol': 72, 'time': 759.9}  elapsed 2859s
+[497/922] {'root': [5, 29, 64, 65], 'children': 9, 'ok': 9, 'fail': 0, 'n7': 4062290, 'root_counts': [(4, 1048576, 87047), (5, 2785504, 210255), (6, 6728160, 757014), (7, 24224448, 4062290)], 'nsol': 72, 'time': 110.0}  elapsed 2886s
+[498/922] {'root': [5, 29, 65, 65], 'children': 5, 'ok': 5, 'fail': 0, 'n7': 3941806, 'root_counts': [(4, 1048576, 87319), (5, 2794208, 207871), (6, 6651872, 734540), (7, 23505280, 3941806)], 'nsol': 72, 'time': 92.3}  elapsed 2891s
+[499/922] {'root': [5, 29, 58, 72], 'children': 26, 'ok': 26, 'fail': 0, 'n7': 2649906, 'root_counts': [(4, 1048576, 85539), (5, 2737248, 174068), (6, 5570176, 520198), (7, 16646336, 2649906)], 'nsol': 60, 'time': 188.1}  elapsed 2914s
+[500/922] {'root': [3, 30, 58, 70], 'children': 3, 'ok': 3, 'fail': 0, 'n7': 3145487, 'root_counts': [(4, 1048576, 86072), (5, 2754304, 192942), (6, 6174144, 622856), (7, 19931392, 3145487)], 'nsol': 60, 'time': 33.5}  elapsed 2925s
+[501/922] {'root': [5, 29, 62, 68], 'children': 24, 'ok': 24, 'fail': 0, 'n7': 3556162, 'root_counts': [(4, 1048576, 86713), (5, 2774816, 198992), (6, 6367744, 671829), (7, 21498528, 3556162)], 'nsol': 60, 'time': 249.0}  elapsed 2928s
+[502/922] {'root': [3, 30, 59, 71], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 2966143, 'root_counts': [(4, 1048576, 86179), (5, 2757728, 188151), (6, 6020832, 593583), (7, 18994656, 2966143)], 'nsol': 60, 'time': 28.0}  elapsed 2953s
+[503/922] {'root': [5, 29, 64, 66], 'children': 11, 'ok': 11, 'fail': 0, 'n7': 3885510, 'root_counts': [(4, 1048576, 87142), (5, 2788544, 206277), (6, 6600864, 725661), (7, 23221152, 3885510)], 'nsol': 60, 'time': 98.7}  elapsed 2958s
+[504/922] {'root': [3, 30, 59, 69], 'children': 11, 'ok': 11, 'fail': 0, 'n7': 3584769, 'root_counts': [(4, 1048576, 86999), (5, 2783968, 202075), (6, 6466400, 685932), (7, 21949824, 3584769)], 'nsol': 60, 'time': 83.9}  elapsed 2970s
+[505/922] {'root': [3, 30, 61, 67], 'children': 12, 'ok': 12, 'fail': 0, 'n7': 4579324, 'root_counts': [(4, 1048576, 87813), (5, 2810016, 217631), (6, 6964192, 818240), (7, 26183680, 4579324)], 'nsol': 72, 'time': 119.8}  elapsed 3048s
+[506/922] {'root': [5, 29, 60, 70], 'children': 50, 'ok': 50, 'fail': 0, 'n7': 3120806, 'root_counts': [(4, 1048576, 85588), (5, 2738816, 186655), (6, 5972960, 595811), (7, 19065952, 3120806)], 'nsol': 60, 'time': 488.8}  elapsed 3056s
+[507/922] {'root': [3, 30, 62, 66], 'children': 18, 'ok': 18, 'fail': 0, 'n7': 5053224, 'root_counts': [(4, 1048576, 87728), (5, 2807296, 223686), (6, 7157952, 873229), (7, 27943328, 5053224)], 'nsol': 72, 'time': 177.6}  elapsed 3135s
+[508/922] {'root': [3, 30, 60, 68], 'children': 14, 'ok': 14, 'fail': 0, 'n7': 4073222, 'root_counts': [(4, 1048576, 87729), (5, 2807328, 210536), (6, 6737152, 755529), (7, 24176928, 4073222)], 'nsol': 60, 'time': 110.9}  elapsed 3159s
+[509/922] {'root': [3, 30, 59, 70], 'children': 42, 'ok': 42, 'fail': 0, 'n7': 3341581, 'root_counts': [(4, 1048576, 86504), (5, 2768128, 195218), (6, 6246976, 646175), (7, 20677600, 3341581)], 'nsol': 60, 'time': 260.8}  elapsed 3175s
+[510/922] {'root': [3, 30, 61, 69], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 3698683, 'root_counts': [(4, 1048576, 86676), (5, 2773632, 204324), (6, 6538368, 705733), (7, 22583456, 3698683)], 'nsol': 60, 'time': 25.5}  elapsed 3185s
+[511/922] {'root': [3, 30, 63, 65], 'children': 17, 'ok': 17, 'fail': 0, 'n7': 5416219, 'root_counts': [(4, 1048576, 87633), (5, 2804256, 227123), (6, 7267936, 909672), (7, 29109504, 5416219)], 'nsol': 60, 'time': 237.0}  elapsed 3190s
+[512/922] {'root': [3, 30, 60, 70], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 3308162, 'root_counts': [(4, 1048576, 86304), (5, 2761728, 196612), (6, 6291584, 650414), (7, 20813248, 3308162)], 'nsol': 60, 'time': 23.8}  elapsed 3199s
+[513/922] {'root': [3, 30, 58, 72], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2680309, 'root_counts': [(4, 1048576, 85844), (5, 2747008, 180841), (6, 5786912, 544802), (7, 17433664, 2680309)], 'nsol': 60, 'time': 22.0}  elapsed 3212s
+[514/922] {'root': [3, 30, 62, 68], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 4098610, 'root_counts': [(4, 1048576, 87136), (5, 2788352, 211390), (6, 6764480, 760784), (7, 24345088, 4098610)], 'nsol': 60, 'time': 32.4}  elapsed 3217s
+[515/922] {'root': [1, 31, 57, 70], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 3217s
+[516/922] {'root': [1, 31, 57, 71], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2908295, 'root_counts': [(4, 1048576, 86285), (5, 2761120, 188223), (6, 6023136, 586733), (7, 18775456, 2908295)], 'nsol': 60, 'time': 21.2}  elapsed 3238s
+[517/922] {'root': [1, 31, 58, 69], 'children': 5, 'ok': 5, 'fail': 0, 'n7': 3572063, 'root_counts': [(4, 1048576, 87698), (5, 2806336, 205259), (6, 6568288, 698908), (7, 22365056, 3572063)], 'nsol': 60, 'time': 42.7}  elapsed 3281s
+[518/922] {'root': [3, 30, 62, 67], 'children': 44, 'ok': 44, 'fail': 0, 'n7': 4681599, 'root_counts': [(4, 1048576, 87664), (5, 2805248, 218347), (6, 6987104, 825502), (7, 26416064, 4681599)], 'nsol': 72, 'time': 390.4}  elapsed 3360s
+[519/922] {'root': [3, 30, 60, 69], 'children': 50, 'ok': 50, 'fail': 0, 'n7': 3768800, 'root_counts': [(4, 1048576, 87083), (5, 2786656, 203754), (6, 6520128, 706902), (7, 22620864, 3768800)], 'nsol': 60, 'time': 328.2}  elapsed 3384s
+[520/922] {'root': [3, 30, 64, 64], 'children': 10, 'ok': 10, 'fail': 0, 'n7': 5566416, 'root_counts': [(4, 1048576, 87726), (5, 2807232, 228289), (6, 7305248, 923343), (7, 29546976, 5566416)], 'nsol': 72, 'time': 194.3}  elapsed 3393s
+[521/922] {'root': [1, 31, 58, 71], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2994328, 'root_counts': [(4, 1048576, 86145), (5, 2756640, 191281), (6, 6120992, 606881), (7, 19420192, 2994328)], 'nsol': 60, 'time': 21.2}  elapsed 3405s
+[522/922] {'root': [1, 31, 59, 70], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 3434204, 'root_counts': [(4, 1048576, 86452), (5, 2766464, 201582), (6, 6450624, 676960), (7, 21662720, 3434204)], 'nsol': 60, 'time': 23.3}  elapsed 3416s
+[523/922] {'root': [1, 31, 58, 70], 'children': 19, 'ok': 19, 'fail': 0, 'n7': 3347156, 'root_counts': [(4, 1048576, 86932), (5, 2781824, 198752), (6, 6360064, 655282), (7, 20969024, 3347156)], 'nsol': 60, 'time': 114.9}  elapsed 3475s
+[524/922] {'root': [1, 31, 59, 69], 'children': 42, 'ok': 42, 'fail': 0, 'n7': 3909362, 'root_counts': [(4, 1048576, 87661), (5, 2805152, 209459), (6, 6702688, 739455), (7, 23662560, 3909362)], 'nsol': 60, 'time': 265.1}  elapsed 3546s
+[525/922] {'root': [1, 31, 60, 67], 'children': 13, 'ok': 13, 'fail': 0, 'n7': 4997653, 'root_counts': [(4, 1048576, 88323), (5, 2826336, 222994), (6, 7135808, 870851), (7, 27867232, 4997653)], 'nsol': 72, 'time': 155.0}  elapsed 3560s
+[526/922] {'root': [1, 31, 61, 66], 'children': 14, 'ok': 14, 'fail': 0, 'n7': 5788513, 'root_counts': [(4, 1048576, 88064), (5, 2818048, 230414), (6, 7373248, 945904), (7, 30268928, 5788513)], 'nsol': 84, 'time': 194.1}  elapsed 3610s
+[527/922] {'root': [3, 30, 64, 65], 'children': 25, 'ok': 25, 'fail': 0, 'n7': 5319927, 'root_counts': [(4, 1048576, 87133), (5, 2788256, 224937), (6, 7197984, 895137), (7, 28644384, 5319927)], 'nsol': 60, 'time': 469.6}  elapsed 3681s
+[528/922] {'root': [3, 30, 61, 68], 'children': 46, 'ok': 46, 'fail': 0, 'n7': 4226916, 'root_counts': [(4, 1048576, 87361), (5, 2795552, 212609), (6, 6803488, 770373), (7, 24651936, 4226916)], 'nsol': 60, 'time': 553.6}  elapsed 3689s
+[529/922] {'root': [1, 31, 62, 67], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 5320189, 'root_counts': [(4, 1048576, 88209), (5, 2822688, 226280), (6, 7240960, 905247), (7, 28967904, 5320189)], 'nsol': 72, 'time': 38.3}  elapsed 3720s
+[530/922] {'root': [1, 31, 63, 66], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 5894685, 'root_counts': [(4, 1048576, 88713), (5, 2838816, 231647), (6, 7412704, 957993), (7, 30655776, 5894685)], 'nsol': 84, 'time': 32.9}  elapsed 3722s
+[531/922] {'root': [1, 31, 60, 69], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 3990693, 'root_counts': [(4, 1048576, 87283), (5, 2793056, 211938), (6, 6782016, 757193), (7, 24230176, 3990693)], 'nsol': 60, 'time': 28.6}  elapsed 3748s
+[532/922] {'root': [1, 31, 61, 68], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 4643981, 'root_counts': [(4, 1048576, 87666), (5, 2805312, 219603), (6, 7027296, 833886), (7, 26684352, 4643981)], 'nsol': 60, 'time': 48.2}  elapsed 3770s
+[533/922] {'root': [1, 31, 64, 65], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 3770s
+[534/922] {'root': [1, 31, 62, 65], 'children': 17, 'ok': 17, 'fail': 0, 'n7': 6445990, 'root_counts': [(4, 1048576, 87965), (5, 2814880, 236547), (6, 7569504, 1004684), (7, 32149888, 6445990)], 'nsol': 120, 'time': 316.8}  elapsed 3792s
+[535/922] {'root': [32, 95, 0, 57], 'children': 3, 'ok': 3, 'fail': 0, 'n7': 3186582, 'root_counts': [(4, 1048576, 87139), (5, 2788448, 198104), (6, 6339328, 642388), (7, 20556416, 3186582)], 'nsol': 60, 'time': 35.3}  elapsed 3805s
+[536/922] {'root': [1, 31, 63, 64], 'children': 18, 'ok': 18, 'fail': 0, 'n7': 6818876, 'root_counts': [(4, 1048576, 87565), (5, 2802080, 238572), (6, 7634304, 1035584), (7, 33138688, 6818876)], 'nsol': 108, 'time': 353.2}  elapsed 3899s
+[537/922] {'root': [32, 95, 0, 58], 'children': 11, 'ok': 11, 'fail': 0, 'n7': 3742944, 'root_counts': [(4, 1048576, 88225), (5, 2823200, 207625), (6, 6644000, 724622), (7, 23187904, 3742944)], 'nsol': 60, 'time': 112.4}  elapsed 3905s
+[538/922] {'root': [32, 95, 0, 60], 'children': 11, 'ok': 11, 'fail': 0, 'n7': 5325221, 'root_counts': [(4, 1048576, 89043), (5, 2849376, 226948), (6, 7262336, 904319), (7, 28938208, 5325221)], 'nsol': 60, 'time': 191.4}  elapsed 3997s
+[539/922] {'root': [32, 95, 0, 62], 'children': 4, 'ok': 4, 'fail': 0, 'n7': 6835868, 'root_counts': [(4, 1048576, 87419), (5, 2797408, 238706), (6, 7638592, 1036434), (7, 33165888, 6835868)], 'nsol': 96, 'time': 133.8}  elapsed 4038s
+[540/922] {'root': [32, 95, 0, 61], 'children': 7, 'ok': 7, 'fail': 0, 'n7': 6180081, 'root_counts': [(4, 1048576, 88728), (5, 2839296, 234259), (6, 7496288, 982404), (7, 31436928, 6180081)], 'nsol': 84, 'time': 140.9}  elapsed 4040s
+[541/922] {'root': [32, 95, 0, 63], 'children': 4, 'ok': 4, 'fail': 0, 'n7': 7145523, 'root_counts': [(4, 1048576, 87069), (5, 2786208, 240251), (6, 7688032, 1063129), (7, 34020128, 7145523)], 'nsol': 120, 'time': 77.3}  elapsed 4074s
+[542/922] {'root': [32, 95, 57, 70], 'children': 3, 'ok': 3, 'fail': 0, 'n7': 3091987, 'root_counts': [(4, 1048576, 86576), (5, 2770432, 195626), (6, 6260032, 623720), (7, 19959040, 3091987)], 'nsol': 60, 'time': 34.4}  elapsed 4075s
+[543/922] {'root': [32, 95, 0, 64], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 7039764, 'root_counts': [(4, 1048576, 87499), (5, 2799968, 239792), (6, 7673344, 1052679), (7, 33685728, 7039764)], 'nsol': 120, 'time': 37.6}  elapsed 4076s
+[544/922] {'root': [32, 95, 58, 70], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 3238550, 'root_counts': [(4, 1048576, 87391), (5, 2796512, 199511), (6, 6384352, 655605), (7, 20979360, 3238550)], 'nsol': 60, 'time': 24.7}  elapsed 4101s
+[545/922] {'root': [32, 95, 59, 69], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 3817673, 'root_counts': [(4, 1048576, 88213), (5, 2822816, 209748), (6, 6711936, 738263), (7, 23624416, 3817673)], 'nsol': 60, 'time': 30.5}  elapsed 4105s
+[546/922] {'root': [1, 31, 64, 64], 'children': 21, 'ok': 21, 'fail': 0, 'n7': 6791970, 'root_counts': [(4, 1048576, 88086), (5, 2818752, 237831), (6, 7610592, 1031035), (7, 32993120, 6791970)], 'nsol': 108, 'time': 382.2}  elapsed 4131s
+[547/922] {'root': [32, 95, 61, 67], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 5408814, 'root_counts': [(4, 1048576, 88620), (5, 2835840, 227579), (6, 7282528, 914313), (7, 29258016, 5408814)], 'nsol': 60, 'time': 33.7}  elapsed 4164s
+[548/922] {'root': [1, 31, 62, 66], 'children': 43, 'ok': 43, 'fail': 0, 'n7': 6083449, 'root_counts': [(4, 1048576, 88267), (5, 2824544, 232448), (6, 7438336, 970250), (7, 31048000, 6083449)], 'nsol': 84, 'time': 610.3}  elapsed 4221s
+[549/922] {'root': [32, 95, 59, 68], 'children': 12, 'ok': 12, 'fail': 0, 'n7': 4302869, 'root_counts': [(4, 1048576, 88207), (5, 2822624, 214537), (6, 6865184, 794537), (7, 25425184, 4302869)], 'nsol': 72, 'time': 170.8}  elapsed 4245s
+[550/922] {'root': [32, 95, 63, 65], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 6772089, 'root_counts': [(4, 1048576, 87466), (5, 2798912, 238756), (6, 7640192, 1033304), (7, 33065728, 6772089)], 'nsol': 96, 'time': 44.4}  elapsed 4265s
+[551/922] {'root': [32, 95, 63, 64], 'children': 7, 'ok': 7, 'fail': 0, 'n7': 7166710, 'root_counts': [(4, 1048576, 86900), (5, 2780800, 239918), (6, 7677376, 1062554), (7, 34001728, 7166710)], 'nsol': 120, 'time': 118.0}  elapsed 4282s
+[552/922] {'root': [32, 95, 61, 66], 'children': 10, 'ok': 10, 'fail': 0, 'n7': 6026502, 'root_counts': [(4, 1048576, 89221), (5, 2855072, 232909), (6, 7453088, 966626), (7, 30932032, 6026502)], 'nsol': 84, 'time': 178.4}  elapsed 4283s
+[553/922] {'root': [10, 27, 55, 77], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 4283s
+[554/922] {'root': [32, 95, 62, 66], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 6208112, 'root_counts': [(4, 1048576, 88180), (5, 2821760, 234277), (6, 7496864, 985579), (7, 31538528, 6208112)], 'nsol': 84, 'time': 40.6}  elapsed 4285s
+[555/922] {'root': [32, 95, 60, 68], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 4559781, 'root_counts': [(4, 1048576, 88874), (5, 2843968, 219400), (6, 7020800, 829564), (7, 26546048, 4559781)], 'nsol': 72, 'time': 30.1}  elapsed 4295s
+[556/922] {'root': [10, 27, 58, 73], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2390796, 'root_counts': [(4, 1048576, 84441), (5, 2702112, 156050), (6, 4993600, 440592), (7, 14098944, 2390796)], 'nsol': 60, 'time': 23.2}  elapsed 4309s
+[557/922] {'root': [10, 27, 59, 73], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2520859, 'root_counts': [(4, 1048576, 84806), (5, 2713792, 157255), (6, 5032160, 450570), (7, 14418240, 2520859)], 'nsol': 60, 'time': 22.8}  elapsed 4318s
+[558/922] {'root': [32, 95, 60, 67], 'children': 13, 'ok': 13, 'fail': 0, 'n7': 5143995, 'root_counts': [(4, 1048576, 88959), (5, 2846688, 224634), (6, 7188288, 885851), (7, 28347232, 5143995)], 'nsol': 60, 'time': 220.9}  elapsed 4322s
+[559/922] {'root': [32, 95, 64, 64], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 6976294, 'root_counts': [(4, 1048576, 87520), (5, 2800640, 239621), (6, 7667872, 1049371), (7, 33579872, 6976294)], 'nsol': 108, 'time': 43.3}  elapsed 4326s
+[560/922] {'root': [10, 27, 56, 77], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 4326s
+[561/922] {'root': [10, 27, 59, 74], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2569949, 'root_counts': [(4, 1048576, 84557), (5, 2705824, 156224), (6, 4999168, 451795), (7, 14457440, 2569949)], 'nsol': 72, 'time': 23.3}  elapsed 4345s
+[562/922] {'root': [10, 27, 56, 78], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 4345s
+[563/922] {'root': [8, 28, 55, 77], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 4345s
+[564/922] {'root': [10, 27, 57, 76], 'children': 7, 'ok': 7, 'fail': 0, 'n7': 2460490, 'root_counts': [(4, 1048576, 83739), (5, 2679648, 156644), (6, 5012608, 452403), (7, 14476896, 2460490)], 'nsol': 60, 'time': 41.2}  elapsed 4367s
+[565/922] {'root': [10, 27, 58, 75], 'children': 7, 'ok': 7, 'fail': 0, 'n7': 2547907, 'root_counts': [(4, 1048576, 83926), (5, 2685632, 155694), (6, 4982208, 451383), (7, 14444256, 2547907)], 'nsol': 60, 'time': 50.8}  elapsed 4369s
+[566/922] {'root': [8, 28, 59, 71], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2506666, 'root_counts': [(4, 1048576, 85832), (5, 2746624, 165260), (6, 5288320, 483534), (7, 15473088, 2506666)], 'nsol': 60, 'time': 34.0}  elapsed 4379s
+[567/922] {'root': [8, 28, 60, 71], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2645867, 'root_counts': [(4, 1048576, 86332), (5, 2762624, 166605), (6, 5331360, 495223), (7, 15847136, 2645867)], 'nsol': 60, 'time': 37.2}  elapsed 4404s
+[568/922] {'root': [10, 27, 57, 75], 'children': 23, 'ok': 23, 'fail': 0, 'n7': 2489598, 'root_counts': [(4, 1048576, 83756), (5, 2680192, 156052), (6, 4993664, 450405), (7, 14412960, 2489598)], 'nsol': 60, 'time': 126.0}  elapsed 4409s
+[569/922] {'root': [1, 31, 63, 65], 'children': 47, 'ok': 47, 'fail': 0, 'n7': 6601536, 'root_counts': [(4, 1048576, 88222), (5, 2823104, 236888), (6, 7580416, 1015641), (7, 32500512, 6601536)], 'nsol': 120, 'time': 853.1}  elapsed 4414s
+[570/922] {'root': [10, 27, 58, 74], 'children': 14, 'ok': 14, 'fail': 0, 'n7': 2537315, 'root_counts': [(4, 1048576, 84144), (5, 2692608, 155719), (6, 4983008, 451363), (7, 14443616, 2537315)], 'nsol': 72, 'time': 122.5}  elapsed 4431s
+[571/922] {'root': [8, 28, 59, 73], 'children': 6, 'ok': 6, 'fail': 0, 'n7': 2588506, 'root_counts': [(4, 1048576, 85271), (5, 2728672, 160399), (6, 5132768, 469619), (7, 15027808, 2588506)], 'nsol': 60, 'time': 51.6}  elapsed 4465s
+[572/922] {'root': [8, 28, 56, 77], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 4465s
+[573/922] {'root': [8, 28, 60, 72], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2645490, 'root_counts': [(4, 1048576, 85515), (5, 2736480, 163616), (6, 5235712, 479789), (7, 15353248, 2645490)], 'nsol': 72, 'time': 21.0}  elapsed 4486s
+[574/922] {'root': [8, 28, 57, 75], 'children': 35, 'ok': 35, 'fail': 0, 'n7': 2309874, 'root_counts': [(4, 1048576, 83939), (5, 2686048, 155802), (6, 4985664, 446566), (7, 14290112, 2309874)], 'nsol': 60, 'time': 140.5}  elapsed 4519s
+[575/922] {'root': [8, 28, 57, 74], 'children': 35, 'ok': 35, 'fail': 0, 'n7': 2399417, 'root_counts': [(4, 1048576, 84404), (5, 2700928, 157685), (6, 5045920, 451748), (7, 14455936, 2399417)], 'nsol': 60, 'time': 158.5}  elapsed 4527s
+[576/922] {'root': [8, 28, 59, 72], 'children': 11, 'ok': 11, 'fail': 0, 'n7': 2619907, 'root_counts': [(4, 1048576, 85569), (5, 2738208, 162971), (6, 5215072, 477790), (7, 15289280, 2619907)], 'nsol': 72, 'time': 134.8}  elapsed 4544s
+[577/922] {'root': [6, 29, 60, 69], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2926673, 'root_counts': [(4, 1048576, 85625), (5, 2740000, 184806), (6, 5913792, 580233), (7, 18567456, 2926673)], 'nsol': 60, 'time': 31.9}  elapsed 4551s
+[578/922] {'root': [8, 28, 58, 74], 'children': 26, 'ok': 26, 'fail': 0, 'n7': 2468510, 'root_counts': [(4, 1048576, 84607), (5, 2707424, 157659), (6, 5045088, 456102), (7, 14595264, 2468510)], 'nsol': 60, 'time': 131.6}  elapsed 4563s
+[579/922] {'root': [6, 29, 61, 69], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 3080872, 'root_counts': [(4, 1048576, 86040), (5, 2753280, 186550), (6, 5969600, 593733), (7, 18999456, 3080872)], 'nsol': 60, 'time': 35.6}  elapsed 4563s
+[580/922] {'root': [6, 29, 61, 70], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2949030, 'root_counts': [(4, 1048576, 86547), (5, 2769504, 180880), (6, 5788160, 564160), (7, 18053120, 2949030)], 'nsol': 72, 'time': 28.7}  elapsed 4580s
+[581/922] {'root': [8, 28, 58, 73], 'children': 32, 'ok': 32, 'fail': 0, 'n7': 2536003, 'root_counts': [(4, 1048576, 85209), (5, 2726688, 160399), (6, 5132768, 467792), (7, 14969344, 2536003)], 'nsol': 60, 'time': 189.4}  elapsed 4593s
+[582/922] {'root': [6, 29, 56, 74], 'children': 6, 'ok': 6, 'fail': 0, 'n7': 2243042, 'root_counts': [(4, 1048576, 84213), (5, 2694816, 159786), (6, 5113152, 453194), (7, 14502208, 2243042)], 'nsol': 60, 'time': 45.9}  elapsed 4609s
+[583/922] {'root': [6, 29, 56, 75], 'children': 4, 'ok': 4, 'fail': 0, 'n7': 2133863, 'root_counts': [(4, 1048576, 83901), (5, 2684832, 157344), (6, 5035008, 442173), (7, 14149536, 2133863)], 'nsol': 60, 'time': 29.8}  elapsed 4610s
+[584/922] {'root': [6, 29, 60, 70], 'children': 9, 'ok': 9, 'fail': 0, 'n7': 2941301, 'root_counts': [(4, 1048576, 86012), (5, 2752384, 181098), (6, 5795136, 564590), (7, 18066880, 2941301)], 'nsol': 72, 'time': 122.5}  elapsed 4667s
+[585/922] {'root': [6, 29, 59, 71], 'children': 29, 'ok': 29, 'fail': 0, 'n7': 2785248, 'root_counts': [(4, 1048576, 85576), (5, 2738432, 175826), (6, 5626432, 534086), (7, 17090752, 2785248)], 'nsol': 60, 'time': 239.8}  elapsed 4726s
+[586/922] {'root': [6, 29, 59, 72], 'children': 18, 'ok': 18, 'fail': 0, 'n7': 2654941, 'root_counts': [(4, 1048576, 85873), (5, 2747936, 170666), (6, 5461312, 510585), (7, 16338720, 2654941)], 'nsol': 60, 'time': 149.7}  elapsed 4760s
+[587/922] {'root': [6, 29, 57, 74], 'children': 27, 'ok': 27, 'fail': 0, 'n7': 2289980, 'root_counts': [(4, 1048576, 84342), (5, 2698944, 160817), (6, 5146144, 460284), (7, 14729088, 2289980)], 'nsol': 60, 'time': 175.2}  elapsed 4769s
+[588/922] {'root': [6, 29, 57, 73], 'children': 29, 'ok': 29, 'fail': 0, 'n7': 2415499, 'root_counts': [(4, 1048576, 84524), (5, 2704768, 164043), (6, 5249376, 477787), (7, 15289184, 2415499)], 'nsol': 60, 'time': 214.6}  elapsed 4777s
+[589/922] {'root': [4, 30, 61, 67], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 4003397, 'root_counts': [(4, 1048576, 87834), (5, 2810688, 210600), (6, 6739200, 752366), (7, 24075712, 4003397)], 'nsol': 60, 'time': 29.1}  elapsed 4798s
+[590/922] {'root': [4, 30, 62, 67], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 4201232, 'root_counts': [(4, 1048576, 87354), (5, 2795328, 212466), (6, 6798912, 769543), (7, 24625376, 4201232)], 'nsol': 60, 'time': 30.0}  elapsed 4807s
+[591/922] {'root': [4, 30, 59, 71], 'children': 21, 'ok': 21, 'fail': 0, 'n7': 2931616, 'root_counts': [(4, 1048576, 85570), (5, 2738240, 184679), (6, 5909728, 576178), (7, 18437696, 2931616)], 'nsol': 60, 'time': 131.4}  elapsed 4891s
+[592/922] {'root': [4, 30, 61, 68], 'children': 8, 'ok': 8, 'fail': 0, 'n7': 3861875, 'root_counts': [(4, 1048576, 87300), (5, 2793600, 205983), (6, 6591456, 719413), (7, 23021216, 3861875)], 'nsol': 72, 'time': 86.6}  elapsed 4894s
+[593/922] {'root': [4, 30, 58, 71], 'children': 41, 'ok': 41, 'fail': 0, 'n7': 2862247, 'root_counts': [(4, 1048576, 85654), (5, 2740928, 183092), (6, 5858944, 563999), (7, 18047968, 2862247)], 'nsol': 60, 'time': 237.5}  elapsed 4904s
+[594/922] {'root': [6, 29, 58, 72], 'children': 40, 'ok': 40, 'fail': 0, 'n7': 2603782, 'root_counts': [(4, 1048576, 85223), (5, 2727136, 170394), (6, 5452608, 504506), (7, 16144192, 2603782)], 'nsol': 60, 'time': 303.7}  elapsed 4913s
+[595/922] {'root': [4, 30, 61, 69], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 3541230, 'root_counts': [(4, 1048576, 86370), (5, 2763840, 198679), (6, 6357728, 671587), (7, 21490784, 3541230)], 'nsol': 60, 'time': 38.1}  elapsed 4929s
+[596/922] {'root': [4, 30, 62, 68], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 3849491, 'root_counts': [(4, 1048576, 87423), (5, 2797536, 205338), (6, 6570816, 718576), (7, 22994432, 3849491)], 'nsol': 72, 'time': 27.6}  elapsed 4932s
+[597/922] {'root': [4, 30, 56, 73], 'children': 4, 'ok': 4, 'fail': 0, 'n7': 2392448, 'root_counts': [(4, 1048576, 85065), (5, 2722080, 167916), (6, 5373312, 481469), (7, 15407008, 2392448)], 'nsol': 60, 'time': 40.8}  elapsed 4953s
+[598/922] {'root': [4, 30, 59, 70], 'children': 37, 'ok': 37, 'fail': 0, 'n7': 3165405, 'root_counts': [(4, 1048576, 86197), (5, 2758304, 190103), (6, 6083296, 613485), (7, 19631520, 3165405)], 'nsol': 60, 'time': 229.0}  elapsed 4955s
+[599/922] {'root': [4, 30, 60, 69], 'children': 22, 'ok': 22, 'fail': 0, 'n7': 3506284, 'root_counts': [(4, 1048576, 86928), (5, 2781696, 198265), (6, 6344480, 667567), (7, 21362144, 3506284)], 'nsol': 60, 'time': 159.9}  elapsed 4958s
+[600/922] {'root': [2, 31, 59, 68], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 4958s
+[601/922] {'root': [4, 30, 56, 74], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 2281572, 'root_counts': [(4, 1048576, 85354), (5, 2731328, 163264), (6, 5224448, 464915), (7, 14877280, 2281572)], 'nsol': 60, 'time': 27.1}  elapsed 4959s
+[602/922] {'root': [4, 30, 60, 70], 'children': 9, 'ok': 9, 'fail': 0, 'n7': 3225985, 'root_counts': [(4, 1048576, 85654), (5, 2740928, 191621), (6, 6131872, 623755), (7, 19960160, 3225985)], 'nsol': 60, 'time': 75.0}  elapsed 4969s
+[603/922] {'root': [4, 30, 57, 73], 'children': 16, 'ok': 16, 'fail': 0, 'n7': 2464055, 'root_counts': [(4, 1048576, 85351), (5, 2731232, 169941), (6, 5438112, 494041), (7, 15809312, 2464055)], 'nsol': 60, 'time': 112.5}  elapsed 5042s
+[604/922] {'root': [2, 31, 60, 67], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 5042s
+[605/922] {'root': [2, 31, 61, 66], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 5042s
+[606/922] {'root': [2, 31, 58, 71], 'children': 20, 'ok': 20, 'fail': 0, 'n7': 2990452, 'root_counts': [(4, 1048576, 85910), (5, 2749120, 188190), (6, 6022080, 594327), (7, 19018464, 2990452)], 'nsol': 60, 'time': 128.6}  elapsed 5088s
+[607/922] {'root': [2, 31, 57, 71], 'children': 28, 'ok': 28, 'fail': 0, 'n7': 2835887, 'root_counts': [(4, 1048576, 85713), (5, 2742816, 185140), (6, 5924480, 570010), (7, 18240320, 2835887)], 'nsol': 60, 'time': 153.1}  elapsed 5108s
+[608/922] {'root': [4, 30, 58, 72], 'children': 27, 'ok': 27, 'fail': 0, 'n7': 2680850, 'root_counts': [(4, 1048576, 85501), (5, 2736032, 177009), (6, 5664288, 533384), (7, 17068288, 2680850)], 'nsol': 60, 'time': 166.8}  elapsed 5120s
+[609/922] {'root': [2, 31, 62, 65], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 5807124, 'root_counts': [(4, 1048576, 88348), (5, 2827136, 231582), (6, 7410624, 949879), (7, 30396128, 5807124)], 'nsol': 72, 'time': 33.0}  elapsed 5121s
+[610/922] {'root': [2, 31, 63, 66], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 5552597, 'root_counts': [(4, 1048576, 88316), (5, 2826112, 228470), (6, 7311040, 922058), (7, 29505856, 5552597)], 'nsol': 72, 'time': 32.6}  elapsed 5153s
+[611/922] {'root': [2, 31, 62, 67], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 5032042, 'root_counts': [(4, 1048576, 87744), (5, 2807808, 222469), (6, 7119008, 870678), (7, 27861696, 5032042)], 'nsol': 60, 'time': 36.5}  elapsed 5157s
+[612/922] {'root': [2, 31, 59, 70], 'children': 21, 'ok': 21, 'fail': 0, 'n7': 3383680, 'root_counts': [(4, 1048576, 86542), (5, 2769344, 199093), (6, 6370976, 659367), (7, 21099744, 3383680)], 'nsol': 60, 'time': 213.5}  elapsed 5182s
+[613/922] {'root': [2, 31, 61, 67], 'children': 13, 'ok': 13, 'fail': 0, 'n7': 4967974, 'root_counts': [(4, 1048576, 88063), (5, 2818016, 221949), (6, 7102368, 863006), (7, 27616192, 4967974)], 'nsol': 60, 'time': 158.3}  elapsed 5200s
+[614/922] {'root': [2, 31, 62, 66], 'children': 8, 'ok': 8, 'fail': 0, 'n7': 5600689, 'root_counts': [(4, 1048576, 88254), (5, 2824128, 228982), (6, 7327424, 926791), (7, 29657312, 5600689)], 'nsol': 72, 'time': 102.4}  elapsed 5211s
+[615/922] {'root': [2, 31, 56, 73], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2445478, 'root_counts': [(4, 1048576, 85067), (5, 2722144, 171637), (6, 5492384, 491786), (7, 15737152, 2445478)], 'nsol': 60, 'time': 17.3}  elapsed 5217s
+[616/922] {'root': [2, 31, 61, 68], 'children': 3, 'ok': 3, 'fail': 0, 'n7': 4444533, 'root_counts': [(4, 1048576, 87406), (5, 2796992, 215788), (6, 6905216, 803954), (7, 25726528, 4444533)], 'nsol': 60, 'time': 46.1}  elapsed 5228s
+[617/922] {'root': [0, 32, 0, 57], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 3106149, 'root_counts': [(4, 1048576, 87011), (5, 2784352, 196816), (6, 6298112, 632812), (7, 20249984, 3106149)], 'nsol': 60, 'time': 27.8}  elapsed 5245s
+[618/922] {'root': [0, 32, 0, 58], 'children': 5, 'ok': 5, 'fail': 0, 'n7': 3641539, 'root_counts': [(4, 1048576, 88081), (5, 2818592, 206911), (6, 6621152, 716014), (7, 22912448, 3641539)], 'nsol': 60, 'time': 54.6}  elapsed 5283s
+[619/922] {'root': [2, 31, 60, 69], 'children': 11, 'ok': 11, 'fail': 0, 'n7': 3876239, 'root_counts': [(4, 1048576, 87190), (5, 2790080, 208514), (6, 6672448, 732382), (7, 23436224, 3876239)], 'nsol': 60, 'time': 139.6}  elapsed 5296s
+[620/922] {'root': [2, 31, 57, 72], 'children': 15, 'ok': 15, 'fail': 0, 'n7': 2684619, 'root_counts': [(4, 1048576, 85239), (5, 2727648, 179619), (6, 5747808, 536616), (7, 17171712, 2684619)], 'nsol': 60, 'time': 88.6}  elapsed 5299s
+[621/922] {'root': [0, 32, 0, 59], 'children': 5, 'ok': 5, 'fail': 0, 'n7': 4347576, 'root_counts': [(4, 1048576, 88613), (5, 2835616, 216818), (6, 6938176, 806073), (7, 25794336, 4347576)], 'nsol': 60, 'time': 82.0}  elapsed 5327s
+[622/922] {'root': [0, 32, 0, 64], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 6927945, 'root_counts': [(4, 1048576, 87908), (5, 2813056, 239010), (6, 7648320, 1046902), (7, 33500864, 6927945)], 'nsol': 120, 'time': 36.4}  elapsed 5364s
+[623/922] {'root': [0, 32, 0, 60], 'children': 5, 'ok': 5, 'fail': 0, 'n7': 5196649, 'root_counts': [(4, 1048576, 88676), (5, 2837632, 225922), (6, 7229504, 895505), (7, 28656160, 5196649)], 'nsol': 60, 'time': 88.6}  elapsed 5372s
+[624/922] {'root': [0, 32, 0, 63], 'children': 4, 'ok': 4, 'fail': 0, 'n7': 7036287, 'root_counts': [(4, 1048576, 87404), (5, 2796928, 239974), (6, 7679168, 1054386), (7, 33740352, 7036287)], 'nsol': 120, 'time': 79.6}  elapsed 5379s
+[625/922] {'root': [0, 32, 0, 62], 'children': 4, 'ok': 4, 'fail': 0, 'n7': 6719503, 'root_counts': [(4, 1048576, 87561), (5, 2801952, 238091), (6, 7618912, 1029335), (7, 32938720, 6719503)], 'nsol': 108, 'time': 104.8}  elapsed 5401s
+[626/922] {'root': [0, 32, 56, 71], 'children': 12, 'ok': 12, 'fail': 0, 'n7': 2683257, 'root_counts': [(4, 1048576, 84913), (5, 2717216, 184192), (6, 5894144, 550084), (7, 17602688, 2683257)], 'nsol': 60, 'time': 68.7}  elapsed 5432s
+[627/922] {'root': [0, 32, 57, 71], 'children': 16, 'ok': 16, 'fail': 0, 'n7': 2824369, 'root_counts': [(4, 1048576, 85784), (5, 2745088, 188490), (6, 6031680, 578279), (7, 18504928, 2824369)], 'nsol': 60, 'time': 86.9}  elapsed 5466s
+[628/922] {'root': [2, 31, 59, 69], 'children': 43, 'ok': 43, 'fail': 0, 'n7': 3713903, 'root_counts': [(4, 1048576, 87186), (5, 2789952, 205901), (6, 6588832, 710018), (7, 22720576, 3713903)], 'nsol': 60, 'time': 532.3}  elapsed 5490s
+[629/922] {'root': [2, 31, 60, 68], 'children': 29, 'ok': 29, 'fail': 0, 'n7': 4312764, 'root_counts': [(4, 1048576, 87723), (5, 2807136, 214254), (6, 6856128, 787491), (7, 25199712, 4312764)], 'nsol': 60, 'time': 361.1}  elapsed 5514s
+[630/922] {'root': [0, 32, 57, 70], 'children': 35, 'ok': 35, 'fail': 0, 'n7': 3046382, 'root_counts': [(4, 1048576, 86703), (5, 2774496, 194687), (6, 6229984, 618248), (7, 19783936, 3046382)], 'nsol': 60, 'time': 187.4}  elapsed 5559s
+[631/922] {'root': [0, 32, 59, 69], 'children': 19, 'ok': 19, 'fail': 0, 'n7': 3801106, 'root_counts': [(4, 1048576, 88010), (5, 2816320, 209440), (6, 6702080, 733957), (7, 23486624, 3801106)], 'nsol': 60, 'time': 132.4}  elapsed 5565s
+[632/922] {'root': [0, 32, 58, 70], 'children': 19, 'ok': 19, 'fail': 0, 'n7': 3237235, 'root_counts': [(4, 1048576, 87107), (5, 2787424, 198889), (6, 6364448, 652339), (7, 20874848, 3237235)], 'nsol': 60, 'time': 114.6}  elapsed 5580s
+[633/922] {'root': [0, 32, 61, 67], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 5367651, 'root_counts': [(4, 1048576, 88230), (5, 2823360, 227022), (6, 7264704, 909196), (7, 29094272, 5367651)], 'nsol': 60, 'time': 50.8}  elapsed 5610s
+[634/922] {'root': [0, 32, 63, 65], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 6751889, 'root_counts': [(4, 1048576, 87874), (5, 2811968, 238112), (6, 7619584, 1030200), (7, 32966400, 6751889)], 'nsol': 120, 'time': 36.8}  elapsed 5617s
+[635/922] {'root': [0, 32, 62, 66], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 6173337, 'root_counts': [(4, 1048576, 88189), (5, 2822048, 233830), (6, 7482560, 982909), (7, 31453088, 6173337)], 'nsol': 84, 'time': 40.7}  elapsed 5651s
+[636/922] {'root': [0, 32, 56, 72], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 2522034, 'root_counts': [(4, 1048576, 84846), (5, 2715072, 177984), (6, 5695488, 520086), (7, 16642752, 2522034)], 'nsol': 60, 'time': 22.2}  elapsed 5673s
+[637/922] {'root': [0, 32, 63, 64], 'children': 7, 'ok': 7, 'fail': 0, 'n7': 7088599, 'root_counts': [(4, 1048576, 87159), (5, 2789088, 240381), (6, 7692192, 1058297), (7, 33865504, 7088599)], 'nsol': 120, 'time': 122.1}  elapsed 5687s
+[638/922] {'root': [9, 28, 54, 78], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 5687s
+[639/922] {'root': [9, 28, 55, 78], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 5687s
+[640/922] {'root': [0, 32, 64, 64], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 6964591, 'root_counts': [(4, 1048576, 88114), (5, 2819648, 239496), (6, 7663872, 1048715), (7, 33558880, 6964591)], 'nsol': 120, 'time': 36.2}  elapsed 5709s
+[641/922] {'root': [9, 28, 56, 75], 'children': 3, 'ok': 3, 'fail': 0, 'n7': 2223234, 'root_counts': [(4, 1048576, 83640), (5, 2676480, 153983), (6, 4927456, 436870), (7, 13979840, 2223234)], 'nsol': 60, 'time': 24.3}  elapsed 5711s
+[642/922] {'root': [0, 32, 61, 66], 'children': 13, 'ok': 13, 'fail': 0, 'n7': 5927648, 'root_counts': [(4, 1048576, 88709), (5, 2838688, 232256), (6, 7432192, 961199), (7, 30758368, 5927648)], 'nsol': 84, 'time': 204.6}  elapsed 5719s
+[643/922] {'root': [0, 32, 60, 68], 'children': 10, 'ok': 10, 'fail': 0, 'n7': 4527725, 'root_counts': [(4, 1048576, 88408), (5, 2829056, 218644), (6, 6996608, 825458), (7, 26414656, 4527725)], 'nsol': 60, 'time': 106.8}  elapsed 5724s
+[644/922] {'root': [0, 32, 59, 68], 'children': 37, 'ok': 37, 'fail': 0, 'n7': 4218571, 'root_counts': [(4, 1048576, 88439), (5, 2830048, 214339), (6, 6858848, 788192), (7, 25222144, 4218571)], 'nsol': 60, 'time': 329.2}  elapsed 5730s
+[645/922] {'root': [9, 28, 57, 74], 'children': 3, 'ok': 3, 'fail': 0, 'n7': 2330634, 'root_counts': [(4, 1048576, 84380), (5, 2700160, 156042), (6, 4993344, 442091), (7, 14146912, 2330634)], 'nsol': 60, 'time': 26.6}  elapsed 5736s
+[646/922] {'root': [33, 95, 0, 55], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 5736s
+[647/922] {'root': [33, 95, 0, 56], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 5736s
+[648/922] {'root': [9, 28, 56, 77], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2176650, 'root_counts': [(4, 1048576, 84301), (5, 2697632, 155539), (6, 4977248, 438842), (7, 14042944, 2176650)], 'nsol': 60, 'time': 16.6}  elapsed 5740s
+[649/922] {'root': [33, 95, 1, 56], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 5740s
+[650/922] {'root': [33, 95, 0, 58], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 5740s
+[651/922] {'root': [33, 95, 0, 59], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 5740s
+[652/922] {'root': [33, 95, 56, 71], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 5740s
+[653/922] {'root': [9, 28, 58, 74], 'children': 3, 'ok': 3, 'fail': 0, 'n7': 2485980, 'root_counts': [(4, 1048576, 84411), (5, 2701152, 156924), (6, 5021568, 451822), (7, 14458304, 2485980)], 'nsol': 60, 'time': 28.7}  elapsed 5748s
+[654/922] {'root': [33, 95, 58, 69], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 5748s
+[655/922] {'root': [33, 95, 59, 68], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 5748s
+[656/922] {'root': [9, 28, 57, 76], 'children': 3, 'ok': 3, 'fail': 0, 'n7': 2290921, 'root_counts': [(4, 1048576, 83758), (5, 2680256, 154798), (6, 4953536, 441677), (7, 14133664, 2290921)], 'nsol': 60, 'time': 25.9}  elapsed 5756s
+[657/922] {'root': [7, 29, 55, 77], 'children': 3, 'ok': 3, 'fail': 0, 'n7': 1991858, 'root_counts': [(4, 1048576, 83491), (5, 2671712, 152032), (6, 4865024, 425514), (7, 13616448, 1991858)], 'nsol': 60, 'time': 23.3}  elapsed 5771s
+[658/922] {'root': [33, 95, 57, 70], 'children': 3, 'ok': 3, 'fail': 0, 'n7': 2973294, 'root_counts': [(4, 1048576, 86681), (5, 2773792, 193463), (6, 6190816, 608636), (7, 19476352, 2973294)], 'nsol': 60, 'time': 34.8}  elapsed 5775s
+[659/922] {'root': [33, 95, 0, 57], 'children': 6, 'ok': 6, 'fail': 0, 'n7': 3116587, 'root_counts': [(4, 1048576, 86874), (5, 2779968, 196245), (6, 6279840, 629499), (7, 20143968, 3116587)], 'nsol': 60, 'time': 52.4}  elapsed 5788s
+[660/922] {'root': [7, 29, 56, 74], 'children': 3, 'ok': 3, 'fail': 0, 'n7': 2186197, 'root_counts': [(4, 1048576, 83686), (5, 2677952, 156723), (6, 5015136, 443742), (7, 14199744, 2186197)], 'nsol': 60, 'time': 25.5}  elapsed 5796s
+[661/922] {'root': [7, 29, 57, 73], 'children': 6, 'ok': 6, 'fail': 0, 'n7': 2324792, 'root_counts': [(4, 1048576, 84504), (5, 2704128, 161127), (6, 5156064, 461595), (7, 14771040, 2324792)], 'nsol': 60, 'time': 50.6}  elapsed 5807s
+[662/922] {'root': [9, 28, 57, 75], 'children': 27, 'ok': 27, 'fail': 0, 'n7': 2374134, 'root_counts': [(4, 1048576, 83992), (5, 2687744, 155497), (6, 4975904, 446651), (7, 14292832, 2374134)], 'nsol': 60, 'time': 127.9}  elapsed 5839s
+[663/922] {'root': [7, 29, 58, 74], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 5839s
+[664/922] {'root': [7, 29, 57, 75], 'children': 9, 'ok': 9, 'fail': 0, 'n7': 2185149, 'root_counts': [(4, 1048576, 84289), (5, 2697248, 156212), (6, 4998784, 443314), (7, 14186048, 2185149)], 'nsol': 60, 'time': 46.7}  elapsed 5843s
+[665/922] {'root': [0, 32, 60, 67], 'children': 29, 'ok': 29, 'fail': 0, 'n7': 5046667, 'root_counts': [(4, 1048576, 89017), (5, 2848544, 224322), (6, 7178304, 877680), (7, 28085760, 5046667)], 'nsol': 60, 'time': 394.4}  elapsed 5884s
+[666/922] {'root': [5, 30, 55, 76], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 5884s
+[667/922] {'root': [5, 30, 55, 75], 'children': 6, 'ok': 6, 'fail': 0, 'n7': 2164544, 'root_counts': [(4, 1048576, 84475), (5, 2703200, 155860), (6, 4987520, 440319), (7, 14090208, 2164544)], 'nsol': 60, 'time': 48.5}  elapsed 5892s
+[668/922] {'root': [7, 29, 56, 76], 'children': 14, 'ok': 14, 'fail': 0, 'n7': 2066454, 'root_counts': [(4, 1048576, 83807), (5, 2681824, 153831), (6, 4922592, 431193), (7, 13798176, 2066454)], 'nsol': 60, 'time': 60.2}  elapsed 5899s
+[669/922] {'root': [7, 29, 58, 73], 'children': 15, 'ok': 15, 'fail': 0, 'n7': 2473597, 'root_counts': [(4, 1048576, 85268), (5, 2728576, 162384), (6, 5196288, 473604), (7, 15155328, 2473597)], 'nsol': 60, 'time': 112.9}  elapsed 5920s
+[670/922] {'root': [5, 30, 58, 71], 'children': 4, 'ok': 4, 'fail': 0, 'n7': 2673973, 'root_counts': [(4, 1048576, 85555), (5, 2737760, 177800), (6, 5689600, 534347), (7, 17099104, 2673973)], 'nsol': 60, 'time': 38.2}  elapsed 5923s
+[671/922] {'root': [5, 30, 56, 73], 'children': 4, 'ok': 4, 'fail': 0, 'n7': 2293005, 'root_counts': [(4, 1048576, 84745), (5, 2711840, 163749), (6, 5239968, 466918), (7, 14941376, 2293005)], 'nsol': 60, 'time': 41.4}  elapsed 5933s
+[672/922] {'root': [5, 30, 57, 72], 'children': 7, 'ok': 7, 'fail': 0, 'n7': 2465902, 'root_counts': [(4, 1048576, 85157), (5, 2725024, 171440), (6, 5486080, 498834), (7, 15962688, 2465902)], 'nsol': 60, 'time': 58.1}  elapsed 5957s
+[673/922] {'root': [7, 29, 56, 75], 'children': 49, 'ok': 49, 'fail': 0, 'n7': 2184980, 'root_counts': [(4, 1048576, 83534), (5, 2673088, 156097), (6, 4995104, 441922), (7, 14141504, 2184980)], 'nsol': 60, 'time': 201.0}  elapsed 5976s
+[674/922] {'root': [5, 30, 58, 73], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 2422817, 'root_counts': [(4, 1048576, 84699), (5, 2710368, 167397), (6, 5356704, 488525), (7, 15632800, 2422817)], 'nsol': 60, 'time': 26.1}  elapsed 6002s
+[675/922] {'root': [3, 31, 55, 73], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 6002s
+[676/922] {'root': [5, 30, 56, 75], 'children': 10, 'ok': 10, 'fail': 0, 'n7': 2143313, 'root_counts': [(4, 1048576, 84968), (5, 2718976, 157850), (6, 5051200, 443656), (7, 14196992, 2143313)], 'nsol': 60, 'time': 77.0}  elapsed 6010s
+[677/922] {'root': [5, 30, 57, 74], 'children': 7, 'ok': 7, 'fail': 0, 'n7': 2265675, 'root_counts': [(4, 1048576, 84603), (5, 2707296, 162046), (6, 5185472, 463782), (7, 14841024, 2265675)], 'nsol': 60, 'time': 58.5}  elapsed 6016s
+[678/922] {'root': [7, 29, 57, 74], 'children': 45, 'ok': 45, 'fail': 0, 'n7': 2319854, 'root_counts': [(4, 1048576, 84442), (5, 2702144, 158987), (6, 5087584, 456547), (7, 14609504, 2319854)], 'nsol': 60, 'time': 228.8}  elapsed 6017s
+[679/922] {'root': [3, 31, 59, 69], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 3424632, 'root_counts': [(4, 1048576, 87536), (5, 2801152, 200353), (6, 6411296, 671681), (7, 21493792, 3424632)], 'nsol': 60, 'time': 24.4}  elapsed 6040s
+[680/922] {'root': [3, 31, 55, 74], 'children': 8, 'ok': 8, 'fail': 0, 'n7': 2287429, 'root_counts': [(4, 1048576, 84531), (5, 2704992, 161623), (6, 5171936, 454394), (7, 14540608, 2287429)], 'nsol': 60, 'time': 58.9}  elapsed 6061s
+[681/922] {'root': [3, 31, 57, 71], 'children': 10, 'ok': 10, 'fail': 0, 'n7': 2687350, 'root_counts': [(4, 1048576, 85035), (5, 2721120, 181876), (6, 5820032, 548222), (7, 17543104, 2687350)], 'nsol': 60, 'time': 73.8}  elapsed 6084s
+[682/922] {'root': [3, 31, 58, 70], 'children': 8, 'ok': 8, 'fail': 0, 'n7': 3010648, 'root_counts': [(4, 1048576, 86354), (5, 2763328, 191086), (6, 6114752, 603088), (7, 19298816, 3010648)], 'nsol': 60, 'time': 76.7}  elapsed 6094s
+[683/922] {'root': [3, 31, 59, 70], 'children': 8, 'ok': 8, 'fail': 0, 'n7': 3252473, 'root_counts': [(4, 1048576, 86451), (5, 2766432, 194462), (6, 6222784, 633546), (7, 20273472, 3252473)], 'nsol': 60, 'time': 66.2}  elapsed 6107s
+[684/922] {'root': [3, 31, 56, 72], 'children': 7, 'ok': 7, 'fail': 0, 'n7': 2447649, 'root_counts': [(4, 1048576, 84171), (5, 2693472, 172890), (6, 5532480, 498025), (7, 15936800, 2447649)], 'nsol': 60, 'time': 47.5}  elapsed 6109s
+[685/922] {'root': [3, 31, 57, 73], 'children': 3, 'ok': 3, 'fail': 0, 'n7': 2460519, 'root_counts': [(4, 1048576, 85253), (5, 2728096, 170933), (6, 5469856, 497037), (7, 15905184, 2460519)], 'nsol': 60, 'time': 29.3}  elapsed 6136s
+[686/922] {'root': [3, 31, 56, 74], 'children': 5, 'ok': 5, 'fail': 0, 'n7': 2297769, 'root_counts': [(4, 1048576, 85487), (5, 2735584, 163968), (6, 5246976, 462962), (7, 14814784, 2297769)], 'nsol': 60, 'time': 39.9}  elapsed 6149s
+[687/922] {'root': [1, 32, 55, 72], 'children': 3, 'ok': 3, 'fail': 0, 'n7': 2344601, 'root_counts': [(4, 1048576, 84312), (5, 2697984, 171368), (6, 5483776, 486618), (7, 15571776, 2344601)], 'nsol': 60, 'time': 25.8}  elapsed 6162s
+[688/922] {'root': [1, 32, 55, 73], 'children': 12, 'ok': 12, 'fail': 0, 'n7': 2341145, 'root_counts': [(4, 1048576, 84249), (5, 2695968, 167436), (6, 5357952, 470397), (7, 15052704, 2341145)], 'nsol': 60, 'time': 62.5}  elapsed 6211s
+[689/922] {'root': [1, 32, 56, 71], 'children': 13, 'ok': 13, 'fail': 0, 'n7': 2566863, 'root_counts': [(4, 1048576, 84872), (5, 2715904, 181091), (6, 5794912, 533007), (7, 17056224, 2566863)], 'nsol': 60, 'time': 68.5}  elapsed 6230s
+[690/922] {'root': [5, 30, 56, 74], 'children': 45, 'ok': 45, 'fail': 0, 'n7': 2283803, 'root_counts': [(4, 1048576, 85029), (5, 2720928, 161038), (6, 5153216, 460761), (7, 14744352, 2283803)], 'nsol': 60, 'time': 322.7}  elapsed 6245s
+[691/922] {'root': [1, 32, 57, 70], 'children': 13, 'ok': 13, 'fail': 0, 'n7': 2884804, 'root_counts': [(4, 1048576, 86435), (5, 2765920, 192541), (6, 6161312, 598687), (7, 19157984, 2884804)], 'nsol': 60, 'time': 74.0}  elapsed 6285s
+[692/922] {'root': [1, 32, 58, 69], 'children': 7, 'ok': 7, 'fail': 0, 'n7': 3336626, 'root_counts': [(4, 1048576, 87371), (5, 2795872, 202403), (6, 6476896, 671781), (7, 21496992, 3336626)], 'nsol': 60, 'time': 49.6}  elapsed 6295s
+[693/922] {'root': [5, 30, 57, 73], 'children': 57, 'ok': 57, 'fail': 0, 'n7': 2437254, 'root_counts': [(4, 1048576, 85051), (5, 2721632, 166980), (6, 5343360, 484244), (7, 15495808, 2437254)], 'nsol': 60, 'time': 389.7}  elapsed 6310s
+[694/922] {'root': [3, 31, 56, 73], 'children': 43, 'ok': 43, 'fail': 0, 'n7': 2448434, 'root_counts': [(4, 1048576, 84757), (5, 2712224, 169662), (6, 5429184, 486143), (7, 15556576, 2448434)], 'nsol': 60, 'time': 238.4}  elapsed 6322s
+[695/922] {'root': [1, 32, 58, 71], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2872163, 'root_counts': [(4, 1048576, 85522), (5, 2736704, 188865), (6, 6043680, 586746), (7, 18775872, 2872163)], 'nsol': 60, 'time': 19.8}  elapsed 6329s
+[696/922] {'root': [1, 32, 59, 69], 'children': 7, 'ok': 7, 'fail': 0, 'n7': 3689176, 'root_counts': [(4, 1048576, 87208), (5, 2790656, 206844), (6, 6619008, 715123), (7, 22883936, 3689176)], 'nsol': 60, 'time': 57.3}  elapsed 6343s
+[697/922] {'root': [1, 32, 56, 73], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 2371273, 'root_counts': [(4, 1048576, 84848), (5, 2715136, 170917), (6, 5469344, 483480), (7, 15471360, 2371273)], 'nsol': 60, 'time': 22.0}  elapsed 6351s
+[698/922] {'root': [1, 32, 57, 72], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2582876, 'root_counts': [(4, 1048576, 85141), (5, 2724512, 179024), (6, 5728768, 531021), (7, 16992672, 2582876)], 'nsol': 60, 'time': 19.6}  elapsed 6362s
+[699/922] {'root': [3, 31, 57, 72], 'children': 52, 'ok': 52, 'fail': 0, 'n7': 2653768, 'root_counts': [(4, 1048576, 85151), (5, 2724832, 176977), (6, 5663264, 524371), (7, 16779872, 2653768)], 'nsol': 60, 'time': 301.6}  elapsed 6395s
+[700/922] {'root': [8, 29, 54, 78], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2088162, 'root_counts': [(4, 1048576, 83628), (5, 2676096, 151914), (6, 4861248, 429729), (7, 13751328, 2088162)], 'nsol': 60, 'time': 15.4}  elapsed 6411s
+[701/922] {'root': [8, 29, 54, 79], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 6411s
+[702/922] {'root': [8, 29, 55, 78], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 6411s
+[703/922] {'root': [8, 29, 55, 76], 'children': 15, 'ok': 15, 'fail': 0, 'n7': 2080747, 'root_counts': [(4, 1048576, 83947), (5, 2686304, 152819), (6, 4890208, 429029), (7, 13728928, 2080747)], 'nsol': 60, 'time': 66.9}  elapsed 6418s
+[704/922] {'root': [8, 29, 57, 75], 'children': 4, 'ok': 4, 'fail': 0, 'n7': 2244793, 'root_counts': [(4, 1048576, 84456), (5, 2702592, 155668), (6, 4981376, 442629), (7, 14164128, 2244793)], 'nsol': 60, 'time': 27.0}  elapsed 6445s
+[705/922] {'root': [1, 32, 58, 70], 'children': 30, 'ok': 30, 'fail': 0, 'n7': 3173604, 'root_counts': [(4, 1048576, 86719), (5, 2775008, 196962), (6, 6302784, 638383), (7, 20428256, 3173604)], 'nsol': 60, 'time': 164.4}  elapsed 6459s
+[706/922] {'root': [1, 32, 57, 71], 'children': 49, 'ok': 49, 'fail': 0, 'n7': 2799827, 'root_counts': [(4, 1048576, 85839), (5, 2746848, 186310), (6, 5961920, 567283), (7, 18153056, 2799827)], 'nsol': 60, 'time': 232.5}  elapsed 6463s
+[707/922] {'root': [8, 29, 56, 75], 'children': 14, 'ok': 14, 'fail': 0, 'n7': 2150296, 'root_counts': [(4, 1048576, 84442), (5, 2702144, 154660), (6, 4949120, 435242), (7, 13927744, 2150296)], 'nsol': 60, 'time': 62.5}  elapsed 6473s
+[708/922] {'root': [8, 29, 56, 77], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2039105, 'root_counts': [(4, 1048576, 83979), (5, 2687328, 152523), (6, 4880736, 428821), (7, 13722272, 2039105)], 'nsol': 60, 'time': 15.8}  elapsed 6475s
+[709/922] {'root': [33, 94, 0, 54], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2251621, 'root_counts': [(4, 1048576, 83473), (5, 2671136, 164631), (6, 5268192, 459474), (7, 14703168, 2251621)], 'nsol': 60, 'time': 17.2}  elapsed 6480s
+[710/922] {'root': [8, 29, 55, 77], 'children': 33, 'ok': 33, 'fail': 0, 'n7': 2092526, 'root_counts': [(4, 1048576, 83909), (5, 2685088, 152687), (6, 4885984, 432335), (7, 13834720, 2092526)], 'nsol': 60, 'time': 128.2}  elapsed 6490s
+[711/922] {'root': [33, 94, 54, 73], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2233190, 'root_counts': [(4, 1048576, 83422), (5, 2669504, 162636), (6, 5204352, 451930), (7, 14461760, 2233190)], 'nsol': 60, 'time': 17.0}  elapsed 6497s
+[712/922] {'root': [33, 94, 55, 73], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2235994, 'root_counts': [(4, 1048576, 83858), (5, 2683456, 166337), (6, 5322784, 463580), (7, 14834560, 2235994)], 'nsol': 60, 'time': 16.0}  elapsed 6513s
+[713/922] {'root': [1, 32, 56, 72], 'children': 44, 'ok': 44, 'fail': 0, 'n7': 2535713, 'root_counts': [(4, 1048576, 84920), (5, 2717440, 176375), (6, 5644000, 514619), (7, 16467808, 2535713)], 'nsol': 60, 'time': 207.4}  elapsed 6530s
+[714/922] {'root': [33, 94, 0, 55], 'children': 13, 'ok': 13, 'fail': 0, 'n7': 2416930, 'root_counts': [(4, 1048576, 84506), (5, 2704192, 174257), (6, 5576224, 497020), (7, 15904640, 2416930)], 'nsol': 60, 'time': 65.9}  elapsed 6539s
+[715/922] {'root': [33, 94, 0, 56], 'children': 14, 'ok': 14, 'fail': 0, 'n7': 2648017, 'root_counts': [(4, 1048576, 85675), (5, 2741600, 184394), (6, 5900608, 550216), (7, 17606912, 2648017)], 'nsol': 60, 'time': 76.3}  elapsed 6552s
+[716/922] {'root': [33, 94, 57, 71], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2659495, 'root_counts': [(4, 1048576, 85782), (5, 2745024, 186327), (6, 5962464, 559316), (7, 17898112, 2659495)], 'nsol': 60, 'time': 18.6}  elapsed 6558s
+[717/922] {'root': [33, 94, 55, 72], 'children': 14, 'ok': 14, 'fail': 0, 'n7': 2387601, 'root_counts': [(4, 1048576, 84153), (5, 2692896, 171929), (6, 5501728, 486559), (7, 15569888, 2387601)], 'nsol': 60, 'time': 68.5}  elapsed 6559s
+[718/922] {'root': [33, 94, 57, 70], 'children': 6, 'ok': 6, 'fail': 0, 'n7': 2906991, 'root_counts': [(4, 1048576, 86322), (5, 2762304, 192328), (6, 6154496, 599053), (7, 19169696, 2906991)], 'nsol': 60, 'time': 46.2}  elapsed 6576s
+[719/922] {'root': [6, 30, 54, 76], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 2080888, 'root_counts': [(4, 1048576, 83498), (5, 2671936, 150636), (6, 4820352, 426136), (7, 13636352, 2080888)], 'nsol': 60, 'time': 18.4}  elapsed 6576s
+[720/922] {'root': [33, 94, 56, 71], 'children': 13, 'ok': 13, 'fail': 0, 'n7': 2600354, 'root_counts': [(4, 1048576, 85340), (5, 2730880, 182149), (6, 5828768, 536513), (7, 17168416, 2600354)], 'nsol': 60, 'time': 70.2}  elapsed 6583s
+[721/922] {'root': [6, 30, 54, 77], 'children': 5, 'ok': 5, 'fail': 0, 'n7': 2094302, 'root_counts': [(4, 1048576, 83279), (5, 2664928, 150080), (6, 4802560, 425609), (7, 13619488, 2094302)], 'nsol': 60, 'time': 29.8}  elapsed 6589s
+[722/922] {'root': [6, 30, 55, 77], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 2004032, 'root_counts': [(4, 1048576, 83416), (5, 2669312, 151146), (6, 4836672, 423271), (7, 13544672, 2004032)], 'nsol': 60, 'time': 20.8}  elapsed 6597s
+[723/922] {'root': [8, 29, 56, 76], 'children': 38, 'ok': 38, 'fail': 0, 'n7': 2143492, 'root_counts': [(4, 1048576, 84247), (5, 2695904, 153986), (6, 4927552, 435468), (7, 13934976, 2143492)], 'nsol': 60, 'time': 156.8}  elapsed 6602s
+[724/922] {'root': [6, 30, 56, 76], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 6602s
+[725/922] {'root': [9, 29, 53, 79], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 6602s
+[726/922] {'root': [9, 29, 55, 77], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 6602s
+[727/922] {'root': [9, 29, 54, 78], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 6602s
+[728/922] {'root': [9, 29, 55, 78], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 6602s
+[729/922] {'root': [9, 29, 56, 76], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 6602s
+[730/922] {'root': [9, 29, 56, 77], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 6602s
+[731/922] {'root': [9, 29, 53, 80], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 6602s
+[732/922] {'root': [9, 29, 54, 80], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 6602s
+[733/922] {'root': [4, 31, 54, 75], 'children': 3, 'ok': 3, 'fail': 0, 'n7': 2159896, 'root_counts': [(4, 1048576, 84197), (5, 2694304, 152241), (6, 4871712, 432145), (7, 13828640, 2159896)], 'nsol': 60, 'time': 31.2}  elapsed 6633s
+[734/922] {'root': [6, 30, 57, 73], 'children': 6, 'ok': 6, 'fail': 0, 'n7': 2334339, 'root_counts': [(4, 1048576, 84968), (5, 2718976, 163329), (6, 5226528, 469902), (7, 15036864, 2334339)], 'nsol': 60, 'time': 52.5}  elapsed 6636s
+[735/922] {'root': [6, 30, 55, 75], 'children': 22, 'ok': 22, 'fail': 0, 'n7': 2125260, 'root_counts': [(4, 1048576, 84028), (5, 2688896, 154084), (6, 4930688, 435652), (7, 13940864, 2125260)], 'nsol': 60, 'time': 112.9}  elapsed 6664s
+[736/922] {'root': [4, 31, 54, 76], 'children': 3, 'ok': 3, 'fail': 0, 'n7': 2160300, 'root_counts': [(4, 1048576, 84159), (5, 2693088, 150824), (6, 4826368, 428626), (7, 13716032, 2160300)], 'nsol': 60, 'time': 31.3}  elapsed 6667s
+[737/922] {'root': [6, 30, 57, 74], 'children': 11, 'ok': 11, 'fail': 0, 'n7': 2278099, 'root_counts': [(4, 1048576, 84496), (5, 2703872, 159627), (6, 5108064, 457852), (7, 14651264, 2278099)], 'nsol': 60, 'time': 82.4}  elapsed 6679s
+[738/922] {'root': [6, 30, 55, 76], 'children': 44, 'ok': 44, 'fail': 0, 'n7': 2113259, 'root_counts': [(4, 1048576, 83762), (5, 2680384, 152885), (6, 4892320, 432349), (7, 13835168, 2113259)], 'nsol': 60, 'time': 170.5}  elapsed 6746s
+[739/922] {'root': [4, 31, 57, 72], 'children': 14, 'ok': 14, 'fail': 0, 'n7': 2536382, 'root_counts': [(4, 1048576, 84593), (5, 2706976, 172904), (6, 5532928, 506778), (7, 16216896, 2536382)], 'nsol': 60, 'time': 87.0}  elapsed 6754s
+[740/922] {'root': [4, 31, 57, 73], 'children': 12, 'ok': 12, 'fail': 0, 'n7': 2453623, 'root_counts': [(4, 1048576, 85077), (5, 2722464, 168581), (6, 5394592, 489516), (7, 15664512, 2453623)], 'nsol': 60, 'time': 77.2}  elapsed 6756s
+[741/922] {'root': [6, 30, 56, 75], 'children': 39, 'ok': 39, 'fail': 0, 'n7': 2174265, 'root_counts': [(4, 1048576, 84242), (5, 2695744, 156009), (6, 4992288, 443474), (7, 14191168, 2174265)], 'nsol': 60, 'time': 190.7}  elapsed 6779s
+[742/922] {'root': [2, 32, 54, 75], 'children': 4, 'ok': 4, 'fail': 0, 'n7': 2172810, 'root_counts': [(4, 1048576, 83615), (5, 2675680, 154865), (6, 4955680, 431652), (7, 13812864, 2172810)], 'nsol': 60, 'time': 30.5}  elapsed 6810s
+[743/922] {'root': [2, 32, 54, 74], 'children': 11, 'ok': 11, 'fail': 0, 'n7': 2199543, 'root_counts': [(4, 1048576, 83767), (5, 2680544, 157729), (6, 5047328, 438458), (7, 14030656, 2199543)], 'nsol': 60, 'time': 61.8}  elapsed 6818s
+[744/922] {'root': [4, 31, 55, 75], 'children': 32, 'ok': 32, 'fail': 0, 'n7': 2224581, 'root_counts': [(4, 1048576, 84827), (5, 2714464, 155701), (6, 4982432, 443757), (7, 14200224, 2224581)], 'nsol': 60, 'time': 216.6}  elapsed 6850s
+[745/922] {'root': [2, 32, 58, 71], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 6850s
+[746/922] {'root': [4, 31, 56, 73], 'children': 31, 'ok': 31, 'fail': 0, 'n7': 2369978, 'root_counts': [(4, 1048576, 84649), (5, 2708768, 166375), (6, 5324000, 474363), (7, 15179616, 2369978)], 'nsol': 60, 'time': 188.4}  elapsed 6853s
+[747/922] {'root': [2, 32, 57, 71], 'children': 13, 'ok': 13, 'fail': 0, 'n7': 2698199, 'root_counts': [(4, 1048576, 85226), (5, 2727232, 183383), (6, 5868256, 549654), (7, 17588928, 2698199)], 'nsol': 60, 'time': 72.4}  elapsed 6891s
+[748/922] {'root': [0, 33, 0, 54], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2214293, 'root_counts': [(4, 1048576, 83579), (5, 2674528, 163957), (6, 5246624, 454468), (7, 14542976, 2214293)], 'nsol': 60, 'time': 15.7}  elapsed 6906s
+[749/922] {'root': [2, 32, 57, 72], 'children': 9, 'ok': 9, 'fail': 0, 'n7': 2602216, 'root_counts': [(4, 1048576, 84921), (5, 2717472, 176484), (6, 5647488, 522705), (7, 16726560, 2602216)], 'nsol': 60, 'time': 54.3}  elapsed 6907s
+[750/922] {'root': [2, 32, 55, 73], 'children': 36, 'ok': 36, 'fail': 0, 'n7': 2318907, 'root_counts': [(4, 1048576, 83980), (5, 2687360, 165263), (6, 5288416, 463244), (7, 14823808, 2318907)], 'nsol': 60, 'time': 170.4}  elapsed 6924s
+[751/922] {'root': [2, 32, 55, 74], 'children': 26, 'ok': 26, 'fail': 0, 'n7': 2278729, 'root_counts': [(4, 1048576, 84236), (5, 2695552, 161587), (6, 5170784, 452203), (7, 14470496, 2278729)], 'nsol': 60, 'time': 132.9}  elapsed 6943s
+[752/922] {'root': [0, 33, 0, 55], 'children': 6, 'ok': 6, 'fail': 0, 'n7': 2358342, 'root_counts': [(4, 1048576, 84776), (5, 2712832, 173530), (6, 5552960, 491358), (7, 15723456, 2358342)], 'nsol': 60, 'time': 39.7}  elapsed 6946s
+[753/922] {'root': [0, 33, 0, 56], 'children': 6, 'ok': 6, 'fail': 0, 'n7': 2570071, 'root_counts': [(4, 1048576, 85625), (5, 2740000, 183401), (6, 5868832, 540956), (7, 17310592, 2570071)], 'nsol': 60, 'time': 42.1}  elapsed 6949s
+[754/922] {'root': [0, 33, 0, 57], 'children': 3, 'ok': 3, 'fail': 0, 'n7': 2885054, 'root_counts': [(4, 1048576, 86418), (5, 2765376, 193531), (6, 6192992, 607465), (7, 19438880, 2885054)], 'nsol': 60, 'time': 30.5}  elapsed 6955s
+[755/922] {'root': [2, 32, 56, 73], 'children': 27, 'ok': 27, 'fail': 0, 'n7': 2417705, 'root_counts': [(4, 1048576, 84464), (5, 2702848, 168906), (6, 5404992, 481279), (7, 15400928, 2417705)], 'nsol': 60, 'time': 135.7}  elapsed 6986s
+[756/922] {'root': [0, 33, 54, 74], 'children': 7, 'ok': 7, 'fail': 0, 'n7': 2155921, 'root_counts': [(4, 1048576, 83146), (5, 2660672, 158056), (6, 5057792, 436196), (7, 13958272, 2155921)], 'nsol': 60, 'time': 40.0}  elapsed 6989s
+[757/922] {'root': [4, 31, 56, 74], 'children': 37, 'ok': 37, 'fail': 0, 'n7': 2318431, 'root_counts': [(4, 1048576, 85053), (5, 2721696, 162208), (6, 5190656, 460910), (7, 14749120, 2318431)], 'nsol': 60, 'time': 246.8}  elapsed 6993s
+[758/922] {'root': [7, 30, 55, 75], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 1997562, 'root_counts': [(4, 1048576, 83807), (5, 2681824, 151787), (6, 4857184, 422838), (7, 13530816, 1997562)], 'nsol': 60, 'time': 15.8}  elapsed 7009s
+[759/922] {'root': [0, 33, 57, 71], 'children': 3, 'ok': 3, 'fail': 0, 'n7': 2663488, 'root_counts': [(4, 1048576, 85914), (5, 2749248, 185689), (6, 5942048, 556415), (7, 17805280, 2663488)], 'nsol': 60, 'time': 29.7}  elapsed 7019s
+[760/922] {'root': [7, 30, 53, 79], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 7019s
+[761/922] {'root': [7, 30, 53, 78], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 2128909, 'root_counts': [(4, 1048576, 82619), (5, 2643808, 146888), (6, 4700416, 422300), (7, 13513600, 2128909)], 'nsol': 60, 'time': 18.6}  elapsed 7028s
+[762/922] {'root': [0, 33, 57, 70], 'children': 7, 'ok': 7, 'fail': 0, 'n7': 2842598, 'root_counts': [(4, 1048576, 86222), (5, 2759104, 191006), (6, 6112192, 591774), (7, 18936768, 2842598)], 'nsol': 60, 'time': 49.6}  elapsed 7035s
+[763/922] {'root': [0, 33, 55, 73], 'children': 21, 'ok': 21, 'fail': 0, 'n7': 2271778, 'root_counts': [(4, 1048576, 84116), (5, 2691712, 165652), (6, 5300864, 463311), (7, 14825952, 2271778)], 'nsol': 60, 'time': 100.8}  elapsed 7047s
+[764/922] {'root': [7, 30, 56, 75], 'children': 6, 'ok': 6, 'fail': 0, 'n7': 2124986, 'root_counts': [(4, 1048576, 84708), (5, 2710656, 154312), (6, 4937984, 435679), (7, 13941728, 2124986)], 'nsol': 60, 'time': 32.6}  elapsed 7079s
+[765/922] {'root': [7, 30, 56, 76], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 2078318, 'root_counts': [(4, 1048576, 84653), (5, 2708896, 153020), (6, 4896640, 431892), (7, 13820544, 2078318)], 'nsol': 60, 'time': 18.3}  elapsed 7098s
+[766/922] {'root': [34, 94, 0, 53], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 7098s
+[767/922] {'root': [34, 94, 1, 53], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 7098s
+[768/922] {'root': [0, 33, 56, 71], 'children': 32, 'ok': 32, 'fail': 0, 'n7': 2555892, 'root_counts': [(4, 1048576, 85534), (5, 2737088, 181162), (6, 5797184, 530438), (7, 16974016, 2555892)], 'nsol': 60, 'time': 152.3}  elapsed 7107s
+[769/922] {'root': [34, 94, 0, 55], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2391738, 'root_counts': [(4, 1048576, 84931), (5, 2717792, 172459), (6, 5518688, 489113), (7, 15651616, 2391738)], 'nsol': 60, 'time': 16.7}  elapsed 7124s
+[770/922] {'root': [34, 94, 0, 54], 'children': 4, 'ok': 4, 'fail': 0, 'n7': 2263446, 'root_counts': [(4, 1048576, 83894), (5, 2684608, 163323), (6, 5226336, 453858), (7, 14523456, 2263446)], 'nsol': 60, 'time': 27.8}  elapsed 7126s
+[771/922] {'root': [7, 30, 55, 77], 'children': 24, 'ok': 24, 'fail': 0, 'n7': 2072820, 'root_counts': [(4, 1048576, 83774), (5, 2680768, 151294), (6, 4841408, 427542), (7, 13681344, 2072820)], 'nsol': 60, 'time': 94.2}  elapsed 7130s
+[772/922] {'root': [34, 94, 55, 73], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 7130s
+[773/922] {'root': [34, 94, 55, 72], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2316191, 'root_counts': [(4, 1048576, 84639), (5, 2708448, 170028), (6, 5440896, 475288), (7, 15209216, 2316191)], 'nsol': 60, 'time': 17.6}  elapsed 7143s
+[774/922] {'root': [34, 94, 54, 73], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 2202807, 'root_counts': [(4, 1048576, 83533), (5, 2673056, 161194), (6, 5158208, 444477), (7, 14223264, 2202807)], 'nsol': 60, 'time': 21.0}  elapsed 7145s
+[775/922] {'root': [0, 33, 55, 72], 'children': 46, 'ok': 46, 'fail': 0, 'n7': 2362447, 'root_counts': [(4, 1048576, 84396), (5, 2700672, 171336), (6, 5482752, 483146), (7, 15460672, 2362447)], 'nsol': 60, 'time': 204.7}  elapsed 7148s
+[776/922] {'root': [5, 31, 53, 78], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 7148s
+[777/922] {'root': [7, 30, 54, 77], 'children': 34, 'ok': 34, 'fail': 0, 'n7': 2104242, 'root_counts': [(4, 1048576, 83121), (5, 2659872, 149128), (6, 4772096, 425374), (7, 13611968, 2104242)], 'nsol': 60, 'time': 132.3}  elapsed 7151s
+[778/922] {'root': [5, 31, 54, 75], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 2074475, 'root_counts': [(4, 1048576, 83620), (5, 2675840, 150289), (6, 4809248, 423915), (7, 13565280, 2074475)], 'nsol': 60, 'time': 26.2}  elapsed 7156s
+[779/922] {'root': [7, 30, 55, 76], 'children': 34, 'ok': 34, 'fail': 0, 'n7': 2090167, 'root_counts': [(4, 1048576, 84171), (5, 2693472, 152040), (6, 4865280, 429369), (7, 13739808, 2090167)], 'nsol': 60, 'time': 131.0}  elapsed 7159s
+[780/922] {'root': [5, 31, 55, 74], 'children': 3, 'ok': 3, 'fail': 0, 'n7': 2118002, 'root_counts': [(4, 1048576, 84203), (5, 2694496, 156309), (6, 5001888, 435772), (7, 13944704, 2118002)], 'nsol': 60, 'time': 33.1}  elapsed 7176s
+[781/922] {'root': [5, 31, 56, 75], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 2177436, 'root_counts': [(4, 1048576, 84654), (5, 2708928, 155866), (6, 4987712, 442871), (7, 14171872, 2177436)], 'nsol': 60, 'time': 25.0}  elapsed 7201s
+[782/922] {'root': [8, 30, 53, 79], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 7201s
+[783/922] {'root': [8, 30, 54, 77], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 2011512, 'root_counts': [(4, 1048576, 83644), (5, 2676608, 149393), (6, 4780576, 419299), (7, 13417568, 2011512)], 'nsol': 60, 'time': 17.5}  elapsed 7219s
+[784/922] {'root': [5, 31, 54, 77], 'children': 17, 'ok': 17, 'fail': 0, 'n7': 2155249, 'root_counts': [(4, 1048576, 83435), (5, 2669920, 149170), (6, 4773440, 426110), (7, 13635520, 2155249)], 'nsol': 60, 'time': 79.0}  elapsed 7230s
+[785/922] {'root': [8, 30, 55, 77], 'children': 4, 'ok': 4, 'fail': 0, 'n7': 2056147, 'root_counts': [(4, 1048576, 84257), (5, 2696224, 151193), (6, 4838176, 426539), (7, 13649248, 2056147)], 'nsol': 60, 'time': 25.1}  elapsed 7244s
+[786/922] {'root': [8, 30, 54, 79], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 7244s
+[787/922] {'root': [8, 30, 52, 80], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 7244s
+[788/922] {'root': [5, 31, 56, 74], 'children': 12, 'ok': 12, 'fail': 0, 'n7': 2259662, 'root_counts': [(4, 1048576, 84942), (5, 2718144, 159422), (6, 5101504, 452638), (7, 14484416, 2259662)], 'nsol': 60, 'time': 92.4}  elapsed 7251s
+[789/922] {'root': [8, 30, 54, 78], 'children': 3, 'ok': 3, 'fail': 0, 'n7': 2119009, 'root_counts': [(4, 1048576, 83511), (5, 2672352, 150035), (6, 4801120, 428491), (7, 13711712, 2119009)], 'nsol': 60, 'time': 23.0}  elapsed 7253s
+[790/922] {'root': [5, 31, 55, 76], 'children': 19, 'ok': 19, 'fail': 0, 'n7': 2150764, 'root_counts': [(4, 1048576, 84204), (5, 2694528, 152378), (6, 4876096, 432389), (7, 13836448, 2150764)], 'nsol': 60, 'time': 111.0}  elapsed 7267s
+[791/922] {'root': [3, 32, 54, 74], 'children': 3, 'ok': 3, 'fail': 0, 'n7': 2131092, 'root_counts': [(4, 1048576, 83686), (5, 2677952, 155152), (6, 4964864, 430193), (7, 13766176, 2131092)], 'nsol': 60, 'time': 26.5}  elapsed 7277s
+[792/922] {'root': [3, 32, 55, 73], 'children': 7, 'ok': 7, 'fail': 0, 'n7': 2212530, 'root_counts': [(4, 1048576, 83409), (5, 2669088, 161848), (6, 5179136, 449416), (7, 14381312, 2212530)], 'nsol': 60, 'time': 44.2}  elapsed 7288s
+[793/922] {'root': [3, 32, 55, 75], 'children': 9, 'ok': 9, 'fail': 0, 'n7': 2199563, 'root_counts': [(4, 1048576, 84851), (5, 2715232, 156150), (6, 4996800, 437786), (7, 14009152, 2199563)], 'nsol': 60, 'time': 58.7}  elapsed 7336s
+[794/922] {'root': [3, 32, 56, 72], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 7336s
+[795/922] {'root': [3, 32, 53, 76], 'children': 6, 'ok': 6, 'fail': 0, 'n7': 2166702, 'root_counts': [(4, 1048576, 83222), (5, 2663104, 146698), (6, 4694336, 420417), (7, 13453344, 2166702)], 'nsol': 60, 'time': 48.2}  elapsed 7336s
+[796/922] {'root': [3, 32, 56, 74], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2276146, 'root_counts': [(4, 1048576, 85230), (5, 2727360, 162107), (6, 5187424, 457817), (7, 14650144, 2276146)], 'nsol': 60, 'time': 19.1}  elapsed 7355s
+[797/922] {'root': [5, 31, 54, 76], 'children': 40, 'ok': 40, 'fail': 0, 'n7': 2176113, 'root_counts': [(4, 1048576, 83662), (5, 2677184, 149861), (6, 4795552, 428471), (7, 13711072, 2176113)], 'nsol': 60, 'time': 214.7}  elapsed 7362s
+[798/922] {'root': [1, 33, 53, 74], 'children': 5, 'ok': 5, 'fail': 0, 'n7': 2103804, 'root_counts': [(4, 1048576, 82974), (5, 2655168, 153383), (6, 4908256, 418413), (7, 13389216, 2103804)], 'nsol': 60, 'time': 30.9}  elapsed 7386s
+[799/922] {'root': [3, 32, 56, 73], 'children': 14, 'ok': 14, 'fail': 0, 'n7': 2382464, 'root_counts': [(4, 1048576, 84477), (5, 2703264, 166388), (6, 5324416, 471816), (7, 15098112, 2382464)], 'nsol': 60, 'time': 79.7}  elapsed 7416s
+[800/922] {'root': [1, 33, 53, 75], 'children': 16, 'ok': 16, 'fail': 0, 'n7': 2147232, 'root_counts': [(4, 1048576, 82803), (5, 2649696, 150366), (6, 4811712, 419733), (7, 13431456, 2147232)], 'nsol': 60, 'time': 77.2}  elapsed 7439s
+[801/922] {'root': [1, 33, 54, 73], 'children': 11, 'ok': 11, 'fail': 0, 'n7': 2163497, 'root_counts': [(4, 1048576, 83545), (5, 2673440, 160044), (6, 5121408, 439851), (7, 14075232, 2163497)], 'nsol': 60, 'time': 53.7}  elapsed 7440s
+[802/922] {'root': [5, 31, 55, 75], 'children': 46, 'ok': 46, 'fail': 0, 'n7': 2198175, 'root_counts': [(4, 1048576, 84341), (5, 2698912, 154193), (6, 4934176, 439444), (7, 14062208, 2198175)], 'nsol': 60, 'time': 305.9}  elapsed 7451s
+[803/922] {'root': [1, 33, 54, 75], 'children': 4, 'ok': 4, 'fail': 0, 'n7': 2102020, 'root_counts': [(4, 1048576, 83178), (5, 2661696, 153700), (6, 4918400, 424623), (7, 13587936, 2102020)], 'nsol': 60, 'time': 29.9}  elapsed 7470s
+[804/922] {'root': [1, 33, 55, 74], 'children': 3, 'ok': 3, 'fail': 0, 'n7': 2171280, 'root_counts': [(4, 1048576, 83861), (5, 2683552, 160008), (6, 5120256, 441588), (7, 14130816, 2171280)], 'nsol': 60, 'time': 24.4}  elapsed 7475s
+[805/922] {'root': [6, 31, 55, 75], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 2073944, 'root_counts': [(4, 1048576, 83815), (5, 2682080, 151787), (6, 4857184, 427587), (7, 13682784, 2073944)], 'nsol': 60, 'time': 19.8}  elapsed 7495s
+[806/922] {'root': [1, 33, 56, 72], 'children': 6, 'ok': 6, 'fail': 0, 'n7': 2417731, 'root_counts': [(4, 1048576, 84895), (5, 2716640, 173453), (6, 5550496, 493088), (7, 15778816, 2417731)], 'nsol': 60, 'time': 37.6}  elapsed 7508s
+[807/922] {'root': [6, 31, 52, 79], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 2175556, 'root_counts': [(4, 1048576, 81501), (5, 2608032, 142104), (6, 4547328, 415889), (7, 13308448, 2175556)], 'nsol': 60, 'time': 19.1}  elapsed 7514s
+[808/922] {'root': [3, 32, 54, 75], 'children': 47, 'ok': 47, 'fail': 0, 'n7': 2209962, 'root_counts': [(4, 1048576, 83861), (5, 2683552, 152804), (6, 4889728, 430392), (7, 13772544, 2209962)], 'nsol': 60, 'time': 271.9}  elapsed 7525s
+[809/922] {'root': [3, 32, 55, 74], 'children': 49, 'ok': 49, 'fail': 0, 'n7': 2278699, 'root_counts': [(4, 1048576, 84404), (5, 2700928, 159903), (6, 5116896, 448440), (7, 14350080, 2278699)], 'nsol': 60, 'time': 258.9}  elapsed 7526s
+[810/922] {'root': [6, 31, 53, 79], 'children': 7, 'ok': 7, 'fail': 0, 'n7': 2166816, 'root_counts': [(4, 1048576, 82308), (5, 2633856, 145005), (6, 4640160, 420861), (7, 13467552, 2166816)], 'nsol': 60, 'time': 37.3}  elapsed 7551s
+[811/922] {'root': [6, 31, 54, 76], 'children': 11, 'ok': 11, 'fail': 0, 'n7': 2088524, 'root_counts': [(4, 1048576, 83318), (5, 2666176, 148221), (6, 4743072, 420894), (7, 13468608, 2088524)], 'nsol': 60, 'time': 51.8}  elapsed 7577s
+[812/922] {'root': [1, 33, 55, 73], 'children': 40, 'ok': 40, 'fail': 0, 'n7': 2289047, 'root_counts': [(4, 1048576, 84184), (5, 2693888, 164331), (6, 5258592, 459731), (7, 14711392, 2289047)], 'nsol': 60, 'time': 177.1}  elapsed 7593s
+[813/922] {'root': [34, 93, 0, 52], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 2122420, 'root_counts': [(4, 1048576, 81580), (5, 2610560, 147414), (6, 4717248, 410758), (7, 13144256, 2122420)], 'nsol': 60, 'time': 18.5}  elapsed 7596s
+[814/922] {'root': [6, 31, 55, 76], 'children': 12, 'ok': 12, 'fail': 0, 'n7': 2129537, 'root_counts': [(4, 1048576, 83964), (5, 2686848, 150692), (6, 4822144, 428658), (7, 13717056, 2129537)], 'nsol': 60, 'time': 59.7}  elapsed 7611s
+[815/922] {'root': [34, 93, 52, 75], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2131927, 'root_counts': [(4, 1048576, 81854), (5, 2619328, 146448), (6, 4686336, 407315), (7, 13034080, 2131927)], 'nsol': 60, 'time': 15.0}  elapsed 7626s
+[816/922] {'root': [34, 93, 0, 54], 'children': 11, 'ok': 11, 'fail': 0, 'n7': 2194703, 'root_counts': [(4, 1048576, 83882), (5, 2684224, 162320), (6, 5194240, 445186), (7, 14245952, 2194703)], 'nsol': 60, 'time': 54.8}  elapsed 7650s
+[817/922] {'root': [1, 33, 54, 74], 'children': 51, 'ok': 51, 'fail': 0, 'n7': 2201546, 'root_counts': [(4, 1048576, 83470), (5, 2671040, 156785), (6, 5017120, 433404), (7, 13868928, 2201546)], 'nsol': 60, 'time': 222.7}  elapsed 7662s
+[818/922] {'root': [34, 93, 55, 73], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 7662s
+[819/922] {'root': [34, 93, 53, 75], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2073858, 'root_counts': [(4, 1048576, 82076), (5, 2626432, 148966), (6, 4766912, 409731), (7, 13111392, 2073858)], 'nsol': 60, 'time': 15.5}  elapsed 7666s
+[820/922] {'root': [34, 93, 0, 53], 'children': 16, 'ok': 16, 'fail': 0, 'n7': 2145475, 'root_counts': [(4, 1048576, 82540), (5, 2641280, 153763), (6, 4920416, 424811), (7, 13593952, 2145475)], 'nsol': 60, 'time': 73.8}  elapsed 7667s
+[821/922] {'root': [6, 31, 53, 78], 'children': 40, 'ok': 40, 'fail': 0, 'n7': 2205151, 'root_counts': [(4, 1048576, 82382), (5, 2636224, 145665), (6, 4661280, 422308), (7, 13513856, 2205151)], 'nsol': 60, 'time': 162.4}  elapsed 7670s
+[822/922] {'root': [34, 93, 54, 74], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2097497, 'root_counts': [(4, 1048576, 83034), (5, 2657088, 155553), (6, 4977696, 425896), (7, 13628672, 2097497)], 'nsol': 60, 'time': 17.5}  elapsed 7680s
+[823/922] {'root': [34, 93, 53, 74], 'children': 13, 'ok': 13, 'fail': 0, 'n7': 2154786, 'root_counts': [(4, 1048576, 82230), (5, 2631360, 151831), (6, 4858592, 421631), (7, 13492192, 2154786)], 'nsol': 60, 'time': 63.5}  elapsed 7690s
+[824/922] {'root': [4, 32, 55, 74], 'children': 3, 'ok': 3, 'fail': 0, 'n7': 2186877, 'root_counts': [(4, 1048576, 84159), (5, 2693088, 156788), (6, 5017216, 438088), (7, 14018816, 2186877)], 'nsol': 60, 'time': 31.3}  elapsed 7698s
+[825/922] {'root': [4, 32, 52, 78], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 2175836, 'root_counts': [(4, 1048576, 81307), (5, 2601824, 141004), (6, 4512128, 412213), (7, 13190816, 2175836)], 'nsol': 60, 'time': 19.4}  elapsed 7709s
+[826/922] {'root': [4, 32, 53, 78], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2148087, 'root_counts': [(4, 1048576, 82402), (5, 2636864, 143754), (6, 4600128, 415766), (7, 13304512, 2148087)], 'nsol': 60, 'time': 15.0}  elapsed 7713s
+[827/922] {'root': [6, 31, 54, 77], 'children': 52, 'ok': 52, 'fail': 0, 'n7': 2168536, 'root_counts': [(4, 1048576, 83249), (5, 2663968, 148622), (6, 4755904, 425866), (7, 13627712, 2168536)], 'nsol': 60, 'time': 200.8}  elapsed 7726s
+[828/922] {'root': [7, 31, 52, 79], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 7726s
+[829/922] {'root': [4, 32, 54, 77], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2134401, 'root_counts': [(4, 1048576, 83602), (5, 2675264, 147031), (6, 4704992, 420862), (7, 13467584, 2134401)], 'nsol': 60, 'time': 16.9}  elapsed 7730s
+[830/922] {'root': [4, 32, 55, 75], 'children': 11, 'ok': 11, 'fail': 0, 'n7': 2213909, 'root_counts': [(4, 1048576, 84066), (5, 2690112, 154607), (6, 4947424, 435639), (7, 13940448, 2213909)], 'nsol': 60, 'time': 84.2}  elapsed 7754s
+[831/922] {'root': [7, 31, 54, 77], 'children': 4, 'ok': 4, 'fail': 0, 'n7': 2071352, 'root_counts': [(4, 1048576, 83559), (5, 2673888, 147899), (6, 4732768, 418637), (7, 13396384, 2071352)], 'nsol': 60, 'time': 25.2}  elapsed 7755s
+[832/922] {'root': [7, 31, 52, 80], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 7755s
+[833/922] {'root': [7, 31, 52, 81], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 7755s
+[834/922] {'root': [7, 31, 53, 80], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 7755s
+[835/922] {'root': [7, 31, 53, 78], 'children': 11, 'ok': 11, 'fail': 0, 'n7': 2150782, 'root_counts': [(4, 1048576, 82101), (5, 2627232, 145362), (6, 4651584, 419294), (7, 13417408, 2150782)], 'nsol': 60, 'time': 50.7}  elapsed 7777s
+[836/922] {'root': [4, 32, 53, 76], 'children': 16, 'ok': 16, 'fail': 0, 'n7': 2153732, 'root_counts': [(4, 1048576, 82965), (5, 2654880, 144941), (6, 4638112, 417763), (7, 13368416, 2153732)], 'nsol': 60, 'time': 116.4}  elapsed 7796s
+[837/922] {'root': [7, 31, 54, 78], 'children': 9, 'ok': 9, 'fail': 0, 'n7': 2137167, 'root_counts': [(4, 1048576, 83207), (5, 2662624, 147661), (6, 4725152, 423149), (7, 13540768, 2137167)], 'nsol': 60, 'time': 44.3}  elapsed 7798s
+[838/922] {'root': [4, 32, 54, 75], 'children': 20, 'ok': 20, 'fail': 0, 'n7': 2156037, 'root_counts': [(4, 1048576, 83543), (5, 2673376, 151146), (6, 4836672, 424537), (7, 13585184, 2156037)], 'nsol': 60, 'time': 144.3}  elapsed 7810s
+[839/922] {'root': [2, 33, 55, 74], 'children': 4, 'ok': 4, 'fail': 0, 'n7': 2212887, 'root_counts': [(4, 1048576, 83636), (5, 2676352, 158353), (6, 5067296, 440113), (7, 14083616, 2212887)], 'nsol': 60, 'time': 30.9}  elapsed 7829s
+[840/922] {'root': [2, 33, 52, 76], 'children': 5, 'ok': 5, 'fail': 0, 'n7': 2132870, 'root_counts': [(4, 1048576, 82644), (5, 2644608, 143990), (6, 4607680, 405939), (7, 12990048, 2132870)], 'nsol': 60, 'time': 38.4}  elapsed 7849s
+[841/922] {'root': [2, 33, 52, 77], 'children': 3, 'ok': 3, 'fail': 0, 'n7': 2136202, 'root_counts': [(4, 1048576, 82004), (5, 2624128, 140353), (6, 4491296, 406160), (7, 12997120, 2136202)], 'nsol': 60, 'time': 27.3}  elapsed 7857s
+[842/922] {'root': [0, 34, 0, 53], 'children': 6, 'ok': 6, 'fail': 0, 'n7': 2108257, 'root_counts': [(4, 1048576, 82618), (5, 2643776, 152893), (6, 4892576, 420063), (7, 13442016, 2108257)], 'nsol': 60, 'time': 34.2}  elapsed 7891s
+[843/922] {'root': [2, 33, 54, 74], 'children': 28, 'ok': 28, 'fail': 0, 'n7': 2165948, 'root_counts': [(4, 1048576, 83340), (5, 2666880, 154905), (6, 4956960, 426902), (7, 13660864, 2165948)], 'nsol': 60, 'time': 134.1}  elapsed 7911s
+[844/922] {'root': [0, 34, 0, 54], 'children': 5, 'ok': 5, 'fail': 0, 'n7': 2140071, 'root_counts': [(4, 1048576, 83927), (5, 2685664, 161079), (6, 5154528, 439444), (7, 14062208, 2140071)], 'nsol': 60, 'time': 30.7}  elapsed 7922s
+[845/922] {'root': [2, 33, 53, 75], 'children': 33, 'ok': 33, 'fail': 0, 'n7': 2144259, 'root_counts': [(4, 1048576, 82918), (5, 2653376, 148657), (6, 4757024, 416009), (7, 13312288, 2144259)], 'nsol': 60, 'time': 169.5}  elapsed 7925s
+[846/922] {'root': [2, 33, 54, 75], 'children': 32, 'ok': 32, 'fail': 0, 'n7': 2170901, 'root_counts': [(4, 1048576, 83320), (5, 2666240, 152447), (6, 4878304, 425525), (7, 13616800, 2170901)], 'nsol': 60, 'time': 161.4}  elapsed 7958s
+[847/922] {'root': [0, 34, 53, 75], 'children': 22, 'ok': 22, 'fail': 0, 'n7': 2113691, 'root_counts': [(4, 1048576, 82153), (5, 2628896, 148425), (6, 4749600, 412488), (7, 13199616, 2113691)], 'nsol': 60, 'time': 95.4}  elapsed 8020s
+[848/922] {'root': [4, 32, 54, 76], 'children': 48, 'ok': 48, 'fail': 0, 'n7': 2205921, 'root_counts': [(4, 1048576, 83835), (5, 2682720, 148863), (6, 4763616, 427885), (7, 13692320, 2205921)], 'nsol': 60, 'time': 314.1}  elapsed 8023s
+[849/922] {'root': [0, 34, 52, 75], 'children': 26, 'ok': 26, 'fail': 0, 'n7': 2138294, 'root_counts': [(4, 1048576, 81148), (5, 2596736, 145385), (6, 4652320, 407496), (7, 13039872, 2138294)], 'nsol': 60, 'time': 114.5}  elapsed 8026s
+[850/922] {'root': [2, 33, 53, 76], 'children': 33, 'ok': 33, 'fail': 0, 'n7': 2159716, 'root_counts': [(4, 1048576, 82586), (5, 2642752, 146846), (6, 4699072, 415239), (7, 13287648, 2159716)], 'nsol': 60, 'time': 177.6}  elapsed 8026s
+[851/922] {'root': [0, 34, 54, 73], 'children': 18, 'ok': 18, 'fail': 0, 'n7': 2171105, 'root_counts': [(4, 1048576, 83711), (5, 2678752, 159540), (6, 5105280, 435943), (7, 13950176, 2171105)], 'nsol': 60, 'time': 80.0}  elapsed 8038s
+[852/922] {'root': [0, 34, 52, 76], 'children': 5, 'ok': 5, 'fail': 0, 'n7': 2108336, 'root_counts': [(4, 1048576, 81233), (5, 2599456, 143006), (6, 4576192, 401863), (7, 12859616, 2108336)], 'nsol': 60, 'time': 34.4}  elapsed 8058s
+[853/922] {'root': [0, 34, 54, 74], 'children': 14, 'ok': 14, 'fail': 0, 'n7': 2125820, 'root_counts': [(4, 1048576, 83149), (5, 2660768, 154797), (6, 4953504, 425397), (7, 13612704, 2125820)], 'nsol': 60, 'time': 68.5}  elapsed 8089s
+[854/922] {'root': [5, 32, 52, 79], 'children': 14, 'ok': 14, 'fail': 0, 'n7': 2213525, 'root_counts': [(4, 1048576, 81165), (5, 2597280, 140428), (6, 4493696, 413030), (7, 13216960, 2213525)], 'nsol': 60, 'time': 63.9}  elapsed 8102s
+[855/922] {'root': [35, 93, 0, 51], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 8102s
+[856/922] {'root': [35, 93, 1, 51], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 8102s
+[857/922] {'root': [0, 34, 53, 74], 'children': 44, 'ok': 44, 'fail': 0, 'n7': 2144212, 'root_counts': [(4, 1048576, 82201), (5, 2630432, 151078), (6, 4834496, 418447), (7, 13390304, 2144212)], 'nsol': 60, 'time': 183.5}  elapsed 8105s
+[858/922] {'root': [35, 93, 0, 53], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 8105s
+[859/922] {'root': [35, 93, 1, 52], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 8105s
+[860/922] {'root': [35, 93, 53, 74], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 8105s
+[861/922] {'root': [3, 33, 51, 78], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 8105s
+[862/922] {'root': [5, 32, 52, 78], 'children': 22, 'ok': 22, 'fail': 0, 'n7': 2206920, 'root_counts': [(4, 1048576, 81682), (5, 2613824, 140500), (6, 4496000, 413121), (7, 13219872, 2206920)], 'nsol': 60, 'time': 95.3}  elapsed 8121s
+[863/922] {'root': [35, 93, 0, 52], 'children': 4, 'ok': 4, 'fail': 0, 'n7': 2144604, 'root_counts': [(4, 1048576, 81672), (5, 2613504, 146189), (6, 4678048, 409017), (7, 13088544, 2144604)], 'nsol': 60, 'time': 27.6}  elapsed 8129s
+[864/922] {'root': [3, 33, 53, 75], 'children': 3, 'ok': 3, 'fail': 0, 'n7': 2050989, 'root_counts': [(4, 1048576, 82980), (5, 2655360, 146163), (6, 4677216, 407535), (7, 13041120, 2050989)], 'nsol': 60, 'time': 27.7}  elapsed 8133s
+[865/922] {'root': [5, 32, 54, 77], 'children': 8, 'ok': 8, 'fail': 0, 'n7': 2178208, 'root_counts': [(4, 1048576, 83104), (5, 2659328, 146636), (6, 4692352, 421610), (7, 13491520, 2178208)], 'nsol': 60, 'time': 46.6}  elapsed 8135s
+[866/922] {'root': [3, 33, 52, 76], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 2076594, 'root_counts': [(4, 1048576, 82577), (5, 2642464, 141786), (6, 4537152, 399881), (7, 12796192, 2076594)], 'nsol': 60, 'time': 22.8}  elapsed 8152s
+[867/922] {'root': [3, 33, 54, 75], 'children': 6, 'ok': 6, 'fail': 0, 'n7': 2154420, 'root_counts': [(4, 1048576, 83360), (5, 2667520, 150822), (6, 4826304, 421730), (7, 13495360, 2154420)], 'nsol': 60, 'time': 44.4}  elapsed 8166s
+[868/922] {'root': [3, 33, 54, 76], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 2134402, 'root_counts': [(4, 1048576, 83504), (5, 2672128, 147899), (6, 4732768, 418367), (7, 13387744, 2134402)], 'nsol': 60, 'time': 22.6}  elapsed 8188s
+[869/922] {'root': [5, 32, 53, 77], 'children': 38, 'ok': 38, 'fail': 0, 'n7': 2196294, 'root_counts': [(4, 1048576, 82473), (5, 2639136, 143739), (6, 4599648, 417605), (7, 13363360, 2196294)], 'nsol': 60, 'time': 169.2}  elapsed 8195s
+[870/922] {'root': [5, 32, 53, 78], 'children': 35, 'ok': 35, 'fail': 0, 'n7': 2226411, 'root_counts': [(4, 1048576, 82349), (5, 2635168, 143864), (6, 4603648, 419695), (7, 13430240, 2226411)], 'nsol': 60, 'time': 144.0}  elapsed 8202s
+[871/922] {'root': [6, 32, 53, 77], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 2062454, 'root_counts': [(4, 1048576, 82457), (5, 2638624, 142473), (6, 4559136, 407157), (7, 13029024, 2062454)], 'nsol': 60, 'time': 18.3}  elapsed 8207s
+[872/922] {'root': [6, 32, 52, 78], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 2120536, 'root_counts': [(4, 1048576, 81436), (5, 2605952, 139960), (6, 4478720, 406987), (7, 13023584, 2120536)], 'nsol': 60, 'time': 19.0}  elapsed 8214s
+[873/922] {'root': [6, 32, 51, 80], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 8214s
+[874/922] {'root': [6, 32, 51, 81], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 8214s
+[875/922] {'root': [3, 33, 52, 78], 'children': 10, 'ok': 10, 'fail': 0, 'n7': 2158630, 'root_counts': [(4, 1048576, 81089), (5, 2594848, 139125), (6, 4452000, 406013), (7, 12992416, 2158630)], 'nsol': 60, 'time': 67.0}  elapsed 8219s
+[876/922] {'root': [6, 32, 52, 80], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2215051, 'root_counts': [(4, 1048576, 81046), (5, 2593472, 140532), (6, 4497024, 415139), (7, 13284448, 2215051)], 'nsol': 60, 'time': 15.9}  elapsed 8230s
+[877/922] {'root': [6, 32, 53, 79], 'children': 5, 'ok': 5, 'fail': 0, 'n7': 2202530, 'root_counts': [(4, 1048576, 81779), (5, 2616928, 143224), (6, 4583168, 417415), (7, 13357280, 2202530)], 'nsol': 60, 'time': 32.0}  elapsed 8239s
+[878/922] {'root': [1, 34, 51, 76], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 2095047, 'root_counts': [(4, 1048576, 80761), (5, 2584352, 139117), (6, 4451744, 394083), (7, 12610656, 2095047)], 'nsol': 60, 'time': 21.3}  elapsed 8240s
+[879/922] {'root': [3, 33, 53, 77], 'children': 16, 'ok': 16, 'fail': 0, 'n7': 2162423, 'root_counts': [(4, 1048576, 82341), (5, 2634912, 143250), (6, 4584000, 414831), (7, 13274592, 2162423)], 'nsol': 60, 'time': 115.9}  elapsed 8251s
+[880/922] {'root': [1, 34, 54, 74], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2120131, 'root_counts': [(4, 1048576, 83112), (5, 2659584, 153521), (6, 4912672, 421158), (7, 13477056, 2120131)], 'nsol': 60, 'time': 15.4}  elapsed 8267s
+[881/922] {'root': [1, 34, 53, 74], 'children': 4, 'ok': 4, 'fail': 0, 'n7': 2059430, 'root_counts': [(4, 1048576, 82271), (5, 2632672, 149357), (6, 4779424, 408648), (7, 13076736, 2059430)], 'nsol': 60, 'time': 28.2}  elapsed 8267s
+[882/922] {'root': [1, 34, 51, 77], 'children': 8, 'ok': 8, 'fail': 0, 'n7': 2133859, 'root_counts': [(4, 1048576, 80627), (5, 2580064, 137239), (6, 4391648, 394089), (7, 12610848, 2133859)], 'nsol': 60, 'time': 53.8}  elapsed 8284s
+[883/922] {'root': [6, 32, 52, 79], 'children': 23, 'ok': 23, 'fail': 0, 'n7': 2230489, 'root_counts': [(4, 1048576, 80879), (5, 2588128, 140521), (6, 4496672, 414074), (7, 13250368, 2230489)], 'nsol': 60, 'time': 97.9}  elapsed 8300s
+[884/922] {'root': [1, 34, 52, 77], 'children': 6, 'ok': 6, 'fail': 0, 'n7': 2088466, 'root_counts': [(4, 1048576, 81386), (5, 2604352, 139332), (6, 4458624, 398297), (7, 12745504, 2088466)], 'nsol': 60, 'time': 41.7}  elapsed 8309s
+[885/922] {'root': [1, 34, 53, 76], 'children': 5, 'ok': 5, 'fail': 0, 'n7': 2069501, 'root_counts': [(4, 1048576, 82006), (5, 2624192, 145111), (6, 4643552, 405910), (7, 12989120, 2069501)], 'nsol': 60, 'time': 33.1}  elapsed 8317s
+[886/922] {'root': [4, 33, 53, 76], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 2084504, 'root_counts': [(4, 1048576, 82383), (5, 2636256, 143386), (6, 4588352, 405017), (7, 12960544, 2084504)], 'nsol': 60, 'time': 22.8}  elapsed 8340s
+[887/922] {'root': [4, 33, 52, 77], 'children': 11, 'ok': 11, 'fail': 0, 'n7': 2131333, 'root_counts': [(4, 1048576, 81522), (5, 2608704, 137881), (6, 4412192, 403374), (7, 12907968, 2131333)], 'nsol': 60, 'time': 67.8}  elapsed 8377s
+[888/922] {'root': [4, 33, 51, 79], 'children': 19, 'ok': 19, 'fail': 0, 'n7': 2166589, 'root_counts': [(4, 1048576, 80601), (5, 2579232, 135334), (6, 4330688, 399725), (7, 12791200, 2166589)], 'nsol': 60, 'time': 78.5}  elapsed 8378s
+[889/922] {'root': [3, 33, 52, 77], 'children': 39, 'ok': 39, 'fail': 0, 'n7': 2183211, 'root_counts': [(4, 1048576, 81796), (5, 2617472, 139647), (6, 4468704, 408519), (7, 13072608, 2183211)], 'nsol': 60, 'time': 263.3}  elapsed 8396s
+[890/922] {'root': [1, 34, 53, 75], 'children': 37, 'ok': 37, 'fail': 0, 'n7': 2130524, 'root_counts': [(4, 1048576, 82189), (5, 2630048, 147603), (6, 4723296, 409507), (7, 13104224, 2130524)], 'nsol': 60, 'time': 169.5}  elapsed 8410s
+[891/922] {'root': [35, 92, 0, 50], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 8410s
+[892/922] {'root': [4, 33, 51, 80], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2090694, 'root_counts': [(4, 1048576, 80276), (5, 2568832, 135111), (6, 4323552, 394497), (7, 12623904, 2090694)], 'nsol': 60, 'time': 14.5}  elapsed 8411s
+[893/922] {'root': [4, 33, 52, 79], 'children': 7, 'ok': 7, 'fail': 0, 'n7': 2162690, 'root_counts': [(4, 1048576, 81301), (5, 2601632, 138370), (6, 4427840, 405748), (7, 12983936, 2162690)], 'nsol': 60, 'time': 40.2}  elapsed 8418s
+[894/922] {'root': [35, 92, 50, 77], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 8418s
+[895/922] {'root': [4, 33, 53, 77], 'children': 18, 'ok': 18, 'fail': 0, 'n7': 2179463, 'root_counts': [(4, 1048576, 82318), (5, 2634176, 142039), (6, 4545248, 413294), (7, 13225408, 2179463)], 'nsol': 60, 'time': 111.2}  elapsed 8451s
+[896/922] {'root': [35, 92, 0, 52], 'children': 11, 'ok': 11, 'fail': 0, 'n7': 2100424, 'root_counts': [(4, 1048576, 80587), (5, 2578784, 143954), (6, 4606528, 401928), (7, 12861696, 2100424)], 'nsol': 60, 'time': 54.3}  elapsed 8465s
+[897/922] {'root': [35, 92, 52, 76], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2077056, 'root_counts': [(4, 1048576, 80109), (5, 2563488, 140146), (6, 4484672, 392962), (7, 12574784, 2077056)], 'nsol': 60, 'time': 14.8}  elapsed 8466s
+[898/922] {'root': [35, 92, 51, 76], 'children': 12, 'ok': 12, 'fail': 0, 'n7': 2149839, 'root_counts': [(4, 1048576, 79669), (5, 2549408, 138277), (6, 4424864, 393201), (7, 12582432, 2149839)], 'nsol': 60, 'time': 61.6}  elapsed 8480s
+[899/922] {'root': [2, 34, 51, 79], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 8480s
+[900/922] {'root': [35, 92, 0, 51], 'children': 15, 'ok': 15, 'fail': 0, 'n7': 2134017, 'root_counts': [(4, 1048576, 79544), (5, 2545408, 138976), (6, 4447232, 394816), (7, 12634112, 2134017)], 'nsol': 60, 'time': 77.3}  elapsed 8487s
+[901/922] {'root': [2, 34, 53, 75], 'children': 2, 'ok': 2, 'fail': 0, 'n7': 2063820, 'root_counts': [(4, 1048576, 82321), (5, 2634272, 145307), (6, 4649824, 402408), (7, 12877056, 2063820)], 'nsol': 60, 'time': 20.6}  elapsed 8501s
+[902/922] {'root': [1, 34, 52, 76], 'children': 55, 'ok': 55, 'fail': 0, 'n7': 2153756, 'root_counts': [(4, 1048576, 81350), (5, 2603200, 141778), (6, 4536896, 403688), (7, 12918016, 2153756)], 'nsol': 60, 'time': 265.9}  elapsed 8533s
+[903/922] {'root': [2, 34, 52, 78], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 8533s
+[904/922] {'root': [2, 34, 53, 76], 'children': 6, 'ok': 6, 'fail': 0, 'n7': 2103269, 'root_counts': [(4, 1048576, 82270), (5, 2632640, 143492), (6, 4591744, 406243), (7, 12999776, 2103269)], 'nsol': 60, 'time': 39.8}  elapsed 8540s
+[905/922] {'root': [5, 33, 52, 78], 'children': 11, 'ok': 11, 'fail': 0, 'n7': 2153557, 'root_counts': [(4, 1048576, 81496), (5, 2607872, 137550), (6, 4401600, 403256), (7, 12904192, 2153557)], 'nsol': 60, 'time': 51.9}  elapsed 8592s
+[906/922] {'root': [2, 34, 51, 77], 'children': 22, 'ok': 22, 'fail': 0, 'n7': 2132010, 'root_counts': [(4, 1048576, 80876), (5, 2588032, 136432), (6, 4365824, 392715), (7, 12566880, 2132010)], 'nsol': 60, 'time': 139.8}  elapsed 8605s
+[907/922] {'root': [5, 33, 50, 80], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 8605s
+[908/922] {'root': [2, 34, 52, 76], 'children': 22, 'ok': 22, 'fail': 0, 'n7': 2113459, 'root_counts': [(4, 1048576, 81677), (5, 2613664, 139875), (6, 4476000, 399350), (7, 12779200, 2113459)], 'nsol': 60, 'time': 122.9}  elapsed 8610s
+[909/922] {'root': [5, 33, 51, 81], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 8610s
+[910/922] {'root': [5, 33, 52, 80], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2143214, 'root_counts': [(4, 1048576, 81294), (5, 2601408, 137951), (6, 4414432, 403248), (7, 12903936, 2143214)], 'nsol': 60, 'time': 14.3}  elapsed 8624s
+[911/922] {'root': [0, 35, 0, 50], 'children': 0, 'skipped': True, 'time': 0.0}  elapsed 8624s
+[912/922] {'root': [5, 33, 51, 79], 'children': 22, 'ok': 22, 'fail': 0, 'n7': 2160161, 'root_counts': [(4, 1048576, 80896), (5, 2588672, 134428), (6, 4301696, 398796), (7, 12761472, 2160161)], 'nsol': 60, 'time': 93.3}  elapsed 8626s
+[913/922] {'root': [4, 33, 52, 78], 'children': 57, 'ok': 57, 'fail': 0, 'n7': 2211013, 'root_counts': [(4, 1048576, 81439), (5, 2606048, 138316), (6, 4426112, 407721), (7, 13047072, 2211013)], 'nsol': 60, 'time': 251.5}  elapsed 8628s
+[914/922] {'root': [2, 34, 51, 78], 'children': 27, 'ok': 27, 'fail': 0, 'n7': 2135664, 'root_counts': [(4, 1048576, 80468), (5, 2574976, 133434), (6, 4269888, 393200), (7, 12582400, 2135664)], 'nsol': 60, 'time': 185.2}  elapsed 8651s
+[915/922] {'root': [0, 35, 0, 52], 'children': 5, 'ok': 5, 'fail': 0, 'n7': 2050712, 'root_counts': [(4, 1048576, 80804), (5, 2585728, 143162), (6, 4581184, 396210), (7, 12678720, 2050712)], 'nsol': 60, 'time': 31.3}  elapsed 8657s
+[916/922] {'root': [0, 35, 0, 51], 'children': 6, 'ok': 6, 'fail': 0, 'n7': 2099189, 'root_counts': [(4, 1048576, 79565), (5, 2546080, 138227), (6, 4423264, 390871), (7, 12507872, 2099189)], 'nsol': 60, 'time': 35.8}  elapsed 8660s
+[917/922] {'root': [0, 35, 50, 78], 'children': 1, 'ok': 1, 'fail': 0, 'n7': 2053813, 'root_counts': [(4, 1048576, 79566), (5, 2546112, 132052), (6, 4225664, 378882), (7, 12124224, 2053813)], 'nsol': 60, 'time': 16.6}  elapsed 8674s
+[918/922] {'root': [5, 33, 51, 80], 'children': 22, 'ok': 22, 'fail': 0, 'n7': 2183198, 'root_counts': [(4, 1048576, 80425), (5, 2573600, 135248), (6, 4327936, 400091), (7, 12802912, 2183198)], 'nsol': 60, 'time': 89.5}  elapsed 8694s
+[919/922] {'root': [5, 33, 52, 79], 'children': 30, 'ok': 30, 'fail': 0, 'n7': 2207276, 'root_counts': [(4, 1048576, 81459), (5, 2606688, 138445), (6, 4430240, 407647), (7, 13044704, 2207276)], 'nsol': 60, 'time': 117.4}  elapsed 8710s
+[920/922] {'root': [0, 35, 52, 75], 'children': 19, 'ok': 19, 'fail': 0, 'n7': 2100716, 'root_counts': [(4, 1048576, 80152), (5, 2564864, 141465), (6, 4526880, 396868), (7, 12699776, 2100716)], 'nsol': 60, 'time': 68.7}  elapsed 8729s
+[921/922] {'root': [0, 35, 51, 77], 'children': 22, 'ok': 22, 'fail': 0, 'n7': 2117839, 'root_counts': [(4, 1048576, 79606), (5, 2547392, 135231), (6, 4327392, 388325), (7, 12426400, 2117839)], 'nsol': 60, 'time': 85.3}  elapsed 8736s
+[922/922] {'root': [0, 35, 51, 76], 'children': 44, 'ok': 44, 'fail': 0, 'n7': 2140596, 'root_counts': [(4, 1048576, 79099), (5, 2531168, 137039), (6, 4385248, 392433), (7, 12557856, 2140596)], 'nsol': 60, 'time': 140.5}  elapsed 8769s
+done

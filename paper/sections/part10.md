@@ -1,0 +1,18 @@
+# 10. Numerical diagnostics of degenerate parameters
+
+This section reports numerical observations that are **not part of the proof**; the certificate needs neither their correctness nor any statement about the structure of $\mathcal U(H)$. The earlier version described coalescing unbiased vectors on the ray $\arg\alpha=\pi/6$ and at $\alpha=0$ as coinciding "exactly" and as not isolated; the referee pointed out that nearby clustering and small singular values do not distinguish an isolated multiple root from a positive-dimensional component. The observations below are therefore stated as diagnostics, computed in $60$-digit arithmetic (`exact/degeneracy_diagnostics.py`): solutions were located by multistart Newton iteration in binary64 ($40{,}000$ starts), refined by damped Gauss–Newton iteration in `mpmath` until the residual of all six equations was below $10^{-40}$, and de-duplicated at distance $10^{-18}$; for each refined solution the singular values of the $6\times5$ real Jacobian were computed. A singular value below $10^{-20}$ is reported as "numerically singular".
+
+| parameter $\alpha$ | distinct solutions | numerically singular | smallest singular value (others) | minimal distance | clusters (linkage $\le10\delta$) |
+|---|---:|---:|---:|---:|---|
+| $0.7+0.1i$ (generic) | 60 | 0 | $0.84$ | $0.33$ | — |
+| $1$ (boundary, Diţă) | 120 | 0 | $1.11$ | $0.71$ | — |
+| ray, $\delta=10^{-2}$ | 60 | 0 | $1.9\cdot10^{-2}$ | $7.5\cdot10^{-3}$ | two of size 4 |
+| ray, $\delta=10^{-4}$ | 60 | 0 | $1.9\cdot10^{-4}$ | $7.5\cdot10^{-5}$ | two of size 4 |
+| $\tfrac12+\tfrac{i}{2\sqrt3}$ (on the ray) | 54 | 2 | $1.25$ | $0.67$ | — |
+| near $0$, $\delta=10^{-2}$ | 60 | 0 | $9.0\cdot10^{-3}$ | $3.45\cdot10^{-3}$ | six of size 4 |
+| near $0$, $\delta=10^{-4}$ | 60 | 0 | $9.0\cdot10^{-5}$ | $3.45\cdot10^{-5}$ | six of size 4 |
+| $0$ | 42 | 6 | $3.0$ | $1.32$ | — |
+
+Table 4. Unbiased vectors at special parameters. Distances are $\max_k|e^{i\theta_k}-e^{i\phi_k}|$; clusters are single-linkage clusters at that distance. "Ray, $\delta$" is $\alpha=3^{-1/2}e^{i(\pi/6-\delta)}$ and "near $0$, $\delta$" is $\alpha=\delta e^{i\pi/12}$. The exact point of the ray is $\alpha=\tfrac12+\tfrac{i}{2\sqrt3}=3^{-1/2}e^{i\pi/6}$ (the earlier version gave the decimal approximation $0.5+0.2887i$).
+
+The pattern is consistent across the table. Approaching the ray, two groups of four solutions contract linearly in $\delta$, and the smallest singular value of the Jacobian at their members decreases linearly as well; at the exact ray point $54$ distinct solutions are found, $52$ with well-conditioned Jacobians and $2$ at which the Jacobian is numerically singular, which is what one expects if each group of four converges to a single singular solution ($52+2\cdot4=60$). Approaching $\alpha=0$, six groups of four contract in the same way, and at $\alpha=0$ there are $42=36+6$ distinct solutions, $6$ of them numerically singular. At the smallest separations tried ($\delta=10^{-6}$) the binary64 multistart no longer resolves all members of the groups (it finds $56$ and $50$ solutions respectively), which illustrates the difficulty faced by a certificate that isolates simple roots: at any fixed resolution there are parameters near these loci at which members of a group are closer together than the resolution, and a simple-root isolation test (such as the Krawczyk test used here, applied to single boxes) cannot succeed on a box containing two of them. The present certificate avoids the question by enclosing whole groups in single hulls. Whether the singular solutions are isolated multiple roots or points of positive-dimensional components is not decided by these computations and is not needed.

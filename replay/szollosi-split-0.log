@@ -1,0 +1,4 @@
+07:18:34 table sha256 075160008692331ecec57ebd851514642c5800b39d9bcad11c668c01074c5969
+07:18:41 table: 131072 entries, 262144 components checked with mpmath.iv, 0 failures [8s]
+07:18:56 box 9 [127, 384, 254, 257]: split to level 10, 0 kept sub-boxes, coverage True
+07:18:56 RESULT 9 [127, 384, 254, 257] ok

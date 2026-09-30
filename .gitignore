@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.dylib
+!replay/compiled/libmubk.dylib
+*.so
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.synctex.gz
+.DS_Store
+.replay-ci/

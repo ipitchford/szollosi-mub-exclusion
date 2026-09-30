@@ -1,0 +1,33 @@
+{
+ "1_tau_transpose": true,
+ "2_kappa_conjugate": true,
+ "3_rho": true,
+ "4_omega": true,
+ "5_varsigma": true,
+ "6_sigma1_sign": 1,
+ "6_sigma2_sign": 1,
+ "constraint_sigma1": "C",
+ "constraint_sigma2": "C",
+ "constraint_rho": "conj C",
+ "constraint_tau": "conj C",
+ "constraint_kappa": "conj C",
+ "constraint_omega": "omega C",
+ "constraint_varsigma": "C",
+ "alpha_transformations": {
+  "sigma1": "alpha",
+  "sigma2": "alpha",
+  "rho": "conj alpha",
+  "tau": "conj alpha",
+  "kappa": "conj alpha",
+  "omega": "omega alpha",
+  "varsigma": "u+v+w (= -alpha on Sigma)"
+ },
+ "kappa_tau_reverses_first_triple": true,
+ "kappa_rho_reverses_both": true,
+ "HHstar_diagonal_6": true,
+ "HHstar_offdiagonal_entries": [
+  "0",
+  "C",
+  "conjC"
+ ]
+}
